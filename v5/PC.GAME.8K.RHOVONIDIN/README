@@ -6,13 +6,11 @@ Content for Unreal Engine 5.0
 Reference images uploaded from the Nexus
 
 # Backstory
-
-Play as Lance Rhovonidin, join Lieutenant Sheeran and The Remnant, as they wade into the disputed territories, toward the walled metropolis base, to retake the crown from general Agrippa to crush his Shard rebellion.
-
-# Backstory
 Play as Lance Rhovonidin, join The Remnant and wade into the disputed territories, onward toward the walled Metropolis Base to retake the crown from General Agrippa to crush The Shard rebellion.
-Lance's parents are the founders of Kaizen warfare: Lance's mother pioneered Zen fighting, which focuses on only lethal and effective movement; and his father developed the art of 1-hit instant kil theoretically allowing a soldier to vanquish unlimited number of opponents on the battlefield.
-#* Genre
+
+Lance is the founder of Kaizen warfare: Lance's mother pioneered Zen fighting, which focuses on lethal and effective movement; and his father developed the art of 1-hit-instant-kill, allowing in to vanquish an unlimited number of opponents.
+
+## Genre
 Open World | Adventure | Action | Combat | Early Access | Hack and Slash | Indie | MMORPG
 Mulitplayer | RPG
 # Platforms
@@ -24,7 +22,7 @@ Android Platforms (Smartphones, Tablets)
 PLAYSTATION
 NINTENDO
 
-#* Platforms (Mobile )
+## Platforms (Mobile )
 Apple Arcade
 Google Stadia
 Amazon LUNA
@@ -44,41 +42,42 @@ GOG
 # Supported Languages [Audio]
 English
 
-#* Supported Languages [Captioned]
+## Supported Languages [Captioned]
 English
 French
 Italian
 German
 Spanish
 # Notes
-- [ 1 Enable skip cinematics
-- ( ] Enable skip sidestorles (subplots eg Lt. Sheeran) and sidequests (eg the cabin in the woods), for faster speedruns, however player misses these opportunities to level-up their abilitles
+- [ ] Enable skip cinematics
+- [ ] Enable skip sidestorles (subplots eg Lt. Sheeran) and sidequests (eg the cabin in the woods), for faster speedruns, however player misses these opportunities to level-up their abilitles
 - [ ] Seperate animations by stride for smoother frame LERP; or segment continuous frame sequence using sync markers .
 - [ ] Develop (gameplay engine) in C++ then expose to Blueprints- for Animation, Level, Character, etc
 - [ ] Chain animation sequences, for smoother transitions
 - [ ] Telegraph battle cutscene entry points with emissive textures for gestures, weapons, and scene props, so Lance stays focused on the Xi meter
 - [ ] Game sounds play at full Initially with gradual decay to minimize listening fatigue
 - [ ] Environment sounds play initially louder upon new encounters (eg Fields of Grass a&gt; country road )
-- [ 1 Allow idle recuperation
-- [ J Wardrobes grant Rhovonidin specific abilities
-- [ J Enable wardobe ( enrobe ) animations and sounds and SFX
+- [ ] Allow idle recuperation
+- [ ] Wardrobes grant Rhovonidin specific abilities
+- [ ] Enable wardobe ( enrobe ) animations and sounds and SFX
 - [ ] Player chooses spawn terrain
-- [ J New animations employed by the player are awarded as unlocks for the character (for later reference); tutorials are
+- [ ] New animations employed by the player are awarded as unlocks for the character (for later reference); tutorials are
 also available during the game for appropriate context-sensitive training
 - [ ] Terrains have their own themes
 - [ ] Incorporate Summon (timer-countdown) Flag Poles, which have the ability to activate summon or can be disbled (via adversary players)
 - [ ] A player's victory growl induces shockwaves into the floor which can inflict further damage you fail to retreat, in awe .
 - [ ] Lance can replay prior map levels to unlock all animations ( for online play )
-- [ J JUMP, DUCK, DODGE, CLIMB, SWIM, SLIDE (etc non-standard movements, A. I. processed automatic without keybindings or player interaction)
+- [ ] JUMP, DUCK, DODGE, CLIMB, SWIM, SLIDE (etc non-standard movements, A. I. processed automatic without keybindings or player interaction)
 - [ ] Lance can set waypoints and can free-roam and REACH the entire map
-- ( 1 Utilize INSERTS and INTERCUTS for a cinematic experience
+- [ ] Utilize INSERTS and INTERCUTS for a cinematic experience
 - [ ] Stealthy Sentinels can advance an attack from across the battle field 
-- [ ] Capture card integration for record gameplay [ ] Player only adjusts to camera-facing orientation when required for movement
-- [ 1 Autosave cross-platform progress
-- [ J (Optional) cross-platform play
-- [ J KUD &amp; Health meters animate and level-up upon level start
+- [ ] Capture card integration for record gameplay 
+- [ ] Player only adjusts to camera-facing orientation when required for movement
+- [ ] Autosave cross-platform progress
+- [ ] (Optional) cross-platform play
+- [ ] KUD &amp; Health meters animate and level-up upon level start
 - [ ] Style-ized gritty minimally acrobatic In-game combat: (Captain America: Winter Soldier, wick, 300 the Movie)
-- [J Progressive gameplay is ultimately not required. Players may reengage respawned enemies desired area of the map 
+- [ ] Progressive gameplay is ultimately not required. Players may reengage respawned enemies desired area of the map 
 - [ ] Employ opening cinematics highlighting a region and its threats as well as Fade In Tit
 The UltraDam) whenever Lance enters a Blome; as well a closing cinematics upon exit.
 - [ ] Battle Motifs can be overlapped. All weapons are catchable/tossable. Lance can summon
@@ -90,17 +89,15 @@ Motifs (to fight against him) (See below)
 Shinoba
 - [ ] Lance must escape from a trick-knot
 - [ ] People enjoy the emotional expression games give, through gameplay. Focus on giving Individual emotional expression to players
-- [ J Specially placed PCs/Actors have concurrent embedded story goals, which you can participate (eg a drug smuggler's goal to
+- [ ] Specially placed PCs/Actors have concurrent embedded story goals, which you can participate (eg a drug smuggler's goal to
 use the ongoing conflict to build his Everlast empire; construct a vacation home; build a beach shelter ) and
 progress it to its completion or free-roam the entire map in a way that interests you
 - [ ] Apply experimental textures to all primary shapes (circle, sphere, plane, square, etc) to quickly find artifacts and other rendering issues
-- [ J Star Wars Biomes (REFERENCE) 
+- [ ] Star Wars Biomes (REFERENCE) 
 - [ ] research velociraptor (sounds) Jurassic Park (Bar-Hades) (REFERENCE) Embed a game trailer into the start menu (main landing page) Lance begins the fourney feeble and weak. but progressively grows stronger and formadaose
 - [ ] Assassin's Creed (REFERENCE) Character Animation
 - [ ] Lance discovers stray twin pups! Being more fond of animals then people, he names her Tulip &
-KOZ.
-He takes them in and trains them as his own into flerce and loyal combat dogs - (The Sabre)Tulip & Roz
-Rhovonidin
+Roz. He takes them in and trains them as his own into flerce and loyal combat dogs - (The Sabre) Tulip & Roz Rhovonidin
 - [ ] Chilean National Parks (REFERENCE) Geography
 - [ ] Lance uses glue-techniques (eg block, duck, dash, shove) until experienced enough to level-up (technique gained through gameplay hours);
 situational combat is the way he unlocks experience
@@ -113,7 +110,7 @@ situational combat is the way he unlocks experience
 and its outcomes are left up to the player (eg. the Active Threat meter for Dr. Meade)
 - [ ] Perhaps add an accessible content pane or drawer to the bottom of the screen, Instead of an Inventory Menu or Pause Screen
 - [ ] Lance has a shield to deflect phasor rounds, or perhaps an EMP mid story disables these weapons in certain areas of the map
-(J Characters remove their headgear for cutscenes and other drama-based actions
+[ ] Characters remove their headgear for cutscenes and other drama-based actions
 - [ ] Lance equips appropriate items from his environment, in lieu of a designated inventory assignment
 - [ ] There are no combat-defense keybindings in the game, which allow Lance to defend himself:
 Even well-timed offensive manuevers would cause Lance to receive damage, resulting in a race of the last to hit bottom
@@ -121,36 +118,36 @@ Thus It was decided this style of play would be detrimental to overall gameplay,
 - [ ] Allow Lance to focus on well-timed attacks (X1 meter) while only being punished for poor tiaing.
 - [ ] Automatle Combat Mode ( Toggle/Situational )
 - [ ] oTOY Octane Render - Meshlets SSD Streaming (Le Its Nanite for Octane GPU Rendering)
-[ ] SOUND SYNTHESIS TOOLS Most sound waves display periodic harmonic constituents across its spectrum, which can be replicated using software.
+- [ ] SOUND SYNTHESIS TOOLS Most sound waves display periodic harmonic constituents across its spectrum, which can be replicated using software.
 The correct space-time placement of these pectral components is a keystone for lIfe-llke reproduction.
 
 Hennethica Theme - Inexpressible by Ben Botkin, Berlin Con SordIno Strings - Orchestraltools.com
 ' Bar-Hades Thame - Miraeth by Alex Lamy, Berlin Con Sordino Strings - Orchestraltools.com ] Unnamed Theme - 00:22:00 orchestraltools, Berlin: A Capitol Announcement - youtube
-- [ J Outsource bug & vulnerability testing
+- [ ] Outsource bug & vulnerability testing
 - [ ] The Shard arrows are rugged and massive, with the thickness of a broom handle or fighting bo
-* t I Microsoft Project Acoustics UES plugin requires an Azure rebake only when there is a mesh material or mesh material location change
+- [ ] Microsoft Project Acoustics UES plugin requires an Azure rebake only when there is a mesh material or mesh material location change
 - [ ] Fully Integrate cutscenes so they can play out exactly where the character is standing, when he/she is not engaged in a preclusive action, such as combat, and is idle.
-* J Put editable values Into a data table (data structure), for easy editing Instead of searching blueprints for these static values
-] Good story design should open more story-telling opportunity, as opposed to rehashing arenas of limited scope (Star Trek vs Star Wars )
-( J Download ansd Intall NVIDIA Relfex plugin for UnrealEngine ( Syncs CPU GPU and Monitor to Reduce
+- [ ] Put editable values Into a data table (data structure), for easy editing Instead of searching blueprints for these static values
+- [ ] Good story design should open more story-telling opportunity, as opposed to rehashing arenas of limited scope (Star Trek vs Star Wars )
+- [ ] Download ansd Intall NVIDIA Relfex plugin for UnrealEngine ( Syncs CPU GPU and Monitor to Reduce
 Latency and boost frame rates )
 - [ ] Shard arrow trajectorles can arc, bend, and curve
-- ( 1 Bar-Nades fire jets generate light, heat waves, smoke, chromatic aberration, sparks, cinder, ash, sound, and pressure (shockwaves)
-- [ J Bar-Hades fire quick elongated jetstream whose endpoint is all- consuming
+- [ ] Bar-Nades fire jets generate light, heat waves, smoke, chromatic aberration, sparks, cinder, ash, sound, and pressure (shockwaves)
+- [ ] Bar-Hades fire quick elongated jetstream whose endpoint is all- consuming
 - [ ] Use a state-machine to programmicly orchestrate the soundtrack's dynamics and chord progressions
-- [ J Synchronize minor sounds 8 effects with visual cues for deeper immersion
+- [ ] Synchronize minor sounds 8 effects with visual cues for deeper immersion
 - [ ] Attempting to upload a character Into Mixamo automatically generates an IK rig
-- [ J During battle, steiking down a youngling, instead of deflecting or kicking them away, brings the ire of its stronger kin (eg "Papal", "Dare you to strike down a youngling boy?!* ) ( ] The abilities the player unlocks, with characters other than lance
+- [ ] During battle, steiking down a youngling, instead of deflecting or kicking them away, brings the ire of its stronger kin (eg "Papal", "Dare you to strike down a youngling boy?!* ) [ ] The abilities the player unlocks, with characters other than lance
 - [ ] Chi-Meter not visible in (Advanced) Campaign Mode, by default
 - [ ] Quick Prototype the Battle Scheduler[s] in JavaScript, for later performance translation down to assembler
 - [ ] The Rhovonidin screenplay should serve as a verified optimized, walkthrough
-- [ J Each biome has atleast one breathtaking vlew, giving Lance an overvlew of the land, along with The Walled Metropolis City, an appropriate distance away
-* [ ] Keep combat animations faithful to typical human movements (eg no jerky animations of Agrippa hurling fifteen spears, while only three feet off the ground!)
+- [ ] Each biome has atleast one breathtaking vlew, giving Lance an overvlew of the land, along with The Walled Metropolis City, an appropriate distance away
+- [ ] Keep combat animations faithful to typical human movements (eg no jerky animations of Agrippa hurling fifteen spears, while only three feet off the ground!)
 - [ ] During congested live-action combat, bullet-time engages
 - [ ] Include an onscreen Combo counter to earn bonus XP
-- [ J vE Blueprints Sequence node, reduce trace clutter
+- [ ] vE Blueprints Sequence node, reduce trace clutter
 - [ ] VE Blueprints local vars, reduce trace clutter
-- [ J VE Blueprints collapsed graphs, reduce trace clutter
+- [ ] VE Blueprints collapsed graphs, reduce trace clutter
 - [ ] Ship BOSS engine as a UES plug-in
 [ ] work in 8K textures, sprites, particles, and brushes. You can always down-scale to the resolution you need
 - I 1 Distill a VFX reference library, separate from your current project
@@ -158,7 +155,7 @@ Latency and boost frame rates )
 - [ ] IWU (Include What You Use) helps reduce compile-time of UE projects in Visual Studio 
 - [ ] Use C+ Modules Instead of C++ Header files for faster compilation times
 - [ ] Use C+ smart pointers for automatic garbage collection (drawbacks: Performance, thread safety)
-- [ J Build Plugins which allow us to design, build, and debug the game, in-editor [ J Attach multiple cameras to the player, which can be toggled ON ad OFF, and animated during combat sequences
+- [ ] Build Plugins which allow us to design, build, and debug the game, in-editor [ ] Attach multiple cameras to the player, which can be toggled ON ad OFF, and animated during combat sequences
 - [ ] Map Size: 10 MPH Max Velocity * 2 HRS Coast-to-Coast Max Allowance a 20 SQ MI; or 1 SQ MI per
 - Blome
 - [ ] IDE PROPOSAL: Design a new stackable blueprints & AI Behavior Trees, tree-vlew, along with enable/disable checkmark commands -
@@ -167,7 +164,7 @@ similar to Nlagra, in an editor which divides dual details panels.
 - [ ] Use a spline tool for procedural water tools and terrain generation;
 - disk, sphere, square, cube, ray or conic... - with greatest density and detail at the origin 
 - [ ] Can UE5 > world partition > minimap serve as the in-game map ??
-- [ J Use appropriate onscreen labels, during gameplay, for important fleld bosses and artifacts
+- [ ] Use appropriate onscreen labels, during gameplay, for important fleld bosses and artifacts
 - [ ] Include a Practice Mode to spar against various NPCs, and varying quantities
 - [ ] Add an Undo Stack window to the editor, with thumbnails/screenshots of previous editor
 configurations
@@ -179,7 +176,7 @@ as 1f a procedural cut and paste of a progressive larger batch of images
 - [ ] Develop 3D spline tools, movement IDEs, and inference tools, and plugins for smooth character moment and animations (IK Rig Forward/Backward Solver(s]), in lieu of mocap suits; and hair / fur directionality.
 - [ ] Using Forward IK Solver + Backward IK Solver can be used to verify poses, match, and find pull-vecto bugs
 - [ ] Perhaps integrate the inventory system into a chiron, at the bottom of the screen
-- [ I Ensure all combat animations are seamless and loopable
+- [ ] Ensure all combat animations are seamless and loopable
 - [ ] Use directional landmarks, paths, districts, crisp border lines, and hubs, for more intuitive cognitive maps
 - [ ] RESEARCH: Animating with Instanced static meshes
 - [ ] with NPCs, employ Primes: NPCs with special appearances, or abilities (eg A-Holes w/ IKs, Pink Draz-Ghouls which try to hump youl, etc)
@@ -192,7 +189,7 @@ Lance's offensive capability (eg breaking his bones), only then drawing their sw
 - [ ] UES: Spawning Actors (eg Bullets) in-game, is CPU/GPU expensive
 - [ ] UES: Use navmesh invokers rather than large (static) nameshes (performance)
 - [ ] snake_case (flat_case) vs CamelCase naming conventions
-- [ J For BOSS, follow a TICK node with a GATE node, to allow ticks to pass through, to improve performance
+- [ ] For BOSS, follow a TICK node with a GATE node, to allow ticks to pass through, to improve performance
 - [ ] CONCEPT ART: Use fractal pattern generators to produce incredibly detailed renders for objects
 - [ ] Design 3D 72-face cube (hit grid) for player combat system
 - [ ] Implement multiple (disabled/alternating) hit capsules, enabled based on current technique and likely actual contact distance
@@ -200,10 +197,10 @@ Lance's offensive capability (eg breaking his bones), only then drawing their sw
 - [ ] The Ibra-Lim connects to Bar-Hades, whom orchestrates actions on the battle fleld
 - [ ] GoPro Camera w/ special software for Motion Capture substitutes $$$ MOCAP suits
 - [ ] Music Cues: Game load, Boss Battles, Mub where player recharges/rests
-- ( 1 Weapons: particle cookie cutters
+- [ ] Weapons: particle cookie cutters
 - [ ] Decals are more render efficient than static meshes (A character composed of multiple decals??)
 - [ ] Lance can summon any inventoried weapon Instantly with the previous weapon vanishing
-- [ I resolution: [ 60 120 165 240 360 480 ] hz
+- [ ] resolution: [ 60 120 165 240 360 480 ] hz
 - [ ] Keep a dally log of edits to track down bugs
 
 - [ ] An NPC catches fire when receiving too many consecutive hits
@@ -211,7 +208,7 @@ Lance's offensive capability (eg breaking his bones), only then drawing their sw
 - [ ] Assuming a 5 x 5 × 3 3D fight grid, Lance can defend against 75-1 opponents;
 - [ ] Fight grids are sampled to derive movement patterns and optimal battle strategies
 - [ ] Publish plugins after game completion to locate most bugs
-[ l Design a plugin that allows code design similar to Niagara workflow with separate modules for each cpu core
+- [ ] Design a plugin that allows code design similar to Niagara workflow with separate modules for each cpu core
 - I ] Add micro lanes to U5 to lane group wires into a bus
 - I I Modify blueprints so that only control wires are visible which connect to pins, with other input parameters and unique visible pin numbers hidden until the module is clicked or altogether integrated into the respective modules
 - _ I Show Character animations in sections based on IK to display more realistic muscle contraction extension deformation and flex
@@ -224,28 +221,28 @@ Lance's offensive capability (eg breaking his bones), only then drawing their sw
 - [ ] Mountain Redwood Forest Biome 209.99
 - [ ] MW Burned Trees Biome 209.99
 - [ ] Mw Birch Trees Biome 209.99
-* [ ] Mw Conifer Forest 209.99
+- [ ] Mw Conifer Forest 209.99
 - [ ] Mw Broadleaf Trees Forest Biome 209.99
-- [ J Fantasy Dungeons 99.99
+- [ ] Fantasy Dungeons 99.99
 - [ ] Beach Island 79.99
 - | | Beach and Coast Environment 74.99
-- [ J SciFi Modular Interior Environment 69.99
+- [ ] SciFi Modular Interior Environment 69.99
 - [ ] Modular Cliffs 69.99
 - [ ] Modular SciFi: Engineer Mallways Vol 2 59.99
-- [ I Snowy Mountain Landscape 59.99
+- [ ] Snowy Mountain Landscape 59.99
 - [ ] Science Lab 59.99
 - [ ] Medieval Dungeon Modular Environment 49.99
-- ( 1 Modular Scifi Polaris Defense 49.99
+- [ ] Modular Scifi Polaris Defense 49.99
 - [ ] Modular SciFi Office 49.99
 - [ ] The Church 44.99
-- [ J King Arthur Castle Interior 69.99 
+- [ ] King Arthur Castle Interior 69.99 
 - [ ] Ion Modular Asset (Bedroom) 49.99 
 - [ ] Modular Fantasy Inn 49.99
 - [ ] Manager Office Classic Style 44.99
 - [ ] Tropical Follage and Landscape 44.99
 - [ ] SciFi Modular Environment 39,99
 - [ ] Minimalist Modular SciFi Interior 39.99
-- [ J Cave Environment Modular 39.99 
+- [ ] Cave Environment Modular 39.99 
 - [ ] Modular Brutalist Pack 39.99 
 - [ ] Cyberpunk Toilet Environment 39.99 
 - [ ] Matte Painting Skybox Bundle II 39.99 
@@ -255,23 +252,23 @@ Lance's offensive capability (eg breaking his bones), only then drawing their sw
 - [ ] Brushify Cliffs Pack 39,99 
 - [ ] Brushify Forest Pack 39.99
 - [ ] Earth Simulator 39.99
-- ( 1 Palms Pack 02 34.99
+- [ ] Palms Pack 02 34.99
 
 software describing a target's tendencles and capabilities (le. predictive yet not quite prophetic)
 - [ ] The game cannot be paused. Instead, IDLE zones are used.
-- [ J Tunable weather system: [Auto|Custom][Static|Dynamic]
-- [ J All in-game places, events, and locations named conspicuously -- in voice, text, and maps -- in order for the player to easily catalogue.
+- [ ] Tunable weather system: [Auto|Custom][Static|Dynamic]
+- [ ] All in-game places, events, and locations named conspicuously -- in voice, text, and maps -- in order for the player to easily catalogue.
 - [ ] Design a strict computer algebra for use in the Euclid Prover.
-- [ J Euclid verifies Screenplay- and Story per page
--[ ] Include a keyword library, for Euclid Prover to verify keywords (streamline antonym and synonym
+- [ ] Euclid verifies Screenplay- and Story per page
+- [ ] Include a keyword library, for Euclid Prover to verify keywords (streamline antonym and synonym
 keyword library)
-- [ J Strategic in-game mistakes do not reset the game; in-game mistakes scales up difficulty, allowing the player to continue - at a cost!
+- [ ] Strategic in-game mistakes do not reset the game; in-game mistakes scales up difficulty, allowing the player to continue - at a cost!
 - [ ] Ensure the most fun way to play the game is the best way to play the game
 - [ ] Encourage under used play tactics (eg employing block breakers) rather than discouraging gameplay (eg limited ammo) (Carrots vs Sticks!)
 - [ ] Minimize the player cognitive load
 - [ ] Swords, Shields, and Hand weapons are plentiful in the game while fazers and ammo is RARE
 - [ ] As the player Xi meter increases, AI-induced tactics aid the player's combat (le the avalanche effect); the Xi meter drops when Lance's timing diverges from best tactics
-- [ J Archers only engage upon the player when he is exposed and they have a clear line of fire; they and others yell and shout commands to warn one another
+- [ ] Archers only engage upon the player when he is exposed and they have a clear line of fire; they and others yell and shout commands to warn one another
 - [ ] Frontload best ideas into the game. The most important 15 minutes in the game are the first 15 minutes; the most important hour in the game is the first hour, etc
 - [ ] The player's first impression of each experience sets the tone
 - [ ] Meet the player's high bar of expected in-game quality and exhuberance
@@ -280,42 +277,42 @@ keyword library)
 - [ ] A full game is a short story, not a novel. There are not very many fully developed theatrical beats.
 - [ ] 0: Is it possible to incorporate baked lighting sequences into character animations and sync the two?
 - [ ] Add multi-monitor support for multiplayer (offline) gaming
-- 1 Allow game difficulty settings to be adjusted in-game
+- [ ] Allow game difficulty settings to be adjusted in-game
 - [ ] Add an inventory & management system
 - [ ] Research and find a way to create PBR character animations that rival PBR game environments in render quality (cf Assassin's Creed Valhallah (CUT SCENES))
 - [ ] C++ STL Templates are performant and effecient. They remove virtual functions and other functions that wont be used.
 - [ ] Lambda functions are useful and fast as well when you know which functions will execute at compile time
 - [ ] Memory allocation is slow. Reuse objects (delete) instead of glibe free
 - [ ] Allocations are costly
-- [ I Use a pool of preallocated objects
+- [ ] Use a pool of preallocated objects
 - [ ] Delete objects using a separate thread
 - [ ] Multiple threads sap compute resources
 - [ ] Use automated tests to find edge cases
 - [ ] Shorten BOSS battles under 2 mins (sic. health meters), while tailoring missions towards conquest and exploration
 - [ ] Use color value and contrast to highlight important objects in the story
-* [ ] Use stunning backgrounds
-- [ ) Seperate A.I. Into discrete functional levels (Behavior > Functional › Pathfinding)
-* [ I PreCompute and Datalabel all objects in the Arena so the A.I. can filter them, based on its needs (eg. AI: (CurrentNeed:Cover); Scrap_Metal_Door: ( Cover:True, Concealment: (Unseen:True), LandBridge: ( SmallFF:True) ) ). Add new layers of functionality when needed
+- [ ] Use stunning backgrounds
+- [ ] Seperate A.I. Into discrete functional levels (Behavior > Functional › Pathfinding)
+- [ ] PreCompute and Datalabel all objects in the Arena so the A.I. can filter them, based on its needs (eg. AI: (CurrentNeed:Cover); Scrap_Metal_Door: ( Cover:True, Concealment: (Unseen:True), LandBridge: ( SmallFF:True) ) ). Add new layers of functionality when needed
 
 - [ ] Test NaMesh (FP Accuracy) as far away from the origin as the player/NPC is allowed
 - [ ] A.I. Fuzziness employs tolerance (ranges) to reduce Indecision/inconsistency (Note: You cant fix inconsistency by adding complexity, eg. Instead of two A.I. trying to determine which should attack the player, first -- let the player's game mechanic decide )
 - [ ] Document (Semantic) intent to better find hard-to-duplicate bugs 
 - [ ] Ensure fast-forwarded cut-scenes are still legible and audible to progess the story
-- I J Keep a pre-viz motion-capture shotlist. Use verbs for direction (eg. Faster, louder, etc)
+- - [ ] Keep a pre-viz motion-capture shotlist. Use verbs for direction (eg. Faster, louder, etc)
 - [ ] Use Orthographic Views to detect render and animation flaws, instead of using Perspective View
 - [ ] Gaas (Games as a Service) : Game Systems are simple, scalable, extensible, secure, and stable
 - [ ] BIOS (DELL) > Boot Loader (GRUB) > Kernel (LINUX)
-- [ I Incorporate a Site of Grace load (optional) location to prevent deathloops or otherwise unrecoverable gameplay states
+- [ ] Incorporate a Site of Grace load (optional) location to prevent deathloops or otherwise unrecoverable gameplay states
 - [ ] A suggestion of behavior is better than a complex model which exhibits behavior: Our brains assume the complexity is there
 - [ ] A.I. should be controller-based (emulates a user), if not simply for testing purposes
 - [ ] Train early A.I. to follow the player and their actions, exhibiting behaviors which invoke emotions, until the player believes they've competed in multiplayer (eg That guy ran me off the road!)
 - [ ] Machine Tools Addon (Blender) is useful for merging vertices during a workflow
-- [ I Consider NVIDIA "DLSS" (Deep Learning Super Sampling 100 fps), Unreal Engine "TSR" (Temporal Super Resolution 100 fps),
+- [ ] Consider NVIDIA "DLSS" (Deep Learning Super Sampling 100 fps), Unreal Engine "TSR" (Temporal Super Resolution 100 fps),
 AMP "FSR 2.0' (Fidelityx Super Resolution 90 fps), INTEL "XeSS" - plugin(s] for UnrealEngine
 - [ ] Set playable prototype/demo goals
-- [ I Drive towards a clear vision; design towards your game pillars
+- [ ] Drive towards a clear vision; design towards your game pillars
 - [ ] 'Timebox' or deadline ambiguous or uncertain design goals for efficiency (le enforce cut-offs)
-- 1 Avoid feature creep: adding new and cool unrelated features
+- [ ] Avoid feature creep: adding new and cool unrelated features
 - [ ] Perform time and cost estimates in decision-making
 - [ ] Well written code should be unsurprising
 - [ ] All Controller-Based Actors, NPCs, and Dynamic Elements are overlayed onto 3D 4K prerender environments with lighting animations for highest in-game quality;
@@ -339,11 +336,11 @@ Stateless engines are more stable (crashless);
 - [ ] $2 M of $3 M budget s/b to attract star-power
 - [ ] Fighting combinations are unlocked once they are used, for faster speedruns 
 - [ ] Animations: Consider replacing skeletal mesh with static mesh (performance) without loss in visual quality, similar to how follage is animated
-- [ J Use mesh islands (within the mesh), rather than separate combined mesh for complex objects
+- [ ] Use mesh islands (within the mesh), rather than separate combined mesh for complex objects
 
 (Cars, Machines, Etc.)
 - [ ] Buildings and other connected regions can be constructed using ISM components to reduce actor count
-- [ J Split buildings into upper/lower sections, with lower sections only having complex and articulate collision; while upper sections share a single simple collision object
+- [ ] Split buildings into upper/lower sections, with lower sections only having complex and articulate collision; while upper sections share a single simple collision object
 - [ ] Baking improves performance at the cost of degrees of freedom
 - [ ] JavaScript async/await are a powerful workflow we can try to export to Unreal Engine
 - [ ] Cap Inventory allotments and then incorporate context-sensitive and sequence-sensitive pickups to generate real-time story-narrative during in gameplay.
@@ -353,22 +350,22 @@ Stateless engines are more stable (crashless);
 shared with actors which retain pointers into the container (performance; reduces memory fragmentation)
 - [ ¡ Ray Tracing groups Improve ray trace performance (eg unique ID per building); sparse objects should be excluded from Ray Tracing Groups;
 reduce overlapping meshes, actors -- keep the geometry clean; Ray Trace mesh instances that are close to camera, while (boolean) merged HLOD1 for distant geometry to allow GI over huge distances (14 km+)
-- 1 All UDIMs should use same-size tiles (eg 4K) (Easier to track)
+- [ ] All UDIMs should use same-size tiles (eg 4K) (Easier to track)
 - [ ] RealityCapture (105) to generate MegaScans
 - [ ] UnrealEngine: IK Rig and IK Goals expose IK Rig to blueprints, so no-bake cut-scenes are possible;
 and mpw NPCs can react smoother to Character animation, reducing required baked animations.
 - [ ] Use dynamic hitboxes which correspond to snapshot updates of the current animation pose, for sublime Elden Ring calibre hitboxes.
 - [ ] Allow the player to disable/enable NPC skills + abilities; a configuration hash is displayed at the completion of each map for speedruns and walkthroughs
-- [ I Employ a theorem prover to track offscreen NPC events, rather than continuous background processes (Performance)
-- [ J Include a radio station of soundtracks, spanning multiple genres
-- [ J Embed extreme unique and unforgettable NPCs, areas, missions; no cut-n-paste effort
+- [ ] Employ a theorem prover to track offscreen NPC events, rather than continuous background processes (Performance)
+- [ ] Include a radio station of soundtracks, spanning multiple genres
+- [ ] Embed extreme unique and unforgettable NPCs, areas, missions; no cut-n-paste effort
 - [ ] Encourage community NFTs, marketplace, maps, etc, for new game-based assets
 - [ ] Quick, measured (equal damage) counter-attacks recover HP 
 - [ ] Challenge the player to access various areas of the map- only by chaining their abilities 
 - [ ] Turning in the direction of the wind allows you to hear the breeze
 - [ ] Employ more visually engaging close-up fight cinematics
 - [ ] Firearms emit high velocity tracer rounds, which can be tracked by the human high (especially paused game states)
-- [ J Holding the *action* button, with proper placement, alignment, velocity, momentum, and heading before an NPC, enables Lance to execute a properly timed attack or counter attack;
+- [ ] Holding the *action* button, with proper placement, alignment, velocity, momentum, and heading before an NPC, enables Lance to execute a properly timed attack or counter attack;
 - the button must be depressed and held, following sequence initiation, to properly reposition Lance; in this way Lance can fully interact with other PCs and the environment, to his advantage
 - [ ] Against Agrippa players must have a solid ground-, standing-, rolling-, rising-, counter-, side , blockbreaker-, descend (in-air)-, evade-, descend (in-air counter)-, hind- attack;
 because General Agrippa will seek out and expose these deficiencies
@@ -376,12 +373,12 @@ because General Agrippa will seek out and expose these deficiencies
 - [ ] Create symmetric IK rig animations so they can be replayed symmetricly on a character
 - [ ] Document NPCs-, flora- and fauna-, etc. (via inventory?) for Lance to learn, to his advantage. during gameplay, if he chooses
 - [ ] Include timestamps in game walkthroughs
-* [ ] light opposition, treasures, and or trinkets (every 45s)
-- ( ] supporting boss opposition (every Sm)
+- [ ] light opposition, treasures, and or trinkets (every 45s)
+- [ ] supporting boss opposition (every Sm)
 
-- [ I boss opposition (every 15m)
-- [ J Star Wars Jedi: Fallen Order @13:00:00; 300 (Movie); 300: Rise of An Empire - Elegant combat mechanics example
-- [ I Star Wars Jedi: Fallen Order @13:08:00 Story Design
+- [ ] boss opposition (every 15m)
+- [ ] Star Wars Jedi: Fallen Order @13:00:00; 300 (Movie); 300: Rise of An Empire - Elegant combat mechanics example
+- [ ] Star Wars Jedi: Fallen Order @13:08:00 Story Design
 - [ ] Provide automatic reaction-style (Action Button, AI Governed) which disengage only when the player is hit or blocked,
 and manual reaction-style (combination, button-smashing) combat options
 - [ ] Lance can snatch any NPCs weapon, however those are not as durable as the weapons he purchases or even discovers
@@ -393,9 +390,9 @@ otherwise, he must duck dodge or block; fully automatic barrages are much too de
 - [ ] Armored arm-, shin-, and leg- guards can deflect high calibre rounds
 - [ ] Multiple camera renders (even disabled) can impact fps
 - [ ] Reflections can impact fps; collect reflectable elements into their own layer (performance)
-- { ] Use a low-poly mesh object in game environments. A high poly mesh material, baked into a normal map can then be used over the low poly mesh object (performance)
+- [ ] Use a low-poly mesh object in game environments. A high poly mesh material, baked into a normal map can then be used over the low poly mesh object (performance)
 - [ ] Use memoization with constexpr instead of either, to remove the constexpr compile time computation limit; and for overall improved compile times
-- ( ] Use occlusion & culling settings to reduce unneeded draw calls for occluded objects
+- [ ] Use occlusion & culling settings to reduce unneeded draw calls for occluded objects
 - [ ] Use baked lights, light maps, lighting layers (swappable), cached light probes (for prebake) on static content
 - [ ] Rigid body, mesh colliders are cpu intensive
 - [ ] HP only visible in Combat Mode (optional)
@@ -406,16 +403,16 @@ Operating System) for the user
 - [ ] Instead of motion-capture, research keyframe-morphing in Animation Blueprints
 - [ ] Sound, Visuals acn be used to layer, densely reinforce information
 - [ ] Use the Combat Square to develop methods to perfect target these squares immediately, or at some delay into the future
-- [ I Dull or unessential areas will be avoided by the player upon their next walkthrough, and thus should not be considered content
+- [ ] Dull or unessential areas will be avoided by the player upon their next walkthrough, and thus should not be considered content
 - f 1 Publish all Pawn/NPC movesets for Lance to study
 - [ ] provide rewards / treasure chests items of value to a player based upon their style of gameplay (eg spell power -ups vs armor or weapons ) ;
 perhaps make them constituents instead with various uses for weapons armor or spells; or have chests deliver multiple items
 - f1 disolay the location of these on the player's map
-- [ J place treasure and rewards in context-appropriate locations which define their use or how and when it should be used
+- [ ] place treasure and rewards in context-appropriate locations which define their use or how and when it should be used
 - [ ] summoned NPCs or other NPC cooperatives can loot the pickup items for Lance . f1 Allow multi boss encounters
 - [ ] Let a boss's damage delivery be related to their combat effectiveness as opposed to an overpowering weapon, unless deemed context appropriate
-( J Agrippa can deliver damage to hot zones on the ground which become radioactive (le fatal) after a few moments 1ff standing in them
-- TI A pawn can send an attack to any active grid in his battle grid (see above) within the following durations (seconds) : [-30, -15, -10, -8,-4, -2,-1, feigned, 0, 1, 2, 4, 8, 10, 15, 30]s
+- [ ] Agrippa can deliver damage to hot zones on the ground which become radioactive (le fatal) after a few moments 1ff standing in them
+- [ ] A pawn can send an attack to any active grid in his battle grid (see above) within the following durations (seconds) : [-30, -15, -10, -8,-4, -2,-1, feigned, 0, 1, 2, 4, 8, 10, 15, 30]s
 - [ ] Even during long NPC movesets Lance can always inflict damage iff skilled; there are no
 
 [ ] Brushify - Beach Pack 34.99
@@ -425,10 +422,10 @@ perhaps make them constituents instead with various uses for weapons armor or sp
 [ ] Underground Ossuary 34.99
 [ ] Arctic Aurora Landscape 29.99
 [ ] Log Cabin 29.99
-J Old Catacombs $9.99
+[ ] Old Catacombs $9.99
 [ ] Ocean Floor Environment 29.99
-] Statues Pack 24.99
-[ ) Modular Underpass 24.99
+[ ] Statues Pack 24.99
+[ ] Modular Underpass 24.99
 [ ] Northern Forest 24.99
 [ ] Church 29.99
 [ ] 8K valley landscape 19.99
@@ -457,7 +454,7 @@ J Old Catacombs $9.99
 [ ] Scifi Interior Space Corridor 13.99
 - [ ] Swiss Grassfield Environment 13.99
 - [ ] Statues Set 01 13.99
-- [ I Modular Exhibition Gallery 9,99 
+- [ ] Modular Exhibition Gallery 9,99 
 - [ ] Fantasy Forest 9,99 
 [ ] Elite Landscapes * 9.99 
 - [ ] Ancient Ruins 9.99
@@ -465,7 +462,7 @@ J Old Catacombs $9.99
 - [ ] wind Turbines 9,99
 - [ ] Reef Kit 9.99
 - [ ] Root Cellar 9.99
-- [ I Desert Oasis 9.99
+- [ ] Desert Oasis 9.99
 - [ ] Grass & Greens Pack 11.99
 - [ ] Open land grass 9.99
 - [ ] Modular Ruins * 9,99
@@ -475,20 +472,20 @@ J Old Catacombs $9.99
 
 [ ' ShoreCaves 9,99
 ( | China Three Gorges 9.99
-( ] Winter Forest Set 4.99
+[ ] Winter Forest Set 4.99
 - [ ] Photo Ground Foliage 4,99
 1 Forest Trunk Photo Scanned 4.99
 - [ ] Forest Glade Set 4.99
 - [ ] Forest Gnoll Set 4.99
-#* Music
+## Music
 [ Soundtrack Dubstep Rock Electronic None ] - Volume
 - [ ] Save Individual timbres, for easier in-game orchestration 
 - [ ] Use a state-machine to monitor the thematics & mood of gameplay
-#* Console Effective Storage
+## Console Effective Storage
 PSS - 667 GB
 XBOX Series X 802 GB
 xBox Series S 364 GB
-#* PC Gameplay
+## PC Gameplay
 [ spacebar ( + Hold ) ] - Action button [ attack; defend; fast/focus; progressive damage; well-timed brutality/stun; counter-offense/multi NPC damage ] (A.I, governed)
 W / A / S / D - Directional Keys
 0 / E - Player / Camera (-/+) (Translate Z - Axis)
@@ -511,7 +508,7 @@ Weapons { .. }
 Melee ( Roll_7, Pitch_X, Yaw_Y, VelocityVec3, AccelerationVec3 )
 MeleeRecipient [ char800, .. ]
 AccelerationVec3 8t; 1 j k &gt;
-VelocityVec3 &lt; i j k &gt;
+VelocityVec3 &lt; - [ ] k &gt;
 DistanceVec3 &It; 1 j k &gt;
 BodyPositionVec3 &It; 1 j k 8gt;
 Wardrobes { .. )
@@ -519,13 +516,13 @@ Wardrobes { .. )
 
 [ ] Difficulty Settings - How Easy (Radio Button) : [ Epic - Hard - - Medium - - Easy -- Slut ]
 [ ] Gameplay
-( ] Controller
+[ ] Controller
 ] Invert Y axis
 ] Keyboard & Mouse
 ] HUD [on/offi
 1 Video &amp; Resolution
 [ ] video Adapter ( CPU | Available GPU Card[s] )
-[ ] Display Resolution [ 1080, 1440, 3840, 4096, 8192 ]
+[ ] Display Resolution [ ]080, 1440, 3840, 4096, 8192 ]
 [ ] Aspect Ratio [4:3,16:9,16:10]
 [ ] DPI
 [ ] Refresh Rate [60,120, 144, 165, 240, 360,480,590] Hz 
@@ -540,7 +537,7 @@ Wardrobes { .. )
 - [ ] Combat Style (Slider) : Lightning--
 * ----Balanced-
 reseastron
-#* Terrains ( Biomes )
+## Terrains ( Biomes )
 Mountains / Tundra - HighDem Mountains | Walled Metropolis Base | The UltraDan
 Hills - Ipsem Hills
 Valleys - Ipsem Valleys
@@ -551,7 +548,7 @@ Beaches - The Beach
 Mountains, Desert, Hills, Plains, forest, Marsh, Tundra, Swamp, Canyon, Valley, River, Glacier, Butte, Oasis, Plateau, Mesa, Alpine Tundra,
 Mountain Range, Dune, Coast, Badlands, Summit, Foothills, Gully, Valleys, Gorges, Crevasse, Cave, Cavern, Bluff, Lakes, Bay, Stream, Gulf, wetland, Strait,
 Lagoon, Canal, Channel, Spring, Sea, Sound, Reservoir, Fjord, Cove, Ponds, Puddles
-#* Extreme Weather Conditions
+## Extreme Weather Conditions
 Winters - Snownadoes, Snow squalls, frigid air columns, Diamond dust, Thunder snow, Avalanche, Sundog (Parhelion), Ice fog, Nieve penitent, Mail, Bombogenesis, Frost quakes (Cryoeisms)
 Desert - Dust-ups,
 # Game Mechanics Rollout
@@ -560,7 +557,7 @@ Sound, Sound FX, & Soundtracks Animations ( Walk, Idle, Jump )
 Melees ( Techniques )
 combat ( Meles, Multiple Encounter )
 Game FX post Processing
-#* Wardrobes
+## Wardrobes
 Mountains Wardrobe (Frost Suit) - Can summon ( Deep freeze, Snow Storm) . Increased durability in cold
 
 Hills Wardrobe - Unlocks mastery of weapons valleys Wardrobe - Can summon ( wolves, The Remnant )
@@ -603,7 +600,7 @@ Hennethica
 Unlock hard-to-unlock fighting combinations
 Unlock hard-to-find skills and weaponry
 Microphone In-game volce recorder (for use with builtin 4K screen recorder)
-#* The Cast
+## The Cast
 Rhovonidin (Hayden Christiansen or equivalent physical type)
 Agrippa (Iris Elba or equivalent voice type and physical type)
 Sheeran (Dwayne "The Rock" Johnson or equivalent body type)
@@ -672,21 +669,21 @@ A state-machine is used, rather than a message queue so the queue cannot be spam
 [References] Human Reaction Times - HumanBenchmark.com
 [References] Compiler Explorer - godbolt.org (compilation analysis)
 ## The MSG Packet Instruction word
-The BOSS uses MSG packets to coordinate and or initialize SMs in the BP_Battle_SEQ- ( 1
+The BOSS uses MSG packets to coordinate and or initialize SMs in the BP_Battle_SEQ- [ ]
 <img src= IMG/MSG_IW.png>
 Each MSG packet is a static-width packet, composed of an *Instruction Word*, which transmits the
 (G ) Lance belongs, and his player index (N)
 ## The MSG Packet: Issuing The Challenge
 
-As mentioned, a new SM is instantiated in the BOSS's BP_Battle_SEQ- [ J (The Challengel) to process Response [ R ] messages for that group
+As mentioned, a new SM is instantiated in the BOSS's BP_Battle_SEQ- [ ] (The Challengel) to process Response [ R ] messages for that group
 The MSG packet's group field ( G ) shall serve as the SM address which accepts all Responses for the group . If it does not yet exist, it is created
 Among other things, the player's skill level is used to calculate levels of damage
 The SM is now ready to process Responses
-###* The MSG Packet: Processing The Response
+#### The MSG Packet: Processing The Response
 The state machine (SM) will process Response MSGs for the group in its current state, until the next-state delay is reached
 Assuming Lance's *Response* is within the accepted time delay, De, the MSG packet's group field ( G ) will enter the SM at state De. Thus, Lance's player index ( N) is OR'd with other players within the Player field, for eventual event-dispatch, by the BOSS, into the qualifying animation sequence
 <img sre=IMG/SM. Init.png> <img src=IMG/SM.DO.png> <img src=IMG/SM.D1.prg>
-##* Gameplay: Assigning Players to group [s]
+### Gameplay: Assigning Players to group [s]
 Assigning Lance to a group is another role of the BOSS.
 Lance's equipment and or his weapons cache determine his effective range, and thus the bounded range of the group. Each of his weapons and equipment is encompassed by a bounding n-gon, which the BOSS uses to determine as an optimal tactic ( le a next battle animation ) for Lance, based on the skill of everyone in the group!
 ## Optional Battle Systems
@@ -696,7 +693,7 @@ Lance's equipment and or his weapons cache determine his effective range, and th
 - [ ] Adversary Outline[s] (Adress & Dismissal) (Range based)
 ## Combat Systems & Movesets (21+)
 Note: Fully executed Is are lethal at any moment, during combat
-##* Lance Rhovonidin
+### Lance Rhovonidin
 - [ ] Reverse Tuka (IK)
 - [ ] Reverse Tuka w/ KanBan (IK)
 - [ ] Boss Hoist (IK)
@@ -710,10 +707,10 @@ Note: Fully executed Is are lethal at any moment, during combat
 
 - [ ] Minced (LP2)
 - [ ] Minstrel (Targeted) (LP2)
-- 1 J Short-Dash (Stun) (LP2)
+- [ ] J Short-Dash (Stun) (LP2)
 [ ] Shoulder-RAM (Stun) (LP2)
-I J welcome To The Party (Retarget)
-I J (Map-Covering) Double Dash (LP)
+- [ ] welcome To The Party (Retarget)
+- [ ] (Map-Covering) Double Dash (LP)
 - [ ] (Map-Covering) Double-Dash-Glide (LP)
 - [ ] Human A-Mole Frisbee Toss (Targeted) (LP)
 - [ ] Back Heel Kick (toss) (Targeted) (LP)
@@ -722,7 +719,7 @@ I J (Map-Covering) Double Dash (LP)
 - [ ] U'Silde-or Mordor Smoke (Menacles, Flame component) (Context-sensitive) (LP)
 - [ ] 150+ fight combinations ( 6 buttons × (near-, mid-, far-distance) equals 18+ equipable, achievable and unlockable stances and techniques) (MP)
 
-##* Gen. Edwin Agrippa
+### Gen. Edwin Agrippa
 - [ ] Quick-Spear throw, up to 4x (IK)
 - [ ] RAH (Cross-Field Attack) (IK) 
 - [ ] Atlas Shrugged (IK) 
@@ -764,7 +761,7 @@ I J (Map-Covering) Double Dash (LP)
 - [ ] Steballis (HP2)
 - [ ] Tail whip (targeted) (MP)
 - [ ] Grand Tail whip (ground) (Prototype: breakfall) (MP)
-- [ I Meteor (MP)
+- [ ] Meteor (MP)
 - [ ] Crowd Control (context-sensitive) (MP)
 - [ ] Swat it (LP)
 - [ ] Downforce (LP)
@@ -796,7 +793,7 @@ I J (Map-Covering) Double Dash (LP)
 SHINOBA (Agrippa's Chief of Security)
 []
 
-*#* ERICMAIN (Agrippa's Chief of Intel and Communications)
+*## ERICMAIN (Agrippa's Chief of Intel and Communications)
 []
 
 ### KAYMAN
@@ -805,11 +802,11 @@ SHINOBA (Agrippa's Chief of Security)
 ### Dr. Allen Meade (Agrippa's Mind)
 []
 
-#** The Leviathan
+##* The Leviathan
 - [ ] Draw down and drown (targeted) (IK)
 - [ ] Underwater Rumbling Thunder (LP2)
 
-##* The Kraken (I/IL)
+### The Kraken (I/IL)
 - [ ] Debris Toss (Shower) (IK)
 - [ ] Rock / Debris landslide (IK)
 - [ ] Boulder Toss (targeted) (IK) 
@@ -827,13 +824,13 @@ SHINOBA (Agrippa's Chief of Security)
 - [ ] Dodge (w/ transparency)
 
 ### Hennethica Henner (Agrippa's Friend)
-- ( ] Infinity Stab (IK)
+- [ ] Infinity Stab (IK)
 - [ ] Dodge This! (IK)
 - [ ] Back at you! (IK)
-- [ ] Dodge (LP2) { ] Kick Stun (LP2)
+- [ ] Dodge (LP2) [ ] Kick Stun (LP2)
 
 #### NPCs, Flora & Fauna
-- [ I Seven Cerberus - Agrippa's prized war dogs. Intelligent. And obediant only to him. Agrippa quickly makes waste to any foe, with the use of them.
+- [ ] Seven Cerberus - Agrippa's prized war dogs. Intelligent. And obediant only to him. Agrippa quickly makes waste to any foe, with the use of them.
 - [ ] Ibra-lim - Remote Viewers, trained by The Shard, through protracted torture, in order to heighten their survival skills.
 
 They are extremely sensitive to human emotional disposition, physical body language.
@@ -854,11 +851,11 @@ Extremely violent and ferral, they are hard to track and difficult to find, and 
 - [ ] Mountain Deer - Confined primarily to the mountains
 - [ ] Mountain Elk - Large deer, confined primarily to the high mountains
 - [ ] Moose - Extremely large animal, resembling an elk, confined to the high mountain, polar regions
-- [ I Federation Guard - Bearing various weapons from Bo's to Katana's, in general they are expertly trained but coordinate poorly in combat
-- [ J Federation Captain - Bearing various weapons from Phasor's, to Bo's and Katana's, in general they are expertly trained and coordinate well together in combat
-- [ J Federation Archer - with different capabilities, accuracy and range, in general, they are deadly. Bearing armor-piercing explosive-tip projectiles, the size of spears
+- [ ] Federation Guard - Bearing various weapons from Bo's to Katana's, in general they are expertly trained but coordinate poorly in combat
+- [ ] Federation Captain - Bearing various weapons from Phasor's, to Bo's and Katana's, in general they are expertly trained and coordinate well together in combat
+- [ ] Federation Archer - with different capabilities, accuracy and range, in general, they are deadly. Bearing armor-piercing explosive-tip projectiles, the size of spears
 - [ ] Federation M60 Gunner - Combat runner, bearing 11.62mm cannons, they patrol heavily within The Sheeran Hidden Command Center
-- [ J The Sh'Nho'Din - Specially trained assassins, dispatched by general Agrippa to protect Dr.
+- [ ] The Sh'Nho'Din - Specially trained assassins, dispatched by general Agrippa to protect Dr.
 Meade. From assassination attempts, from mercenaries and Federation contractors.
 - [ ] Shard Guard - Bearing various weapons from Bo's to Katana's, in general they are expertly trained but coordinate poorly in combat
 - [ ] Shard Captain - Bearing various weapons from Phasors, to Bo's and Katana's, in general they are expertly trained and coordinate well together in combat
@@ -867,46 +864,46 @@ Bearing armor-piercing projectiles the size of spears
 - [ ] Shard M60 Gunner - Combat runner, bearing 11.62mm cannons, they patrol heavily within The Walled Metropolis Base
 - [ ] Crystal Silica - A crystalline sandstone, having excellent heat rejection properties, and poor light absorption characteristics. Its crystalline substructure aligns, forming a clear planar substrate, under intense 1200 degree F temperatures
 - [ ] Taiga Stone - A hard granite or marble composite, resilient to high temperatures
-* [ ] white Cedar - A durable dark colored cellulose fiber, having high lateral strength and excellent load-bearing capability 
+- [ ] white Cedar - A durable dark colored cellulose fiber, having high lateral strength and excellent load-bearing capability 
 
 - [ ] White Pine - A durable light colored cellulose fiber, having high lateral strength and excellent load-bearing capability
-- [ J Stone Kiln - Constructed from 120 Taiga stones, a fire oven capable of high temperatures of 1208 degrees F for curing Pine or Cedar, or melting silica sand into glass
+- [ ] Stone Kiln - Constructed from 120 Taiga stones, a fire oven capable of high temperatures of 1208 degrees F for curing Pine or Cedar, or melting silica sand into glass
 - [ ] white Cedar Log home plans - Plans to construct a two-story log home out of Kiln dried white
 Cedar and Glass
-- [ J White Pine Log home plans - Plans to construct a two-story log home out of Kiln dried white Pine and Glass
+- [ ] White Pine Log home plans - Plans to construct a two-story log home out of Kiln dried white Pine and Glass
 - [ ] Shard Sector Patrol Drones - Drones which patrol designated areas or zones for trespassers or contraband
 - I I Federation Sector Patrol Drones - Drones which patrol designated areas or zones for trespassers or contraband
-- ( ] Include a builtin screen recorder to generate walkthroughs and speedruns; along with voice recorder microphone as an available DLC addon
-- [ J Federation Judge Paul Augustus -
-- [ I Federation Judge -
+- [ ] Include a builtin screen recorder to generate walkthroughs and speedruns; along with voice recorder microphone as an available DLC addon
+- [ ] Federation Judge Paul Augustus -
+- [ ] Federation Judge -
 - [ ] Federation Councilman -
 - [ ] Tellumus - A world renown strategist on his home planet of Rhovonidin, he is set on helping Lance avenge his untimely end, and defeat King Agrippal
 - [ ] ShadowCaster - A former Shard First-Captain, she has first-class knowledge of first-world tech, and is capable of helping lance gain access to even the most restricted and well-guarded areas.
 Her demise against Federation Lt. Sheeran, leaves her agnostic against both sides.
 She trusts Lance, and knows, deep down that lance is a good man who will do the right thing, and so has no reservations helping him fulfill his missions.
-###* (Equipable) Tools, Weapons, Aids, Transports, and Devices
-- [ I Federation / Shard X-Fighter - Unlocked after the fall of UltraDam, Intended for geo-orbital short-range commutes. Equipped with cannons and ordinance.
+#### (Equipable) Tools, Weapons, Aids, Transports, and Devices
+- [ ] Federation / Shard X-Fighter - Unlocked after the fall of UltraDam, Intended for geo-orbital short-range commutes. Equipped with cannons and ordinance.
 - [ ] Federation Sky-Copter - Federation Officer transport, and a larger version for Battalion transport. Limited Range, superior hauling capabilities.
 - Long Sword - Multiple opponents (Multiple Damage)
 - [ ] Double Long Sword - Multiple opponents (Multiple Heavy Damage)
 - [ ] Fighting Bo - Multiple opponents (Crowd Control)
 - [ ] Fighting Bo w/ Halberd - Multiple opponents, axe + armor-piercing tip (Crowd Control)
 - [ ] Iron Threaded Fighting Bo w/ Halberd - Threaded body delivers bone-breaking damage
-- { ] 4' Kevlar PVC Zip Strap - Flexible with two unbreakable zippable ends, this aid can quickly turn lethal for multiple adversaries during combat
+- [ ] 4' Kevlar PVC Zip Strap - Flexible with two unbreakable zippable ends, this aid can quickly turn lethal for multiple adversaries during combat
 - [ ] Mace Club - Meavy clubbed weapon effective against armored opponents
-- [ J Dual Axes - Can deliver Medium damage in dense front-facing crowds
+- [ ] Dual Axes - Can deliver Medium damage in dense front-facing crowds
 - [ ] Long Axe -
 - [ ] Crosswbow - longer range
 - [ ] Dual Crossbow - short range, armor penetrating
-- [ J Katanas -
+- [ ] Katanas -
 - [ ] Long Bow -
-- { 1 Quick Bow -
+- [ ] Quick Bow -
 - [ ] Chains of Rah -
-- [ I Shuriken / Throwing Stars -
+- [ ] Shuriken / Throwing Stars -
 - [ ] Smoke Pellet
 - [ ] Fire Bomb
 - [ ] Flash Bang -
-- [ I Ice Gloves - Focused permanent break damage
+- [ ] Ice Gloves - Focused permanent break damage
 - [ ] Iron Gloves - Focused damage
 - [ ] Electric Gloves - Focused drain damage
 - [ Hammer and Chain - Distant Target with damage in-between, Multiple opponents (Multiple Damage)
@@ -916,14 +913,14 @@ She trusts Lance, and knows, deep down that lance is a good man who will do the 
 Phasor Shield Bracelet - An auto spawning full body front-facing shield, in the reticle. There are few in the world that can defeat Its cansens
 a# MUSIC THEMES
 ear Lance Rhovondin
-* [ ] Violas
+- [ ] Violas
 - f 1 War Bells, Haunted Chares
 wew Gen. Agrippa
-- [ J Bass Drum
+- [ ] Bass Drum
 san it. Sheeran
 - [ ] Snare, Tenor Drums, Trumpet
 sas The leviathan
-- ( ] Motif
+- [ ] Motif
 was The Kraken
 - [ ] MotIf
 ase Dr. Meade
@@ -934,7 +931,7 @@ Brass
 en 
 
 Fight Chants
-#** Lance Rhovonidin
+##* Lance Rhovonidin
 - [ ] I do not fear the Hell that comes; I welcome it!
 - [ ] Agrippa, acknowledge mel 
 - [ ] Agrippal I am herell
@@ -956,7 +953,7 @@ are not ready (for me)l
 
 []  I will dominate you!
 - [ ] MORE I
-- { 1 RAH I
+- [ ] RAH I
 - ] (Damage Delivered From Weapon Toss) Keep 1t |
 - [ ] (Damage Delivered From Weapon Toss) You can keep that I
 - [ ] (Damage Delivered From Weapon Toss) Oh -- no thank you I
@@ -983,8 +980,8 @@ are not ready (for me)l
 - [ ] Let us go!
 - [ ] Whoal
 - [ ] Whoal Did you see that?)
-- ( ] Let's get out of herel
-- [ I He's a monster!
+- [ ] Let's get out of herel
+- [ ] He's a monster!
 - [ ] He's trained to killl
 - [ ] I'm not afraid of you!
 - [ ] Hal
@@ -999,17 +996,17 @@ are not ready (for me)l
 ### Lance Rhovonidin
 - [ ] The Two Chainmen
 - [ ] The Four Chainmen
-- [ J The Two Archers . 
+- [ ] The Two Archers . 
 - [ ] The Six Archers
 - [ ] The Twelve Archers
 
 [ ] The Four Remnant
 [ ] The Twelve Remnant 
 - [ ] The Sixteen Remnant
-[ ) The Two Ultrawolves (Draz-Ghoul)
+[ ] The Two Ultrawolves (Draz-Ghoul)
 [ ] The Six Ultrawolves
 [ ] The Twelve Ultrakolves
-[ ) Tellumus (Insight, Strategy)
+[ ] Tellumus (Insight, Strategy)
 [ ] ShadowCaster (Weapons, Map hacks)
 - [ ] ShadowCaster's Cloak (Invisibility f/ Ibra-11m)
 ## Basic Notes
@@ -1032,42 +1029,42 @@ The Final Arena
 - [ ] Kawamura: Giant Remnant killer, unleashed by Lt. Sheeran
 - [ ] Bar Hades: fire engine red Allosaurus size Black dreaded spicones Claws Flesh taloned wings
 Armored tail
-##* Logline
+### Logline
 - [ ] Play as Lance Rhovonidin
-##* High Concept
+### High Concept
 - [ ] Play as Lance Rhovonidin; join The Remnant and wade into The Disputed Territory to retake the crown from The Emnity and crush The Shard insurrection
 ### Notes
-- [ J Story beats are fixed as waypoints; how the player arrives at each is determined by their choices
-- ( 1 Games are replayable based on the moment-to-moment actions that the player enjoys.
+- [ ] Story beats are fixed as waypoints; how the player arrives at each is determined by their choices
+- [ ] Games are replayable based on the moment-to-moment actions that the player enjoys.
 - [ ] Add double-dash custom settings for far map traversal.
 - [ ] Build an API driven IDE SDK which instantiates necessary classes, properties, library imports, parameter list completions, and function calls as standard overhead.
 - [ ] Use Perlin Noise to generate Meight/Displacement/Bump Maps that can be inspected before approval, instead of random level generation ( le No State of Gameplay Should Ever be Unknown to The Developer ) 
-- [ I Supporting Actor's are brought back to support Rhovonidin
-- [ J Construct an obstacle course to verify character agility 
+- [ ] Supporting Actor's are brought back to support Rhovonidin
+- [ ] Construct an obstacle course to verify character agility 
 - [ ] Remote Viewers analyze behavior to build digital profiles for use as potential military targets
 
 - [ ] Dr. Meade's time & space computational weapon invokes The Dulles Effect on its victims, entrancing them into selecting decision pathways whose outcome is known
-- [ I Maps show all collectibles, power-ups, new weapons, and abilities
+- [ ] Maps show all collectibles, power-ups, new weapons, and abilities
 - [ ] gain fame and power in hopes of achieving the rank of Federation Chancellor
 
 W# References
-- [ J Supreme Court: Dobbs v Jackson (80:11:59)
-#** Chapters
+- [ ] Supreme Court: Dobbs v Jackson (80:11:59)
+##* Chapters
 - [ ] The Beach
 - [ ] Essex Junction
 - [ ] The UltraDam
-* [ J The Metropolis City
-#* THE PLAYTESTING ENGINE & REGIME
+- [ ] The Metropolis City
+## THE PLAYTESTING ENGINE & REGIME
 - [ ] Game states are hashed to indicate unique states of gameplay
 - [ ] Each playtest should reveal meaningful actionable information for each department
 - [ ] Gameplay should remain fun (Gameplay frictions are successfully minimized), consisting of Unguided Playthroughs and Usability Tests
 - [ ] External playtesting 1s most effective & common
-##* UNGUIDED PLAYTHROUGHS
+### UNGUIDED PLAYTHROUGHS
 - [ ] Find the pain points of: Pacing, Narrative, Difficulty Management, Economy and Progression Tuning
-- ( J Post Mortem: Watch speed runs online to analyze the way games are broken
+- - [ ] Post Mortem: Watch speed runs online to analyze the way games are broken
 ### USABILITY TESTING
 - [ ] Deep Dive insures: Usability of in-game features and components, Isolates in-gane issues,
-- [ I Use Telemetry to create, update, and patch more accurate profiles and game settings
+- [ ] Use Telemetry to create, update, and patch more accurate profiles and game settings
 # Unreal Engine
 [ ] ] Use blueprints optimizations
 [2 ] Use breakpoints. They are builtin to blueprints! They can help verify game flow.
@@ -1081,18 +1078,18 @@ champion.
 
 ### Render Performance Tips
 [ 8 1 - Flatten multiple textures Into a single image texture, resulting in a single draw 
-[ 9 ] - Break animation sequences into modular animation sequences (Jump, Crawl, Wink, etc.) for easier bake into keyframe animation sequence . Or use batched draw calls (UES), or Merge Actors . Or use Character AI and the screen recorder (in blender)
+[ 9 ] - Break animation sequences into modular animation sequences [ ]ump, Crawl, Wink, etc.) for easier bake into keyframe animation sequence . Or use batched draw calls (UES), or Merge Actors . Or use Character AI and the screen recorder (in blender)
 10  eventPossessed is more responsive than beginPlay for multiple 
-2. [ 11 ] - Python macros 
+2. [ ]1 ] - Python macros 
 
 Game mode state - rules
 Game state - real-time play 
 player game state -
 
-[ 12 ] Kingston DataTravelerMax [ 256, 512, 1000 ] GB USB C flash drive for $[ 91, 153, 262 ] USD
+[ ]2 ] Kingston DataTravelerMax [ 256, 512, 1000 ] GB USB C flash drive for $[ 91, 153, 262 ] USD
 respectively
 ( 13 ) Build plugin for dynamic story generation based on prerecorded walkthroughs in unreal engine
-- [ 14 ] Venues - STEAM | EPIC GAMES | LUTRIS | NVIDIA STORE | YOUTUBE | PATREON | TWITCH | PLAYSTATION | XBOX | MICROSOFT STORE | GEFORCE NOW
+- [ ]4 ] Venues - STEAM | EPIC GAMES | LUTRIS | NVIDIA STORE | YOUTUBE | PATREON | TWITCH | PLAYSTATION | XBOX | MICROSOFT STORE | GEFORCE NOW
 [ ]5 ] Demo Environments - Valley of the Ancients ( 100 GB ), Medieval Game Environment ( 20 GB )
 {16 ] Develop a QUEST (plugin) which uses extensible interrogative queries for faster prototyping w/ builtin performance optimization using full english length click select statements . with semantic validation performed by Python Z3 Prover . All data structures distilled in JSON XML tree parse form
  Along with the ability to compare compile issues vs compile warnings for further optimization 
@@ -1109,9 +1106,9 @@ Each sparse well-timed button-press triggers a battle sequence; spamming buttons
 int - 4Byte (32bit) [ -2_147_483_648, 2_147_483_647 ] 
 unsigned int - 4Byte (32bit) [ 0, 4_294_967_295 ] 
 float - 4Byte (32bit) [ 3.4-38, 3.4E38 ] 
-double - 8Byte (64bit) [ 1.7E-308, 1.7E+308 ] 
-long double - 10Byte (80bit) [ 1.7E-4932, 1.7E+4932 ] 
-char - 1Byte (8bit) ( 0, 255 ]
+double - 8Byte (64bit) [ ].7E-308, 1.7E+308 ] 
+long double - [ ]0Byte (80bit) [ ].7E-4932, 1.7E+4932 ] 
+char - [ ]Byte (8bit) ( 0, 255 ]
 
 ## Retail 
 17.99 USD
