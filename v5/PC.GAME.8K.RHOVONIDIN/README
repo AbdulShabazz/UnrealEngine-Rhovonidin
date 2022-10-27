@@ -1,6 +1,15 @@
-README
+# RHOVONIDIN
+### The Final Arena
 
-unblockable movesets
+Content for Unreal Engine 5.0
+
+Reference images uploaded from the Nexus
+
+# Backstory
+
+
+
+unlockable movesets
 - [ ] Allow Lance and other NPCs smooth skip of abort combat animations aid combat for imoroved gameplay and anticipating PCs
 - [ ] To Lance, striking him to the ground,
 "Where are you from, Grifter?"
@@ -11,8 +20,9 @@ Shinoba
 use the ongoing conflict to build his Everlast empire; construct a vacation home; build a beach shelter ) and
 progress it to its completion or free-roam the entire map in a way that interests you
 - [ ] Apply experimental textures to all primary shapes (circle, sphere, plane, square, etc) to quickly find artifacts and other rendering issues
-- [ J Star Wars Biomes (REFERENCE) [ ] research velociraptor (sounds) Jurassic Park (Bar-Hades) (REFERENCE) Embed a game trailer into the start menu (main landing page) Lance begins the fourney feeble and weak. but progressively grows stronger and formadaose
-[ ] Assassin's Creed (REFERENCE) Character Animation
+- [ J Star Wars Biomes (REFERENCE) 
+- [ ] research velociraptor (sounds) Jurassic Park (Bar-Hades) (REFERENCE) Embed a game trailer into the start menu (main landing page) Lance begins the fourney feeble and weak. but progressively grows stronger and formadaose
+- [ ] Assassin's Creed (REFERENCE) Character Animation
 - [ ] Lance discovers stray twin pups! Being more fond of animals then people, he names her Tulip &
 KOZ.
 He takes them in and trains them as his own into flerce and loyal combat dogs - (The Sabre)Tulip & Roz
@@ -22,7 +32,9 @@ Rhovonidin
 situational combat is the way he unlocks experience
 - [ ] Once leveled-up, Lance must perfect his attack timing for optimal situational combat results
 - [ ] Update game content via download, as the player progresses and or new patches or DLC become available
-- [ ] Use vibration + Visual + Audio feedback to indicate combo completion [ ] "Parallel Random Number Generation, as Easy as 1-2-3", John K Salmon (REFERENCE) [ ] "A Very Fast Parallel Random Permutation Algorithm", Axel Bacher (REFERENCE)
+- [ ] Use vibration + Visual + Audio feedback to indicate combo completion 
+- [ ] "Parallel Random Number Generation, as Easy as 1-2-3", John K Salmon (REFERENCE) 
+- [ ] "A Very Fast Parallel Random Permutation Algorithm", Axel Bacher (REFERENCE)
 - [ ] The Action (Combat) Toggle (le Threat Presence Meter), and when to employ it, is used to drive the story, however the choice
 and its outcomes are left up to the player (eg. the Active Threat meter for Dr. Meade)
 - [ ] Perhaps add an accessible content pane or drawer to the bottom of the screen, Instead of an Inventory Menu or Pause Screen
@@ -41,7 +53,7 @@ The correct space-time placement of these pectral components is a keystone for l
 Hennethica Theme - Inexpressible by Ben Botkin, Berlin Con SordIno Strings - Orchestraltools.com
 ' Bar-Hades Thame - Miraeth by Alex Lamy, Berlin Con Sordino Strings - Orchestraltools.com ] Unnamed Theme - 00:22:00 orchestraltools, Berlin: A Capitol Announcement - youtube
 - [ J Outsource bug & vulnerability testing
-[ ] The Shard arrows are rugged and massive, with the thickness of a broom handle or fighting bo
+- [ ] The Shard arrows are rugged and massive, with the thickness of a broom handle or fighting bo
 * t I Microsoft Project Acoustics UES plugin requires an Azure rebake only when there is a mesh material or mesh material location change
 - [ ] Fully Integrate cutscenes so they can play out exactly where the character is standing, when he/she is not engaged in a preclusive action, such as combat, and is idle.
 * J Put editable values Into a data table (data structure), for easy editing Instead of searching blueprints for these static values
@@ -68,7 +80,9 @@ Latency and boost frame rates )
 - [ ] Ship BOSS engine as a UES plug-in
 [ ] work in 8K textures, sprites, particles, and brushes. You can always down-scale to the resolution you need
 - I 1 Distill a VFX reference library, separate from your current project
-- [ ] The game uses a mission-driven system along with (side) quests, to level-up player abilities [ ] IWU (Include What You Use) helps reduce compile-time of UE projects in Visual Studio [ ] Use C+ Modules Instead of C++ Header files for faster compilation times
+- [ ] The game uses a mission-driven system along with (side) quests, to level-up player abilities 
+- [ ] IWU (Include What You Use) helps reduce compile-time of UE projects in Visual Studio 
+- [ ] Use C+ Modules Instead of C++ Header files for faster compilation times
 - [ ] Use C+ smart pointers for automatic garbage collection (drawbacks: Performance, thread safety)
 - [ J Build Plugins which allow us to design, build, and debug the game, in-editor [ J Attach multiple cameras to the player, which can be toggled ON ad OFF, and animated during combat sequences
 - [ ] Map Size: 10 MPH Max Velocity * 2 HRS Coast-to-Coast Max Allowance a 20 SQ MI; or 1 SQ MI per
@@ -77,7 +91,8 @@ Latency and boost frame rates )
 similar to Nlagra, in an editor which divides dual details panels.
 
 - [ ] Use a spline tool for procedural water tools and terrain generation;
-- disk, sphere, square, cube, ray or conic... - with greatest density and detail at the origin [ ] Can UES > world partition > minimap serve as the in-game map ??
+- disk, sphere, square, cube, ray or conic... - with greatest density and detail at the origin 
+- [ ] Can UE5 > world partition > minimap serve as the in-game map ??
 - [ J Use appropriate onscreen labels, during gameplay, for important fleld bosses and artifacts
 - [ ] Include a Practice Mode to spar against various NPCs, and varying quantities
 - [ ] Add an Undo Stack window to the editor, with thumbnails/screenshots of previous editor
@@ -131,8 +146,10 @@ Lance's offensive capability (eg breaking his bones), only then drawing their sw
 - [ ] Trees Vol 4 159.99
 - [ ] Spectrum Galaxy 169.99
 - [ ] Mountain Forest and Meadows 179.99
-- [ ] Sandstorm Environment 199.99 [ ] Mountain Redwood Forest Biome 209.99
-- [ ] MW Burned Trees Biome 209.99 [ ] Mw Birch Trees Biome 209.99
+- [ ] Sandstorm Environment 199.99 
+- [ ] Mountain Redwood Forest Biome 209.99
+- [ ] MW Burned Trees Biome 209.99
+- [ ] Mw Birch Trees Biome 209.99
 * [ ] Mw Conifer Forest 209.99
 - [ ] Mw Broadleaf Trees Forest Biome 209.99
 - [ J Fantasy Dungeons 99.99
@@ -147,12 +164,22 @@ Lance's offensive capability (eg breaking his bones), only then drawing their sw
 - ( 1 Modular Scifi Polaris Defense 49.99
 - [ ] Modular SciFi Office 49.99
 - [ ] The Church 44.99
-- [ J King Arthur Castle Interior 69.99 [ ] Ion Modular Asset (Bedroom) 49.99 ] Modular Fantasy Inn 49.99
+- [ J King Arthur Castle Interior 69.99 
+- [ ] Ion Modular Asset (Bedroom) 49.99 
+- [ ] Modular Fantasy Inn 49.99
 - [ ] Manager Office Classic Style 44.99
 - [ ] Tropical Follage and Landscape 44.99
 - [ ] SciFi Modular Environment 39,99
 - [ ] Minimalist Modular SciFi Interior 39.99
-- [ J Cave Environment Modular 39.99 [ ] Modular Brutalist Pack 39.99 [ ] Cyberpunk Toilet Environment 39.99 [ ] Matte Painting Skybox Bundle II 39.99 [ J Brushify Tropical Pack 39.99 [ ] Brushify Arctic Pack 39.99 ( 1 Brushify Canyons Pack 39.99 [ ] Brushify Cliffs Pack 39,99 [ ] Brushify Forest Pack 39.99
+- [ J Cave Environment Modular 39.99 
+- [ ] Modular Brutalist Pack 39.99 
+- [ ] Cyberpunk Toilet Environment 39.99 
+- [ ] Matte Painting Skybox Bundle II 39.99 
+- [ ] Brushify Tropical Pack 39.99 
+- [ ] Brushify Arctic Pack 39.99 
+- [ ] Brushify Canyons Pack 39.99 
+- [ ] Brushify Cliffs Pack 39,99 
+- [ ] Brushify Forest Pack 39.99
 - [ ] Earth Simulator 39.99
 - ( 1 Palms Pack 02 34.99
 
@@ -198,7 +225,8 @@ keyword library)
 
 - [ ] Test NaMesh (FP Accuracy) as far away from the origin as the player/NPC is allowed
 - [ ] A.I. Fuzziness employs tolerance (ranges) to reduce Indecision/inconsistency (Note: You cant fix inconsistency by adding complexity, eg. Instead of two A.I. trying to determine which should attack the player, first -- let the player's game mechanic decide )
-- [ ] Document (Semantic) intent to better find hard-to-duplicate bugs [ ] Ensure fast-forwarded cut-scenes are still legible and audible to progess the story
+- [ ] Document (Semantic) intent to better find hard-to-duplicate bugs 
+- [ ] Ensure fast-forwarded cut-scenes are still legible and audible to progess the story
 - I J Keep a pre-viz motion-capture shotlist. Use verbs for direction (eg. Faster, louder, etc)
 - [ ] Use Orthographic Views to detect render and animation flaws, instead of using Perspective View
 - [ ] Gaas (Games as a Service) : Game Systems are simple, scalable, extensible, secure, and stable
@@ -235,7 +263,8 @@ Missing loosely coupled modules wont cause failures;
 Stateless engines are more stable (crashless);
 - [ ] HP Meter flash iff damage taken is greater than 25%
 - [ ] $2 M of $3 M budget s/b to attract star-power
-- [ ] Fighting combinations are unlocked once they are used, for faster speedruns [ ] Animations: Consider replacing skeletal mesh with static mesh (performance) without loss in visual quality, similar to how follage is animated
+- [ ] Fighting combinations are unlocked once they are used, for faster speedruns 
+- [ ] Animations: Consider replacing skeletal mesh with static mesh (performance) without loss in visual quality, similar to how follage is animated
 - [ J Use mesh islands (within the mesh), rather than separate combined mesh for complex objects
 
 (Cars, Machines, Etc.)
@@ -260,7 +289,9 @@ and mpw NPCs can react smoother to Character animation, reducing required baked 
 - [ J Include a radio station of soundtracks, spanning multiple genres
 - [ J Embed extreme unique and unforgettable NPCs, areas, missions; no cut-n-paste effort
 - [ ] Encourage community NFTs, marketplace, maps, etc, for new game-based assets
-- [ ] Quick, measured (equal damage) counter-attacks recover HP [ ] Challenge the player to access various areas of the map- only by chaining their abilities [ ] Turning in the direction of the wind allows you to hear the breeze
+- [ ] Quick, measured (equal damage) counter-attacks recover HP 
+- [ ] Challenge the player to access various areas of the map- only by chaining their abilities 
+- [ ] Turning in the direction of the wind allows you to hear the breeze
 - [ ] Employ more visually engaging close-up fight cinematics
 - [ ] Firearms emit high velocity tracer rounds, which can be tracked by the human high (especially paused game states)
 - [ J Holding the *action* button, with proper placement, alignment, velocity, momentum, and heading before an NPC, enables Lance to execute a properly timed attack or counter attack;
@@ -327,10 +358,15 @@ J Old Catacombs $9.99
 [ ] Northern Forest 24.99
 [ ] Church 29.99
 [ ] 8K valley landscape 19.99
-- [ ] Echoing Malls 19.99 [ ] Caverns and Caves 19.99
+- [ ] Echoing Malls 19.99
+- [ ] Caverns and Caves 19.99
 - [ ] warehouse Photoscans 19.99
 - [ ] 8K Volcano Pack 19.99
-- [ ] 8K Island Landscape Pack 19.99 [ ] 8K Arctic Landscape 19.99 [ ] Ancient Temple Modular Asset Kit 19.99 [ ] Modular Scifi Colony Environment 19.99 [ ] Brushify Dunes Pack 19.99
+- [ ] 8K Island Landscape Pack 19.99 
+- [ ] 8K Arctic Landscape 19.99 
+- [ ] Ancient Temple Modular Asset Kit 19.99 
+- [ ] Modular Scifi Colony Environment 19.99 
+- [ ] Brushify Dunes Pack 19.99
 - [ ] White Rocks 19.99
 - [ ] Brushify Desert Mountains Pack 19.99
 - [ ] Brushify Grasslands Pack 19.99
@@ -347,7 +383,10 @@ J Old Catacombs $9.99
 [ ] Scifi Interior Space Corridor 13.99
 - [ ] Swiss Grassfield Environment 13.99
 - [ ] Statues Set 01 13.99
-- [ I Modular Exhibition Gallery 9,99 r 1 Fantasy Forest 9,99 [ J Elite Landscapes * 9.99 [ ] Ancient Ruins 9.99
+- [ I Modular Exhibition Gallery 9,99 
+- [ ] Fantasy Forest 9,99 
+[ ] Elite Landscapes * 9.99 
+- [ ] Ancient Ruins 9.99
 - [ ] Modular Scifi Interior 9.99
 - [ ] wind Turbines 9,99
 - [ ] Reef Kit 9.99
@@ -369,7 +408,8 @@ J Old Catacombs $9.99
 - [ ] Forest Gnoll Set 4.99
 #* Music
 [ Soundtrack Dubstep Rock Electronic None ] - Volume
-- [ ] Save Individual timbres, for easier in-game orchestration [ ] Use a state-machine to monitor the thematics & mood of gameplay
+- [ ] Save Individual timbres, for easier in-game orchestration 
+- [ ] Use a state-machine to monitor the thematics & mood of gameplay
 #* Console Effective Storage
 PSS - 667 GB
 XBOX Series X 802 GB
@@ -411,10 +451,12 @@ Wardrobes { .. )
 ] HUD [on/offi
 1 Video &amp; Resolution
 [ ] video Adapter ( CPU | Available GPU Card[s] )
-[ ] Display Resolution [ ]080,1440, 3840,4096, 8192]
+[ ] Display Resolution [ 1080, 1440, 3840, 4096, 8192 ]
 [ ] Aspect Ratio [4:3,16:9,16:10]
 [ ] DPI
-[ ] Refresh Rate [60,120, 144, 165, 240, 360,480,590] Hz [ ] window Mode [ ] Audio
+[ ] Refresh Rate [60,120, 144, 165, 240, 360,480,590] Hz 
+- [ ] window Mode 
+- [ ] Audio
 [ ] Sound (Enable static levels or dynamic )
 - [ ] Game FX
 - [ ] Colon
@@ -608,9 +650,21 @@ I J (Map-Covering) Double Dash (LP)
 
 ##* Gen. Edwin Agrippa
 - [ ] Quick-Spear throw, up to 4x (IK)
-- [ ] RAH (Cross-Field Attack) (IK) { ] Atlas Shrugged (IK) [ ] Epic Leap (Limited Range) (IK) г 1 Too Slow (Dodge) (IK) [ ] Insane Dancing Bo (IK) ( 1 Invincible (targeted) (Bar-Hades) (IK) [ ] Dancing Bo (HP2) [ ] The Everlasting (XFighter) (HP2) [ ] Crowd Strike (HP2)
-- [ ] What's up Bo? (HP2) [ ] Ground Zero (HP2) [ ] The Seven Cerberus (HP2)
-- [ ] Hip shift - Shifts his hip and the entire world shifts (HP2) [ ] The Heavy Chain[s] of Ra (HP2) [ ] The Fire Chains] of Ra (HP2) [ ] The Electricity Chain[s] of Ra (HP2) [ ] Earth Crunch (MP2)
+- [ ] RAH (Cross-Field Attack) (IK) 
+- [ ] Atlas Shrugged (IK) 
+[ ] Epic Leap (Limited Range) (IK) г 1 Too Slow (Dodge) (IK) 
+- [ ] Insane Dancing Bo (IK) ( 1 Invincible (targeted) (Bar-Hades) (IK) 
+- [ ] Dancing Bo (HP2) 
+- [ ] The Everlasting (XFighter) (HP2) 
+- [ ] Crowd Strike (HP2)
+- [ ] What's up Bo? (HP2) 
+- [ ] Ground Zero (HP2) 
+- [ ] The Seven Cerberus (HP2)
+- [ ] Hip shift - Shifts his hip and the entire world shifts (HP2) 
+- [ ] The Heavy Chain[s] of Ra (HP2) 
+- [ ] The Fire Chains] of Ra (HP2) 
+- [ ] The Electricity Chain[s] of Ra (HP2) 
+- [ ] Earth Crunch (MP2)
 1 Adversarial Revival (retarget)
 ] Together, to Dust (retarget)
 
@@ -618,17 +672,21 @@ I J (Map-Covering) Double Dash (LP)
 [] 
 []
 
-#u Bar Hades
-- { 1 Flame of Mades (IK)
+## Bar Hades
+- [ ] Flame of Mades (IK)
 - [ ] You're Fired (IK)
 - [ ] Reign of ash (IK)
 - [ ] Awk Awk Awk - Kill them all (IK)
-- { 1 Meteor (Shower) (IK) [ ] Mmm - (targeted) Kill Him (IK) [ ] The Clydesdale Promenade (IK) [ ] The Leopard's Prey Crossfield Rundown, Bite, Flame Attack & Stomp (targeted) (IK) [ ] Titan Fall (IK) [ ] YOU! (Battalion Siege) (Targeted) (IK)
+- [ ] Meteor (Shower) (IK) [ ] Mmm - (targeted) Kill Him (IK) 
+- [ ] The Clydesdale Promenade (IK) 
+- [ ] The Leopard's Prey Crossfield Rundown, Bite, Flame Attack & Stomp (targeted) (IK) 
+- [ ] Titan Fall (IK) 
+- [ ] YOU! (Battalion Siege) (Targeted) (IK)
 - [ ] Seeker's Revenge (Leer) (IK)
 - [ ] Hell will Rise (IK)
 - [ ] The Phantom Menace (IK)
 
-- [ ] GLUKI GLUKI GLUK! (IK)
+- [ ] GLUK! GLUK! GLUK! (IK)
 - [ ] Steballis (HP2)
 - [ ] Tail whip (targeted) (MP)
 - [ ] Grand Tail whip (ground) (Prototype: breakfall) (MP)
@@ -638,16 +696,26 @@ I J (Map-Covering) Double Dash (LP)
 - [ ] Downforce (LP)
 - [ ] Huff (targeted) (one-off) (Motif Disable) (LP)
 - [ ] Ground Zero (Nuclear Plume + Mushroom Cloud + Ground Storm)
-#** Federation Vice Lieutenant Edgar Rhaimis Peter Sheeran
+
+### Federation Vice Lieutenant Edgar Rhaimis Peter Sheeran
 - [ ] Helm's Dagger (IK)
-- [ ] Cut 'em Clean (targeted) (IK) [ ] Mello Armorment (Deflection) x 1 (IK) [ ) Hello dagger (Deflection) (IK) [ ] when in Doubt (Call in an Airstrike) (IK) [ ] when in Doubt (Call in an Airstrike) (IK) [ Machine Gun Kelly (MP) [ ] Machine Gun Sally w/ Launcher (MP) [ ] Get that hol (HP2) [ ] Sniper's Buffet (HP2)
+- [ ] Cut 'em Clean (targeted) (IK) 
+- [ ] Mello Armorment (Deflection) x 1 (IK) 
+- [ ] Hello dagger (Deflection) (IK) 
+- [ ] when in Doubt (Call in an Airstrike) (IK) 
+- [ ] when in Doubt (Call in an Airstrike) (IK) 
+- [ ] Machine Gun Kelly (MP) 
+- [ ] Machine Gun Sally w/ Launcher (MP) 
+- [ ] Get that hol (HP2) 
+- [ ] Sniper's Buffet (HP2)
 - [ ] Pistol Protocol (HP)
-[ ] Pink Slip (MP2)
-[ ] Call it a gut feeling (targeted) (LP2)
+- [ ] Pink Slip (MP2)
+- [ ] Call it a gut feeling (targeted) (LP2)
 - [ ] 30+ Gun-jitsu fight combinations
-- [ J hand-to-hand (expert) (tosses, lifts, throws, punch, kick, rolls, bone breaks) (LP2) [ ] Pale Rider (MP)
-1 Leader of The Pack (MP)
-[ ] Knives Outl (MP)
+- [ ] hand-to-hand (expert) (tosses, lifts, throws, punch, kick, rolls, bone breaks) (LP2) 
+- [ ] Pale Rider (MP)
+- [ ] Leader of The Pack (MP)
+- [ ] Knives Outl (MP)
 []
 
 
@@ -670,23 +738,27 @@ SHINOBA (Agrippa's Chief of Security)
 ##* The Kraken (I/IL)
 - [ ] Debris Toss (Shower) (IK)
 - [ ] Rock / Debris landslide (IK)
-- [ ] Boulder Toss (targeted) (IK) [ ] Element (Metropolis Wall | Tree | Mountain) Smash &amp; Quake (IK) [ ] Swat it (LP) [ ] Foot stomp (LP)
+- [ ] Boulder Toss (targeted) (IK) 
+- [ ] Element (Metropolis Wall | Tree | Mountain) Smash &amp; Quake (IK) 
+- [ ] Swat it (LP) 
+- [ ] Foot stomp (LP)
 []
 
-- [ J Ground Zero Lightning Storm (Mass Energy Drain) (HP2)
+- [ ] Ground Zero Lightning Storm (Mass Energy Drain) (HP2)
 - [ ] Heavy Lightning (Energy Drain) (MP2)
 - [ ] Medium Lightning (Energy Drain) (MP)
 - [ ] Fast Lightning / Thanks for the snack (targeted, Energy Drain) (LP2)
-- [ ] win, Rocky! Winl (Lightning Punch Flurry) (targeted) (LP2) [ ] Reversall ( rear attack from stealth-cloak) (IK)
-* ] Dodge (w/ transparency)
+- [ ] win, Rocky! Winl (Lightning Punch Flurry) (targeted) (LP2) 
+- [ ] Reversall ( rear attack from stealth-cloak) (IK)
+- [ ] Dodge (w/ transparency)
 
-##* Hennethica Henner (Agrippa's Friend)
+### Hennethica Henner (Agrippa's Friend)
 - ( ] Infinity Stab (IK)
 - [ ] Dodge This! (IK)
 - [ ] Back at you! (IK)
 - [ ] Dodge (LP2) { ] Kick Stun (LP2)
 
-###* NPCs, Flora & Fauna
+#### NPCs, Flora & Fauna
 - [ I Seven Cerberus - Agrippa's prized war dogs. Intelligent. And obediant only to him. Agrippa quickly makes waste to any foe, with the use of them.
 - [ ] Ibra-lim - Remote Viewers, trained by The Shard, through protracted torture, in order to heighten their survival skills.
 
@@ -785,20 +857,24 @@ ase Dr. Meade
 ass Hennethaco
 - [ ] Cello, Pizz. Strings,
 Brass
-en Fight Chancs
+en 
+
+Fight Chants
 #** Lance Rhovonidin
-- [ ] I do not fear the Hell that comes; I welcose 1tl ( ) Agrippa, acknowledge mel [ ) Agrippal I am herell
+- [ ] I do not fear the Hell that comes; I welcome it!
+- [ ] Agrippa, acknowledge mel 
+- [ ] Agrippal I am herell
 Is there noone/anyone who can challenge ne?l
 [ ] I will disassemble you!
 [ ¡ Really ?!
 ) Agrippa, I have no equall
 You should out down your weapon
-You should out down your weapon
-for your safety!
+You should put down your weapon
+It's for your safety!
 ...before you anger mel
-[ ) Fear ay training!
+[ ] Fear my training!
 ] This mind has trained this body. It will not fail its masterl
-[ ) My aind has trained my body. It will not fall mel [ ] My aind has trained this body.
+[ ] My aind has trained my body. It will not fall mel [ ] My aind has trained this body.
 you are not prepared for me
 are not ready (for me)l
 ] Run away I Now I!
@@ -820,9 +896,16 @@ are not ready (for me)l
 - [ ] (Growl| Sneer| Jovial|Somber)What are you talking about?
 - [ ] My friend, I'm afraid you've commited a dire mistakel
 ## Federation NPCs / The Shard (NPCs)
-- r 1 Relax! I'11 handle him, myselfil
-- [ ] You are nothing! ( 1 Runil [ ] He's too powerfull
-- [ ] He's much too powerful! [ ] He's so powerful ! [ ] Can anyone else stop him?! [ ' Can anyone stop him?! [ ] Someone stop him! [ ] No, I'm afraid !
+- [ ] Relax! I'11 handle him, myselfil
+- [ ] You are nothing! 
+- [ ] Run
+- [ ] He's too powerfull
+- [ ] He's much too powerful!
+- [ ] He's so powerful ! 
+- [ ] Can anyone else stop him?! 
+- [ ] Can anyone stop him?! 
+- [ ] Someone stop him! 
+- [ ] No, I'm afraid !
 - [ ] Let us go!
 - [ ] Whoal
 - [ ] Whoal Did you see that?)
@@ -842,11 +925,13 @@ are not ready (for me)l
 ### Lance Rhovonidin
 - [ ] The Two Chainmen
 - [ ] The Four Chainmen
-- [ J The Two Archers . [ ] The Six Archers
+- [ J The Two Archers . 
+- [ ] The Six Archers
 - [ ] The Twelve Archers
 
 [ ] The Four Remnant
-[ ] The Twelve Remnant [ ] The Sixteen Remnant
+[ ] The Twelve Remnant 
+- [ ] The Sixteen Remnant
 [ ) The Two Ultrawolves (Draz-Ghoul)
 [ ] The Six Ultrawolves
 [ ] The Twelve Ultrakolves
@@ -857,12 +942,19 @@ are not ready (for me)l
 RHOVONIDIN
 The Final Arena
 # Notes
-#排# Core Traits
-- [ ] Rhovonidin-Mercenary [ ] Agrippa-Conquest [ ] Dr .Meade-Intellectualism [ I Henethica-Coherence
+### Core Traits
+- [ ] Rhovonidin-Mercenary 
+- [ ] Agrippa-Conquest 
+- [ ] Dr .Meade-Intellectualism 
+- [ ] Henethica-Coherence
 - [ ] Bar Hades-Fidelity
 - [ ] Lt. Sheeran-Obediance
 ### Secondary Traits
-- [ ] Lt. Sheeran 7'2 [ ] Lance: 6'10" 285 Brunette Dual Solitary braids [ ] Kayman: 6'10" 235 [ ] Gen.Agrippa 6'7 [ ] Shinoba 6'4
+- [ ] Lt. Sheeran 7'2 
+- [ ] Lance: 6'10" 285 Brunette Dual Solitary braids 
+- [ ] Kayman: 6'10" 235 
+- [ ] Gen.Agrippa 6'7 
+- [ ] Shinoba 6'4
 - [ ] Kawamura: Giant Remnant killer, unleashed by Lt. Sheeran
 - [ ] Bar Hades: fire engine red Allosaurus size Black dreaded spicones Claws Flesh taloned wings
 Armored tail
@@ -877,7 +969,8 @@ Armored tail
 - [ ] Build an API driven IDE SDK which instantiates necessary classes, properties, library imports, parameter list completions, and function calls as standard overhead.
 - [ ] Use Perlin Noise to generate Meight/Displacement/Bump Maps that can be inspected before approval, instead of random level generation ( le No State of Gameplay Should Ever be Unknown to The Developer ) 
 - [ I Supporting Actor's are brought back to support Rhovonidin
-- [ J Construct an obstacle course to verify character agility [ ] Remote Viewers analyze behavior to build digital profiles for use as potential military targets
+- [ J Construct an obstacle course to verify character agility 
+- [ ] Remote Viewers analyze behavior to build digital profiles for use as potential military targets
 
 - [ ] Dr. Meade's time & space computational weapon invokes The Dulles Effect on its victims, entrancing them into selecting decision pathways whose outcome is known
 - [ I Maps show all collectibles, power-ups, new weapons, and abilities
@@ -911,21 +1004,25 @@ W# References
 champion.
 [ 6 ] 4K HDR Game file (~100 GB)
 [ 7 1 given: toggle|true|false - - which implementation produces the lowest chance of semantic error.
+
 ### Render Performance Tips
-[ 8 1 - Flatten multiple textures Into a single image texture, resulting in a single draw [ 9 ] - Break animation sequences into modular animation sequences (Jump, Crawl, Wink, etc.) for easier bake into keyframe animation sequence . Or use batched draw calls (UES), or Merge Actors . Or use Character AI and the screen recorder (in blender)
-1.  eventPossessed is more responsive than beginPlay for multiple 
-2. [ ]1 ] - Python macros 
+[ 8 1 - Flatten multiple textures Into a single image texture, resulting in a single draw 
+[ 9 ] - Break animation sequences into modular animation sequences (Jump, Crawl, Wink, etc.) for easier bake into keyframe animation sequence . Or use batched draw calls (UES), or Merge Actors . Or use Character AI and the screen recorder (in blender)
+10  eventPossessed is more responsive than beginPlay for multiple 
+2. [ 11 ] - Python macros 
 
 Game mode state - rules
 Game state - real-time play 
 player game state -
 
-[ ]2 ] Kingston DataTravelerMax [ 256, 512, 1000 ] GB USB C flash drive for $[ 91, 153, 262 ] USD
+[ 12 ] Kingston DataTravelerMax [ 256, 512, 1000 ] GB USB C flash drive for $[ 91, 153, 262 ] USD
 respectively
-( 13 ) Build plugin for dynamic story generation based on prerecorded walkthroughs in unreal engine [ ]4 ] Venues - STEAM | EPIC GAMES | LUTRIS | NVIDIA STORE | YOUTUBE | PATREON | TWITCH | PLAYSTATION | XBOX | MICROSOFT STORE | GEFORCE NOW
+( 13 ) Build plugin for dynamic story generation based on prerecorded walkthroughs in unreal engine
+- [ 14 ] Venues - STEAM | EPIC GAMES | LUTRIS | NVIDIA STORE | YOUTUBE | PATREON | TWITCH | PLAYSTATION | XBOX | MICROSOFT STORE | GEFORCE NOW
 [ ]5 ] Demo Environments - Valley of the Ancients ( 100 GB ), Medieval Game Environment ( 20 GB )
 {16 ] Develop a QUEST (plugin) which uses extensible interrogative queries for faster prototyping w/ builtin performance optimization using full english length click select statements . with semantic validation performed by Python Z3 Prover . All data structures distilled in JSON XML tree parse form
- Along with the ability to compare compile issues vs compile warnings for further optimization [ ]7 ] Download Unrealengine documented APIs as reference text/SON
+ Along with the ability to compare compile issues vs compile warnings for further optimization 
+[ ]7 ] Download Unrealengine documented APIs as reference text/SON
 [ ]8 ] VS CODE + tabnine plugin (f/ intellisense emulation)
 [ ]9 ] (Unreal) Twinmotion 499.99 perpetual license for interior set design
 [ 20 ] World Machine - Auto terrain generation SD
@@ -935,7 +1032,12 @@ respectively
 Notes
 Each sparse well-timed button-press triggers a battle sequence; spamming buttons is ineffective. No hints or meters are shown. Instinct is properly developed.
 ## C++ Data Types
-int - 48 (326) [-2 147 483 648, 2 147 483 647] unsigned int - 48 (32b) [0, 4 294 967 295] float - 48 (326) [3.4-38, 3.4E38] double - 8B (646) [ ].7E-308, 1.7308] long double - 108 (80b) [ ].7E-4932, 1.74932] char - 18 (8b) (0, 255]
+int - 4Byte (32bit) [ -2_147_483_648, 2_147_483_647 ] 
+unsigned int - 4Byte (32bit) [ 0, 4_294_967_295 ] 
+float - 4Byte (32bit) [ 3.4-38, 3.4E38 ] 
+double - 8Byte (64bit) [ 1.7E-308, 1.7E+308 ] 
+long double - 10Byte (80bit) [ 1.7E-4932, 1.7E+4932 ] 
+char - 1Byte (8bit) ( 0, 255 ]
 
 ## Retail 
 17.99 USD
