@@ -9,7 +9,7 @@ Reference Images uploaded from the nexus
 
 # Backstory
 
-Play as Lance Rhovonidin! Join The Remnant and wade into the disputed territories, toward the Walled Metropolis to retake the crown from General Agrippa to crush his Shard rebellion.
+Play as Lance Rhovonidin! Join The Remnant and wade into the disputed territories, toward the Walled Metropolis to retake the crown from General Agrippa and crush the Shard rebellion.
 
 Lance's parents are the founders of KaiZen warfare: Lance's mother pioneered Zen fighting, which focuses only on lethal and effective movement; and his father developed the art of 1-hit kill, theoretically allowing a soldier to vanquish an unlimited number of opponents.
 
