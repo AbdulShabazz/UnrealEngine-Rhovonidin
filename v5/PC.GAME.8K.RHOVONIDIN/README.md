@@ -1,383 +1,197 @@
-# RHOVONIDIN
+# Rhovonidin
 ### The Final Arena
 
 Content for Unreal Engine 5.0
 
-Reference images uploaded from the Nexus
+Reference Images uploaded from the nexus
+
+(IMAGES: github.com/AbdulShabazz/UnrealEngineIMGs-RHOVONIDIN-I)
 
 # Backstory
-Play as Lance Rhovonidin, join The Remnant and wade into the disputed territories, toward the walled Metropolis to retake the crown from General Agrippa to crush The Shard rebellion.
 
-Lance is the founder of Kaizen warfare: Lance's mother pioneered Zen fighting, which focuses on lethal and effective movement; and his father developed the art of 1-hit-instant-kill, allowing in to vanquish an unlimited number of opponents.
+Play as Lance Rhovonidin! Join The Remnant and wade into the disputed territories, toward the Walled Metropolis to retake the crown from General Agrippa to crush his Shard rebellion.
+
+Lance's parents are the founders of KaiZen warfare: Lance's mother pioneered Zen fighting, which focuses only on lethal and effective movement; and his father developed the art of 1-hit kill, theoretically allowing a soldier to vanquish an unlimited number of opponents.
 
 ## Genre
-Open World | Adventure | Action | Combat | Early Access | Hack and Slash | Indie | MMORPG
-Mulitplayer | RPG
-# Platforms
-PL
+Open World | Adventure | Action | Combat | Early Access | Hack and Slash | Indie | MMORPG | Multiplayer | RPG
+
+## Platforms
+PC
 Linux
-Apple Platforms (iPhone, iPad, Ic, Масвоок)
-Android Platforms (Smartphones, Tablets)
-КВОХ
+Apple (iPhone, iPad, iMac, MacBook)
+Android (Smartphones, Tablets)
+XBOX
 PLAYSTATION
 NINTENDO
 
-## Platforms (Mobile )
+## Mobile Platforms
 Apple Arcade
 Google Stadia
 Amazon LUNA
 XBOX Live
 GeForce Now (3080)
-# Marketplace (Free Demo)
+
+## Marketplace
 Steam
-Epic
+Epic Games
 GeForceNow
 Lutris
 Microsoft Store
-XsOX Live
-YouTube
+XBOX Live
+Youtube
 Itch.io
 GOG
 
-# Supported Languages [Audio]
+## Supprted Languages [Audio]
 English
 
-## Supported Languages [Captioned]
+## Supprted Languages [Captioned]
 English
 French
 Italian
 German
 Spanish
-# Notes
+
+## IDE / SDK - Unreal Engine
+- [ ] Compile 8c optimized PE
+- [ ] Add grid snap to nodes
+- [ ] Allow swap unencumbered crossed wires
+- [ ] Disable bright colored wires [ Engine > Source > Editor Graph Editor > Private > ConnectionDrawingPolicy.cpp:512 ]
+
+## Notes
+
+- [ ] Import cast (characters) cast into unreal
+- [ ] If Lance mis times an initial attack but the follow up is timed perfectly, his character recovers his initiative (eg weapon drop which damages opponent onlyvto be recovered to inflict further damage) to inflict deep the damage
+- [ ] Pressing the Xi button near enemies gives Rhovonidin preemptive abilities
 - [ ] Enable skip cinematics
-- [ ] Enable skip sidestorles (subplots eg Lt. Sheeran) and sidequests (eg the cabin in the woods), for faster speedruns, however player misses these opportunities to level-up their abilitles
-- [ ] Seperate animations by stride for smoother frame LERP; or segment continuous frame sequence using sync markers .
-- [ ] Develop (gameplay engine) in C++ then expose to Blueprints- for Animation, Level, Character, etc
-- [ ] Chain animation sequences, for smoother transitions
-- [ ] Telegraph battle cutscene entry points with emissive textures for gestures, weapons, and scene props, so Lance stays focused on the Xi meter
-- [ ] Game sounds play at full Initially with gradual decay to minimize listening fatigue
-- [ ] Environment sounds play initially louder upon new encounters (eg Fields of Grass a&gt; country road )
+- [ ] Enable skip subplots and side-quests (eg. Sheeran), for speedruns; however player misses the opportunity to level-up
+- [ ] Seperate animations by stride for smoother frame LERP; or segment continuous frame sequence using sync markers
+- [ ] Develop (gameplay engine) in C++ then expose to Blueprints
+- [ ] Chain animation sequences for smoother transitions
+- [ ] Telegraph battle cutscene entry points with emissive textures for gestures, weapons, and props, so Lance remains focused on the Xi meter
+- [ ] Game sounds play at full volume upon first encounters (eg Fields of Grass > country road)
 - [ ] Allow idle recuperation
-- [ ] Wardrobes grant Rhovonidin specific abilities
-- [ ] Enable wardobe ( enrobe ) animations and sounds and SFX
+- [ ] Wardrobes grant Lance special abilities
+- [ ] Enable wardrobe (enrobe) animations and sounds SFX
 - [ ] Player chooses spawn terrain
-- [ ] New animations employed by the player are awarded as unlocks for the character (for later reference); tutorials are
-also available during the game for appropriate context-sensitive training
+- [ ] New animations unlocked by the player are awarded as unlocks in their inventory, with tutorials, for later reference. Tutorials are available during the game for context sensitive training.
 - [ ] Terrains have their own themes
-- [ ] Incorporate Summon (timer-countdown) Flag Poles, which have the ability to activate summon or can be disbled (via adversary players)
-- [ ] A player's victory growl induces shockwaves into the floor which can inflict further damage you fail to retreat, in awe .
-- [ ] Lance can replay prior map levels to unlock all animations ( for online play )
-- [ ] JUMP, DUCK, DODGE, CLIMB, SWIM, SLIDE (etc non-standard movements, A. I. processed automatic without keybindings or player interaction)
-- [ ] Lance can set waypoints and can free-roam and REACH the entire map
-- [ ] Utilize INSERTS and INTERCUTS for a cinematic experience
-- [ ] Stealthy Sentinels can advance an attack from across the battle field 
-- [ ] Capture card integration for record gameplay 
-- [ ] Player only adjusts to camera-facing orientation when required for movement
-- [ ] Autosave cross-platform progress
-- [ ] (Optional) cross-platform play
-- [ ] KUD &amp; Health meters animate and level-up upon level start
-- [ ] Style-ized gritty minimally acrobatic In-game combat: (Captain America: Winter Soldier, wick, 300 the Movie)
-- [ ] Progressive gameplay is ultimately not required. Players may reengage respawned enemies desired area of the map 
-- [ ] Employ opening cinematics highlighting a region and its threats as well as Fade In Tit
-The UltraDam) whenever Lance enters a Blome; as well a closing cinematics upon exit.
-- [ ] Battle Motifs can be overlapped. All weapons are catchable/tossable. Lance can summon
-Motifs (to fight against him) (See below)
-- [ ] Dr. Meade employs remote-vlewers to invoke The Dulles Effect - digital twin instantiation as unlockable movesets
-- [ ] Allow Lance and other NPCs smooth skip of abort combat animations aid combat for imoroved gameplay and anticipating PCs
-- [ ] To Lance, striking him to the ground,
-"Where are you from, Grifter?"
-Shinoba
-- [ ] Lance must escape from a trick-knot
-- [ ] People enjoy the emotional expression games give, through gameplay. Focus on giving Individual emotional expression to players
-- [ ] Specially placed PCs/Actors have concurrent embedded story goals, which you can participate (eg a drug smuggler's goal to
-use the ongoing conflict to build his Everlast empire; construct a vacation home; build a beach shelter ) and
-progress it to its completion or free-roam the entire map in a way that interests you
-- [ ] Apply experimental textures to all primary shapes (circle, sphere, plane, square, etc) to quickly find artifacts and other rendering issues
-- [ ] Star Wars Biomes (REFERENCE) 
-- [ ] research velociraptor (sounds) Jurassic Park (Bar-Hades) (REFERENCE) Embed a game trailer into the start menu (main landing page) Lance begins the fourney feeble and weak. but progressively grows stronger and formadaose
-- [ ] Assassin's Creed (REFERENCE) Character Animation
-- [ ] Lance discovers stray twin pups! Being more fond of animals then people, he names her Tulip &
-Roz. He takes them in and trains them as his own into flerce and loyal combat dogs - (The Sabre) Tulip & Roz Rhovonidin
-- [ ] Chilean National Parks (REFERENCE) Geography
-- [ ] Lance uses glue-techniques (eg block, duck, dash, shove) until experienced enough to level-up (technique gained through gameplay hours);
-situational combat is the way he unlocks experience
-- [ ] Once leveled-up, Lance must perfect his attack timing for optimal situational combat results
-- [ ] Update game content via download, as the player progresses and or new patches or DLC become available
-- [ ] Use vibration + Visual + Audio feedback to indicate combo completion 
-- [ ] "Parallel Random Number Generation, as Easy as 1-2-3", John K Salmon (REFERENCE) 
-- [ ] "A Very Fast Parallel Random Permutation Algorithm", Axel Bacher (REFERENCE)
-- [ ] The Action (Combat) Toggle (le Threat Presence Meter), and when to employ it, is used to drive the story, however the choice
-and its outcomes are left up to the player (eg. the Active Threat meter for Dr. Meade)
-- [ ] Perhaps add an accessible content pane or drawer to the bottom of the screen, Instead of an Inventory Menu or Pause Screen
-- [ ] Lance has a shield to deflect phasor rounds, or perhaps an EMP mid story disables these weapons in certain areas of the map
-[ ] Characters remove their headgear for cutscenes and other drama-based actions
-- [ ] Lance equips appropriate items from his environment, in lieu of a designated inventory assignment
-- [ ] There are no combat-defense keybindings in the game, which allow Lance to defend himself:
-Even well-timed offensive manuevers would cause Lance to receive damage, resulting in a race of the last to hit bottom
-Thus It was decided this style of play would be detrimental to overall gameplay, and thus Lance was given 99% perfect idle defensel,
-- [ ] Allow Lance to focus on well-timed attacks (X1 meter) while only being punished for poor tiaing.
-- [ ] Automatle Combat Mode ( Toggle/Situational )
-- [ ] oTOY Octane Render - Meshlets SSD Streaming (Le Its Nanite for Octane GPU Rendering)
-- [ ] SOUND SYNTHESIS TOOLS Most sound waves display periodic harmonic constituents across its spectrum, which can be replicated using software.
-The correct space-time placement of these pectral components is a keystone for lIfe-llke reproduction.
-
-Hennethica Theme - Inexpressible by Ben Botkin, Berlin Con SordIno Strings - Orchestraltools.com
-' Bar-Hades Thame - Miraeth by Alex Lamy, Berlin Con Sordino Strings - Orchestraltools.com ] Unnamed Theme - 00:22:00 orchestraltools, Berlin: A Capitol Announcement - youtube
-- [ ] Outsource bug & vulnerability testing
-- [ ] The Shard arrows are rugged and massive, with the thickness of a broom handle or fighting bo
-- [ ] Microsoft Project Acoustics UES plugin requires an Azure rebake only when there is a mesh material or mesh material location change
-- [ ] Fully Integrate cutscenes so they can play out exactly where the character is standing, when he/she is not engaged in a preclusive action, such as combat, and is idle.
-- [ ] Put editable values Into a data table (data structure), for easy editing Instead of searching blueprints for these static values
-- [ ] Good story design should open more story-telling opportunity, as opposed to rehashing arenas of limited scope (Star Trek vs Star Wars )
-- [ ] Download ansd Intall NVIDIA Relfex plugin for UnrealEngine ( Syncs CPU GPU and Monitor to Reduce
-Latency and boost frame rates )
-- [ ] Shard arrow trajectorles can arc, bend, and curve
-- [ ] Bar-Nades fire jets generate light, heat waves, smoke, chromatic aberration, sparks, cinder, ash, sound, and pressure (shockwaves)
-- [ ] Bar-Hades fire quick elongated jetstream whose endpoint is all- consuming
-- [ ] Use a state-machine to programmicly orchestrate the soundtrack's dynamics and chord progressions
-- [ ] Synchronize minor sounds 8 effects with visual cues for deeper immersion
-- [ ] Attempting to upload a character Into Mixamo automatically generates an IK rig
-- [ ] During battle, steiking down a youngling, instead of deflecting or kicking them away, brings the ire of its stronger kin (eg "Papal", "Dare you to strike down a youngling boy?!* ) [ ] The abilities the player unlocks, with characters other than lance
-- [ ] Chi-Meter not visible in (Advanced) Campaign Mode, by default
-- [ ] Quick Prototype the Battle Scheduler[s] in JavaScript, for later performance translation down to assembler
-- [ ] The Rhovonidin screenplay should serve as a verified optimized, walkthrough
-- [ ] Each biome has atleast one breathtaking vlew, giving Lance an overvlew of the land, along with The Walled Metropolis City, an appropriate distance away
-- [ ] Keep combat animations faithful to typical human movements (eg no jerky animations of Agrippa hurling fifteen spears, while only three feet off the ground!)
-- [ ] During congested live-action combat, bullet-time engages
-- [ ] Include an onscreen Combo counter to earn bonus XP
-- [ ] vE Blueprints Sequence node, reduce trace clutter
-- [ ] VE Blueprints local vars, reduce trace clutter
-- [ ] VE Blueprints collapsed graphs, reduce trace clutter
-- [ ] Ship BOSS engine as a UES plug-in
-[ ] work in 8K textures, sprites, particles, and brushes. You can always down-scale to the resolution you need
-- I 1 Distill a VFX reference library, separate from your current project
-- [ ] The game uses a mission-driven system along with (side) quests, to level-up player abilities 
-- [ ] IWU (Include What You Use) helps reduce compile-time of UE projects in Visual Studio 
-- [ ] Use C+ Modules Instead of C++ Header files for faster compilation times
-- [ ] Use C+ smart pointers for automatic garbage collection (drawbacks: Performance, thread safety)
-- [ ] Build Plugins which allow us to design, build, and debug the game, in-editor [ ] Attach multiple cameras to the player, which can be toggled ON ad OFF, and animated during combat sequences
-- [ ] Map Size: 10 MPH Max Velocity * 2 HRS Coast-to-Coast Max Allowance a 20 SQ MI; or 1 SQ MI per
-- Blome
-- [ ] IDE PROPOSAL: Design a new stackable blueprints & AI Behavior Trees, tree-vlew, along with enable/disable checkmark commands -
-similar to Nlagra, in an editor which divides dual details panels.
-
-- [ ] Use a spline tool for procedural water tools and terrain generation;
-- disk, sphere, square, cube, ray or conic... - with greatest density and detail at the origin 
-- [ ] Can UE5 > world partition > minimap serve as the in-game map ??
-- [ ] Use appropriate onscreen labels, during gameplay, for important fleld bosses and artifacts
-- [ ] Include a Practice Mode to spar against various NPCs, and varying quantities
-- [ ] Add an Undo Stack window to the editor, with thumbnails/screenshots of previous editor
-configurations
-- [ ] Enable UE5 plugin: Bink, Oodle video codec
-- [ ] Sheerand Federation soldier's wear form fitting spandex with a myrlad of razor-proof -- leg-, waist-, and chest- pockets
-- [ ] Feng Shul seeks a balanced symmetry meal for the eye, consisting of elements of: wood, fire, earth, metal, water,
-as 1f a procedural cut and paste of a progressive larger batch of images
-- [ ] Images: Iceland Ice Caves!I!
-- [ ] Develop 3D spline tools, movement IDEs, and inference tools, and plugins for smooth character moment and animations (IK Rig Forward/Backward Solver(s]), in lieu of mocap suits; and hair / fur directionality.
-- [ ] Using Forward IK Solver + Backward IK Solver can be used to verify poses, match, and find pull-vecto bugs
-- [ ] Perhaps integrate the inventory system into a chiron, at the bottom of the screen
-- [ ] Ensure all combat animations are seamless and loopable
-- [ ] Use directional landmarks, paths, districts, crisp border lines, and hubs, for more intuitive cognitive maps
-- [ ] RESEARCH: Animating with Instanced static meshes
-- [ ] with NPCs, employ Primes: NPCs with special appearances, or abilities (eg A-Holes w/ IKs, Pink Draz-Ghouls which try to hump youl, etc)
-- [ ] In the strongest areas of the map, Shard soldiers stow their offensive weapons and only present their shields, as they systematically work to disable
-Lance's offensive capability (eg breaking his bones), only then drawing their swords to fully neutralize him.
-- [ ] Redesign US Editor, making it entirely drag-n-drop, with the exception of the command window, eliminating all other windows (build the game as you play the game)
-- [ ] RESEARCH: Pre-rendered animations (movies) with mesh and object data for each screen frame -. embedded in the meta-data
-- [ ] Draft special fight animations for certain areas and encounters for smoother fight choreography
-- [ ]UES: For 10 performance, implement Blueprint's behavior trees (ie AI) in CH
-- [ ] UES: Spawning Actors (eg Bullets) in-game, is CPU/GPU expensive
-- [ ] UES: Use navmesh invokers rather than large (static) nameshes (performance)
-- [ ] snake_case (flat_case) vs CamelCase naming conventions
-- [ ] For BOSS, follow a TICK node with a GATE node, to allow ticks to pass through, to improve performance
-- [ ] CONCEPT ART: Use fractal pattern generators to produce incredibly detailed renders for objects
-- [ ] Design 3D 72-face cube (hit grid) for player combat system
-- [ ] Implement multiple (disabled/alternating) hit capsules, enabled based on current technique and likely actual contact distance
-- [ ] Index all youtube transcripts for searching
-- [ ] The Ibra-Lim connects to Bar-Hades, whom orchestrates actions on the battle fleld
-- [ ] GoPro Camera w/ special software for Motion Capture substitutes $$$ MOCAP suits
-- [ ] Music Cues: Game load, Boss Battles, Mub where player recharges/rests
-- [ ] Weapons: particle cookie cutters
-- [ ] Decals are more render efficient than static meshes (A character composed of multiple decals??)
-- [ ] Lance can summon any inventoried weapon Instantly with the previous weapon vanishing
-- [ ] resolution: [ 60 120 165 240 360 480 ] hz
-- [ ] Keep a dally log of edits to track down bugs
-
-- [ ] An NPC catches fire when receiving too many consecutive hits
-- [ ] Lance can struggle with PCs and or hurl them into oncoming obstacles
-- [ ] Assuming a 5 x 5 × 3 3D fight grid, Lance can defend against 75-1 opponents;
-- [ ] Fight grids are sampled to derive movement patterns and optimal battle strategies
-- [ ] Publish plugins after game completion to locate most bugs
-- [ ] Design a plugin that allows code design similar to Niagara workflow with separate modules for each cpu core
-- I ] Add micro lanes to U5 to lane group wires into a bus
-- I I Modify blueprints so that only control wires are visible which connect to pins, with other input parameters and unique visible pin numbers hidden until the module is clicked or altogether integrated into the respective modules
-- _ I Show Character animations in sections based on IK to display more realistic muscle contraction extension deformation and flex
-
-## UES Assets & Environments
-- [ ] Trees Vol 4 159.99
-- [ ] Spectrum Galaxy 169.99
-- [ ] Mountain Forest and Meadows 179.99
-- [ ] Sandstorm Environment 199.99 
-- [ ] Mountain Redwood Forest Biome 209.99
-- [ ] MW Burned Trees Biome 209.99
-- [ ] Mw Birch Trees Biome 209.99
-- [ ] Mw Conifer Forest 209.99
-- [ ] Mw Broadleaf Trees Forest Biome 209.99
-- [ ] Fantasy Dungeons 99.99
-- [ ] Beach Island 79.99
-- | | Beach and Coast Environment 74.99
-- [ ] SciFi Modular Interior Environment 69.99
-- [ ] Modular Cliffs 69.99
-- [ ] Modular SciFi: Engineer Mallways Vol 2 59.99
-- [ ] Snowy Mountain Landscape 59.99
-- [ ] Science Lab 59.99
-- [ ] Medieval Dungeon Modular Environment 49.99
-- [ ] Modular Scifi Polaris Defense 49.99
-- [ ] Modular SciFi Office 49.99
-- [ ] The Church 44.99
-- [ ] King Arthur Castle Interior 69.99 
-- [ ] Ion Modular Asset (Bedroom) 49.99 
-- [ ] Modular Fantasy Inn 49.99
-- [ ] Manager Office Classic Style 44.99
-- [ ] Tropical Follage and Landscape 44.99
-- [ ] SciFi Modular Environment 39,99
-- [ ] Minimalist Modular SciFi Interior 39.99
-- [ ] Cave Environment Modular 39.99 
-- [ ] Modular Brutalist Pack 39.99 
-- [ ] Cyberpunk Toilet Environment 39.99 
-- [ ] Matte Painting Skybox Bundle II 39.99 
-- [ ] Brushify Tropical Pack 39.99 
-- [ ] Brushify Arctic Pack 39.99 
-- [ ] Brushify Canyons Pack 39.99 
-- [ ] Brushify Cliffs Pack 39,99 
-- [ ] Brushify Forest Pack 39.99
-- [ ] Earth Simulator 39.99
-- [ ] Palms Pack 02 34.99
-
-software describing a target's tendencles and capabilities (le. predictive yet not quite prophetic)
-- [ ] The game cannot be paused. Instead, IDLE zones are used.
-- [ ] Tunable weather system: [Auto|Custom][Static|Dynamic]
-- [ ] All in-game places, events, and locations named conspicuously -- in voice, text, and maps -- in order for the player to easily catalogue.
-- [ ] Design a strict computer algebra for use in the Euclid Prover.
-- [ ] Euclid verifies Screenplay- and Story per page
-- [ ] Include a keyword library, for Euclid Prover to verify keywords (streamline antonym and synonym
-keyword library)
-- [ ] Strategic in-game mistakes do not reset the game; in-game mistakes scales up difficulty, allowing the player to continue - at a cost!
+- [ ] Incorporate cavalry summoner flag poles (on timer countdown), which can activate, summon, and or be disabled (by adversary players)
+- [ ] A player's victory (growl) induces showkwaves which inflict further damage, if adversary fails to retreat in awe
+- [ ] Lance can replay prior maps to unlock all fight animations ( for online play )
+- [ ] JUMP, DODGE, CLIMB, SWIM, SLIDE (etc compulsory movement animations) are A.I. processed, without keybindings or player interaction
+- [ ] Lance can set waypoints and free roam the entire maps
+- [ ] Utilize filmic INSERTS and INTERCUTS for a cinematic experience
+- [ ] Stealthy sentinels can initiate an attack from across the battle field
+- [ ] Capture card integration to record gameplay (unlimited length)
+- [ ] Player adjusts to camera facing when required for movement
+- [ ] autosave cross-platform progress for (optional) cross platform play
+- [ ] HUD and Health meters animate and level up, upon level startup
+- [ ] Employ Style-ized gritty minimally acrobatic in game combat (ie Captain America: Winter Soldier, John Wick, 300 The Movie)
+- [ ] Progressive gameplay is not required; players may reengage respawned enemies in any area of the map
+- [ ] Employ opening cinematics, highlighting a region, its points of interest, its threats, as well as biome Fade In Titles (eg The UltraDam), as well as closing cinematics, upon exit
+- [ ] Battle Motifs can overlap. All weapons are catchable tossable. Lance can summon battle motifs (see below)
+- [ ] Dr. Meade employs remote viewers to invoke The Dulles Effect - A virtual world digital twin, instantiated software to test a target's tendencies and capabilities (ie predictive not prophetic)
+- [ ] The game cannot be paused, idle zones are usedd, instead
+- [ ] Tunable weather system [Auto|Custom|Static|Dynamic]
+- [ ] All in game places, events, and locations named conspicuously -- in voice, text, and maps -- in order for the player to catalogue
+- [ ] Design a strict computer algebra for use in the Euclid Prover
+- [ ] Euclid verifies Screenplay- and Story, per page
+- [ ] Include a keyword libary, for Euclid Prover to verify keywords (streamline anonym and synonym keyword libary)
+- [ ] in game mistakes do not reset the game; in game mistakes scale up difficulty, allowing the player to continue, at a cost
 - [ ] Ensure the most fun way to play the game is the best way to play the game
-- [ ] Encourage under used play tactics (eg employing block breakers) rather than discouraging gameplay (eg limited ammo) (Carrots vs Sticks!)
+- [ ] Encourage under used play tactics (eg employing block breakers) rather than discouraging gameplay, (eg limited ammo) carrots vs sticks!
 - [ ] Minimize the player cognitive load
-- [ ] Swords, Shields, and Hand weapons are plentiful in the game while fazers and ammo is RARE
-- [ ] As the player Xi meter increases, AI-induced tactics aid the player's combat (le the avalanche effect); the Xi meter drops when Lance's timing diverges from best tactics
-- [ ] Archers only engage upon the player when he is exposed and they have a clear line of fire; they and others yell and shout commands to warn one another
-- [ ] Frontload best ideas into the game. The most important 15 minutes in the game are the first 15 minutes; the most important hour in the game is the first hour, etc
+- [ ] Swords, Shields, and other hand weapons are plentiful while Phasors, and ammo is rare
+- [ ] As the Xi meter increases, A.I. aided tactics (in combat) increases (ie the avalanche effect); the Xi meter drops when lance spams the Xi meter or when Lance's timimg diverges from best tactics
+- [ ] Archers only engage when Lance is exposed and they have a clear line of sight; they yell and shout commands to others in the theatre to warn one another
+- [ ] Frontload best ideas into the opening of the game. The most important 15 minutes of gameplay is the first 15 minutes; the most important hour is the first hour, etc.
 - [ ] The player's first impression of each experience sets the tone
-- [ ] Meet the player's high bar of expected in-game quality and exhuberance
-- [ ] Refrain from placeholders in game demos. At any point, show only what you have in order to get a an accurate and useful feedback reaction from players
-- [ ] Employ baked animation, volumetrics and lighting for enhanced advanced final render quality
-- [ ] A full game is a short story, not a novel. There are not very many fully developed theatrical beats.
-- [ ] 0: Is it possible to incorporate baked lighting sequences into character animations and sync the two?
-- [ ] Add multi-monitor support for multiplayer (offline) gaming
-- [ ] Allow game difficulty settings to be adjusted in-game
-- [ ] Add an inventory & management system
-- [ ] Research and find a way to create PBR character animations that rival PBR game environments in render quality (cf Assassin's Creed Valhallah (CUT SCENES))
-- [ ] C++ STL Templates are performant and effecient. They remove virtual functions and other functions that wont be used.
-- [ ] Lambda functions are useful and fast as well when you know which functions will execute at compile time
-- [ ] Memory allocation is slow. Reuse objects (delete) instead of glibe free
-- [ ] Allocations are costly
-- [ ] Use a pool of preallocated objects
-- [ ] Delete objects using a separate thread
-- [ ] Multiple threads sap compute resources
+- [ ] Meet the player's hgh bar of expected quality gameplay
+- [ ] Refrain from placeholders in early-access releases: show only what you have in order to get accurate and useful feedback from beta testers 
+- [ ] Employ baked animation, volumetrics and lighting for improved final render quality
+- [ ] A full game is a short story, not a novel. There are not many fully developed theatrical beats
+- [ ] Q: Is it possible to include baked lighting sequences into character animations and sync the two?
+- [ ] Add multi monitor support for muliplayer (offline) gaming
+- [ ] Allow game difficulty settings to be adjusted in game
+- [ ] Add an inventory system
+- [ ] Find a way to create PBR characterS & animations that rival PBR game environments in render quality (cf Assassin's Creed Valhallah (CUT SCENES))
+- [ ] C++ STL Templates are performant. They remove virtual functions and other unused functions.
+- [ ] Lambda functions are useful and fast when you know which functions will execute at compile time.
+- [ ] Memory allocation is slow. Reuse objects (delete) instead of glibc free
+- [ ] Allocations are costly. Use a pool of preallocated objects.
+- [ ] Delete objects using a seperate thread
+- [ ] Multiple threads sap resources
 - [ ] Use automated tests to find edge cases
-- [ ] Shorten BOSS battles under 2 mins (sic. health meters), while tailoring missions towards conquest and exploration
-- [ ] Use color value and contrast to highlight important objects in the story
+- [ ] Shorten BOSS battles under 2 mins (sic health meters), while tailoring missions towards conquest and exploration
+- [ ] Use color value and contrast to highlight important objectives
 - [ ] Use stunning backgrounds
-- [ ] Seperate A.I. Into discrete functional levels (Behavior > Functional › Pathfinding)
-- [ ] PreCompute and Datalabel all objects in the Arena so the A.I. can filter them, based on its needs (eg. AI: (CurrentNeed:Cover); Scrap_Metal_Door: ( Cover:True, Concealment: (Unseen:True), LandBridge: ( SmallFF:True) ) ). Add new layers of functionality when needed
-
-- [ ] Test NaMesh (FP Accuracy) as far away from the origin as the player/NPC is allowed
-- [ ] A.I. Fuzziness employs tolerance (ranges) to reduce Indecision/inconsistency (Note: You cant fix inconsistency by adding complexity, eg. Instead of two A.I. trying to determine which should attack the player, first -- let the player's game mechanic decide )
-- [ ] Document (Semantic) intent to better find hard-to-duplicate bugs 
-- [ ] Ensure fast-forwarded cut-scenes are still legible and audible to progess the story
-- - [ ] Keep a pre-viz motion-capture shotlist. Use verbs for direction (eg. Faster, louder, etc)
-- [ ] Use Orthographic Views to detect render and animation flaws, instead of using Perspective View
-- [ ] Gaas (Games as a Service) : Game Systems are simple, scalable, extensible, secure, and stable
-- [ ] BIOS (DELL) > Boot Loader (GRUB) > Kernel (LINUX)
-- [ ] Incorporate a Site of Grace load (optional) location to prevent deathloops or otherwise unrecoverable gameplay states
-- [ ] A suggestion of behavior is better than a complex model which exhibits behavior: Our brains assume the complexity is there
-- [ ] A.I. should be controller-based (emulates a user), if not simply for testing purposes
-- [ ] Train early A.I. to follow the player and their actions, exhibiting behaviors which invoke emotions, until the player believes they've competed in multiplayer (eg That guy ran me off the road!)
-- [ ] Machine Tools Addon (Blender) is useful for merging vertices during a workflow
-- [ ] Consider NVIDIA "DLSS" (Deep Learning Super Sampling 100 fps), Unreal Engine "TSR" (Temporal Super Resolution 100 fps),
-AMP "FSR 2.0' (Fidelityx Super Resolution 90 fps), INTEL "XeSS" - plugin(s] for UnrealEngine
-- [ ] Set playable prototype/demo goals
-- [ ] Drive towards a clear vision; design towards your game pillars
-- [ ] 'Timebox' or deadline ambiguous or uncertain design goals for efficiency (le enforce cut-offs)
-- [ ] Avoid feature creep: adding new and cool unrelated features
-- [ ] Perform time and cost estimates in decision-making
-- [ ] Well written code should be unsurprising
-- [ ] All Controller-Based Actors, NPCs, and Dynamic Elements are overlayed onto 3D 4K prerender environments with lighting animations for highest in-game quality;
-This is accomplished by assigning render animations to where Lance (The Controller-Based Actor) could step, effectively decimating the map into grids of this size
-- [ ] Actors added by Foliage Tool are not selectable
-- [ ] Include customized UE library file(s] in your workspace to ship in the completed game. _i i Patch Hacks, Mods, and Overpowered Weapons on Expert Difficulty Mode, only; whereas (performance) bugfixes apply to all areas
-- [ ] Working with the UE Streaming Pool:
-Reduce total number of visible textures;
-Reduce resolution of visible textures;
-Use Optimization Viewmodes for debugging;
-Ensure textures are at a power of 2 resolution and are generating MIPs;
-Use Virtual Textures;
-Increase Streaming Pool size (Device dependant)
-- [ ] Modular A.I.:
-Good modules do not do much;
-Smaller modules improve comprehension;
-Loosely coupled modules improves stability and supports rapid prototyping;
-Missing loosely coupled modules wont cause failures;
-Stateless engines are more stable (crashless);
-- [ ] HP Meter flash iff damage taken is greater than 25%
-- [ ] $2 M of $3 M budget s/b to attract star-power
-- [ ] Fighting combinations are unlocked once they are used, for faster speedruns 
-- [ ] Animations: Consider replacing skeletal mesh with static mesh (performance) without loss in visual quality, similar to how follage is animated
-- [ ] Use mesh islands (within the mesh), rather than separate combined mesh for complex objects
-
-(Cars, Machines, Etc.)
-- [ ] Buildings and other connected regions can be constructed using ISM components to reduce actor count
-- [ ] Split buildings into upper/lower sections, with lower sections only having complex and articulate collision; while upper sections share a single simple collision object
-- [ ] Baking improves performance at the cost of degrees of freedom
-- [ ] JavaScript async/await are a powerful workflow we can try to export to Unreal Engine
-- [ ] Cap Inventory allotments and then incorporate context-sensitive and sequence-sensitive pickups to generate real-time story-narrative during in gameplay.
-- [ ] Allow option to disable trackpad | keyboard | mouse
-- [ ] Use 60-30-10 color rule (cinematography)
-[ ] Instead of storing feature data with each actor, save this feature data in a global feature container
-shared with actors which retain pointers into the container (performance; reduces memory fragmentation)
-- [ ¡ Ray Tracing groups Improve ray trace performance (eg unique ID per building); sparse objects should be excluded from Ray Tracing Groups;
-reduce overlapping meshes, actors -- keep the geometry clean; Ray Trace mesh instances that are close to camera, while (boolean) merged HLOD1 for distant geometry to allow GI over huge distances (14 km+)
+- [ ] Seperate A.I. into discrete functional levels (Behavior > Functional > Pathfinding)
+- [ ] Precompute and datalabel all objects in the arena so A.I. can prioritize (filter) them, based on need (eg. AI: { CurrentNeed:Cover }; Scrap_Metal_Door: { Cover: true, Concealment: true}, LandBridge: { SmallFF: true. Add new layers of functionality as needed
+- [ ] Test NavMesh (FP Accuracy) as far away from the origin as the Player/NPC is allowed
+- [ ] A.I. fuzziness employs tolerance (ranges) to reduce indecision/inconsistency (Note: you cant fix inconsistency with increased complexity, eg. Instead of A.I. deciding which should next attack the player, allow the player's game mechanic to decide)
+- [ ] Document (semantic) intent (ie with a theorem prover!) to find hard to duplicate bugs
+- [ ] Ensure skippable cut scene moments are still legible and audible to adequately progress the story (cf Elden Ring (CUT SCENES))
+- [ ] Keep a pre viz motion capture shotlist. Use verbs for direction (eg. Faster, Louder, Further)
+- [ ] To improve performance, allow A.I. to react to the environment (optimize inputs towards desired outcome), rather than plan or attempt to anticipate outcomes
+- [ ] Use Orthographic Views (instead of Perspective) to detect render and animation flaws
+- [ ] Gaas (Gaming as a service) - These systems are simple, scalable, extensible, secure, and stable
+- [ ] Examples: BIOS (DELL), Boot Loader (GRUB), Kernel (LINUX)
+- [ ] Incoporate a Site of Grace (idle zone) load location[s] to prevent deathloops or otherwise unrecoverable states of gameplay
+- [ ] A suggestion of behavior is better than a complex model of such: Our brains assume the complexity is there (ie base AI complexity on past human behavior; train AI to  follow human behavior, making the player believe they're competing against another player: eg. that guy just ran me off the road!)
+- [ ] AI should be controller-based (user-capable), if not simply for testing purposes
+- [ ] Machine Tols addon (Blender) is useful workflow tool for merging vertices
+- [ ] PLUGINS: Consider NVIDIA DLSS (Deep Learning Super Sampling 100+ fps), Unreal Engine TSR (Temporal Super Resolution 100+ fps), AMD FSR 2.0 (FidelityFX Super Resolution 90 fps, INTEL XeSS
+- [ ] Set playable demo/prototype goals
+- [ ] Drive towards a clear vision. Design around game pillars
+- [ ] "Timebox" / deadline ambiguous or uncertain goals to avoid wasting time
+- [ ] Avoid feature creep (waiting for experimental tools and features)
+- [ ] Perform time and cost measurements
+- [ ] Plain well written code is superior to compact or clever. Who else will want to maintain it?
+- [ ] EXPERIMENTAL: All controller-based Actors / NPCs, and Dynamic elements are overlayed onto 3D 4K 8K (BAKED) pre-render environments and lighting animations for highest quality; achieved by recording multiple angle animations of what the controller-based Actor is allowed to do, with animation entry and exit reference points, syncing frames with the environment and then overlaying these animations onto the environment. The developor can then edit the animation rig to customize it for new characterS
+- [ ] Actors sdded by foliage tools are not selectable
+- [ ] Include any customized UE library file[s] in your workspace to ship with the completed game
+- [ ] Patch any hacks, mods, or overpowered conditions, on Expert Difficulty, only; whereas performance bugfixes apply to all areas
+- [ ] Crashes represent unhandled edge-cases
+- [ ] Working with the UE streaming pool: reduce total number of visible textures; reduce resolution of visible textures; use Optimization View modes for debugging; Ensure textures are at a power of 2 resolution and are generating MIPs; Use Virtual textures; Increase streamin gpool size (device dependant)
+- [ ] Modular AI: Good modules do not do much; smaller modules improve comprehension; Loosely coupled modules prevent failures; stateless engines are resilient (crashless)
+- [ ] HP meter bar flashes when damage received is above 25%
+- [ ] $2M of $3M budget s/b to attract star-power
+- [ ] Fight combinations are unlocked as they are used for faster speedruns
+- [ ] Animations: Consider choosing static messh over skeletal mesh for performance without loss in visual quality, similar to how foliage is animated
+- [ ] Use mesh islands (within the mesh), rather then seperate combined meshes, especially for complex objects such as cars, weapons, machines etc
+- [ ] Buildings and other connected regions can be constructed using ISM components (static mesh) to reduce Actor count
+- [ ] Split buildings into upper- and lower sections with lower sections supporting complex and articulate collision, with the upper section supporting only simple collision
+- [ ] Baking improves render performance at the cost of degrees of freedom
+- [ ] JavaScript async/await is a powerful programming workflow we can try to export to Unreal
+- [ ] Cap inventory and then incorporate context-sensitive pickups which generate story-narrative during gameplay
+- [ ] Allow option to disable controller inputs
+- [ ] Use 60-30-10 color system rule of cinematography
+- [ ] Instead of caching feature data with each Actor, allow the Actor to inherit the feature from a static? global repository to reduce fragmenttation and improve performance
+- [ ] Ray trace groups improve performance (eg unique ID per building). Sparse objects should be excluded from Ray Trace Groups; reduce overlapping actors and meshes -- keep the geometry clean; ray trace meshes close to the screen, while (boolean) merged distant geometry receives HLOD1, to facilitate Global Illumination (GI) over large distances (14km+)
 - [ ] All UDIMs should use same-size tiles (eg 4K) (Easier to track)
-- [ ] RealityCapture (105) to generate MegaScans
-- [ ] UnrealEngine: IK Rig and IK Goals expose IK Rig to blueprints, so no-bake cut-scenes are possible;
-and mpw NPCs can react smoother to Character animation, reducing required baked animations.
-- [ ] Use dynamic hitboxes which correspond to snapshot updates of the current animation pose, for sublime Elden Ring calibre hitboxes.
-- [ ] Allow the player to disable/enable NPC skills + abilities; a configuration hash is displayed at the completion of each map for speedruns and walkthroughs
-- [ ] Employ a theorem prover to track offscreen NPC events, rather than continuous background processes (Performance)
-- [ ] Include a radio station of soundtracks, spanning multiple genres
-- [ ] Embed extreme unique and unforgettable NPCs, areas, missions; no cut-n-paste effort
-- [ ] Encourage community NFTs, marketplace, maps, etc, for new game-based assets
-- [ ] Quick, measured (equal damage) counter-attacks recover HP 
-- [ ] Challenge the player to access various areas of the map- only by chaining their abilities 
-- [ ] Turning in the direction of the wind allows you to hear the breeze
-- [ ] Employ more visually engaging close-up fight cinematics
-- [ ] Firearms emit high velocity tracer rounds, which can be tracked by the human high (especially paused game states)
-- [ ] Holding the *action* button, with proper placement, alignment, velocity, momentum, and heading before an NPC, enables Lance to execute a properly timed attack or counter attack;
-- the button must be depressed and held, following sequence initiation, to properly reposition Lance; in this way Lance can fully interact with other PCs and the environment, to his advantage
-- [ ] Against Agrippa players must have a solid ground-, standing-, rolling-, rising-, counter-, side , blockbreaker-, descend (in-air)-, evade-, descend (in-air counter)-, hind- attack;
-because General Agrippa will seek out and expose these deficiencies
-- [ ] Color code interactive actors
-- [ ] Create symmetric IK rig animations so they can be replayed symmetricly on a character
-- [ ] Document NPCs-, flora- and fauna-, etc. (via inventory?) for Lance to learn, to his advantage. during gameplay, if he chooses
+- [ ] RealityCapture (iOS) can generate MegaScans
+- [ ] UNREAL_ENGINE: IK Rig and IK Goals expose IK Rig to blueprints, so no-bake cutscenes are possible; reacting NPCs can have smoother character animations. Reduces total baked animations.
+- [ ] Employ dynamic hit boxes which match up to snapshots in the current animation frame, for sublime Elden Ring calibre hitboxes
+- [ ] Let player disable/enable NPC skills + abilities; A gameplay (configuration) hash is displayed onscreen during speedruns and walkthroughs
+- [ ] Employ a Theorem Prover to reason over offscreen NPC events, rather than a continuous background monitoring process
+- [ ] Include a radio station of soundtracks spanning multiple genres
+- [ ] Create unique and unforgettable NPCs, areas, and missions -- no cut-n-paste effort!
+- [ ] Encourage community NFTs, marketplace, and maps
+- [ ] Quick, measured counter-attacks recover HP
+- [ ] Challenge the player to access areas of the map through chaining their abilities
+- [ ] Turning in the direction of wind allows you to hear the breeze
+- [ ] Employ visually engaging close-up fight cinematics
+- [ ] (High Velocity) Projectile weapons emit tracers which can be tracked by the eye (especially paused game states)
+- [ ] Holding the "Action" button with proper placement and gameplay constraints allows Lance to execute properly timed [counter-]attacks; the button must be depressed and held to properly reposition Lance. In this way, Lance can fully interact with other NPCs and the environment to his advantage
+- [ ] Against Agrippa, player's must have solid stance and fight combinations, because Agrippa will seek out and expose deficiencies
+- [ ] Color code interactive in-game elements
+- [ ] Create symmetric IK Rigs animations that can be replayed on any plane of symmetry
+- [ ] Document NPC-, flora- and fauna-, etc (via inventory) for Lance to learn to his advantage
 - [ ] Include timestamps in game walkthroughs
-- [ ] light opposition, treasures, and or trinkets (every 45s)
-- [ ] supporting boss opposition (every Sm)
-
-- [ ] boss opposition (every 15m)
-- [ ] Star Wars Jedi: Fallen Order @13:00:00; 300 (Movie); 300: Rise of An Empire - Elegant combat mechanics example
+- [ ] RECOMMENDED: mild opposition, treasures, or trinkets (every 45s) during gameplay; Underboss opposition every 5m; stage-boss opposition every 15m
+- [ ] Star Wars Jedi: Fallen Order @13:00:00-, 300 (Movie)-, 300: Rise of An Empire - Elegant combat mechanics (examples)
 - [ ] Star Wars Jedi: Fallen Order @13:08:00 Story Design
 - [ ] Provide automatic reaction-style (Action Button, AI Governed) which disengage only when the player is hit or blocked,
 and manual reaction-style (combination, button-smashing) combat options
