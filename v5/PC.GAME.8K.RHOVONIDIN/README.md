@@ -5,8 +5,6 @@ Content for Unreal Engine 5.0
 
 Reference Images uploaded from the nexus
 
-- [IMAGES: github.com/AbdulShabazz/UnrealEngineIMGs-RHOVONIDIN-I)
-
 # Backstory
 
 Play as Lance Rhovonidin! Join The Remnant and wade into the disputed territories, toward the Walled Metropolis to retake the crown from General Agrippa and crush the Shard rebellion.
@@ -353,6 +351,13 @@ Lance's offensive capability (eg breaking his bones), only then drawing their sw
 - [ ] Design a plugin that allows code design similar to Niagara workflow with separate modules for each cpu core
 - [ ] Add micro lanes to UES to lane group wires into a bus- [ ] Modify blueprints so that only control wires are visible which connect to pins, with other input parameters and unique visible pin numbers hidden until the module is clicked or altogether integrated into the respective modules
 - [ ] Show Character animations in sections based on IK to display more realistic muscle contraction extension deformation and flex
+- [ ] Xi button : Reaction | Pre-emption button
+- [ ] Sheeran commands 10K generals 
+- [ ] Sheeran has nanotech skin up to his extremities which function as dark armor
+- [ ] VISUAL REFERENCE: TOMB RAIDER / Hitman 3 (Highest Quality Settings )
+- [ ] The Daeadelis is an advanced A.I. defense developed by Dr Meade to guard the vast Shard perimeter 
+
+
 ## UES Assets & Environments
 - [ ] Trees Vol 4 159.99
 - [ ] Spectrum Galaxy 169.99
