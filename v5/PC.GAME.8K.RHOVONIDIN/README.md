@@ -6,7 +6,7 @@ Content for Unreal Engine 5.0
 Reference images uploaded from the Nexus
 
 # Backstory
-Play as Lance Rhovonidin, join The Remnant and wade into the disputed territories, onward toward the walled Metropolis Base to retake the crown from General Agrippa to crush The Shard rebellion.
+Play as Lance Rhovonidin, join The Remnant and wade into the disputed territories, toward the walled Metropolis to retake the crown from General Agrippa to crush The Shard rebellion.
 
 Lance is the founder of Kaizen warfare: Lance's mother pioneered Zen fighting, which focuses on lethal and effective movement; and his father developed the art of 1-hit-instant-kill, allowing in to vanquish an unlimited number of opponents.
 
