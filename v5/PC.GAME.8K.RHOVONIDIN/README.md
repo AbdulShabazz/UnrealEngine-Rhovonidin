@@ -228,7 +228,174 @@ perhaps make them constituents instead with various uses for weapons armor or sp
 - [ ] Agrippa can deliver damage to hot zones on the ground which become radioactive (le fatal) after a few moments 1ff standing in them
 - [ ] A pawn can send an attack to any active grid in his battle grid (see above) within the following durations (seconds) : [-30, -15, -10, -8,-4, -2,-1, feigned, 0, 1, 2, 4, 8, 10, 15, 30]s
 - [ ] Even during long NPC movesets Lance can always inflict damage iff skilled; there are no
-
+unblockable movesets
+- [ 1 Allow Lance and other PCs smooth skip or abort combat animatlons aid combat for improved gameplay and anticipating PCs
+- [ ] To Lance, striking him to the ground, "where are you from, Grifter?", Shinoba
+- [ ] Lance must escape from a trick-knot
+[i People enjoy the emotional expression games give, through gameplay. Focus on giving individual emotional expression to players
+- [ ] Specially placed NPCs/Actors have concurrent embedded story goals, which you can participate (eg a drug smuggler's goal to
+use the ongoing conflict to build his Everlast empire; construct a vacation home; bulld a beach shelter ) and
+progress it to Its completion or free-roam the entire map in a way that interests you
+- [ J Apply experimental textures to all primary shapes (circle, sphere, plane, square, etc) to quickly find artifacts and other rendering issues
+- [ J Star Wars Biomes (REFERENCE)
+- [ I research velociraptor (sounds) Jurassic Park (Bar-Hades) (REFERENCE)
+- [ ] Embed a game trailer into the start menu (main landing page)
+- [ ] Lance begins the Journey feeble and weak, but progressively grows stronger and formidable
+- [ Assassin's Creed (REFERENCE) Character Animation
+- [ J Lance discovers stray twin pups! Being more fond of animals then people, he names her Tulip & Roz.
+He takes them in and trains them as his own Into flerce and loyal combat dogs - (The Sabre) Tulip & Roz
+Rhovonidin
+- [ J Chilean National Parks (REFERENCE) Geography
+- [ J Lance uses glue-techniques (eg block, duck, dash, shove) until experienced enough to level-up (technique gained through gameplay hours);
+situational combat is the way he unlocks experience
+- [ J Once leveled-up, Lance must perfect his attack timing for optimal situational combat results
+- [ ] Update game content via download, as the player progresses and or new patches or DLC become available
+- [ ] Use Vibration + Visual + Audio feedback to indicate combo completion
+- [ J "Parallel Random Number Generation, as Easy as 1-2-3", John K Salmon (REFERENCE)
+- [ J "A Very Fast Parallel Random Permutation Algorithm®, Axel Bacher (REFERENCE)
+- [ ] The Action (Combat) Toggle (le Threat Presence Meter), and when to employ it, is used to drive the story, however the choice
+and its outcomes are left up to the player (eg. the Active Threat meter for Dr. Meade)
+- [ J Perhaps add an accessible content pane or drawer to the bottom of the screen, instead of an Inventory Menu or Pause Screen
+-[1 Lance has a shield to deflect phasor rounds, or perhaps an EMP mid story disables these weapons in certain areas of the map
+-[ ] Characters remove their headgear for cutscenes and other drama-based actions
+-[J Lance equips appropriate items from his environment, in lieu of a designated inventory assignment
+- [ ] There are no combat-defense keybindings in the game, which allow Lance to defend himself:
+Even well-timed offensive manuevers would cause Lance to receive damage, resulting in a race of the last to hit bottom.
+Thus It was decided this style of play would be detrimental to overall gameplay, and thus Lance was given 99% perfect idle defensel,
+-[ ] Allow Lance to focus on well-timed attacks (XI meter) while only being punished for poor timing.
+- [ J Automatic Combat Mode ( Toggle/Situational )
+- [ J OTOY Octane Render - Meshlets SSD Streaming (le its Nanite for Octane GPU Rendering)
+[ ] SOUND SYNTHESIS TOOLS: Most sound waves display periodic harmonic constituents across its spectrum, which can be replicated using software.
+The correct space-time placement of these pectral components Is a keystone for life-like reproduction.
+[ ] Mennethica Theme - Inexpressible by Ben Botkin, Berlin Con Sordino Strings - Orchestraltools.com
+[J 8ar-Hades Theme - Miraeth by Alex Lany, Berlin Con Sordino Strings - Orchestraltools.Com
+- [ ] Unnamed Theme - 00:22:00 orchestraltools, Berlin: A Capitol Announcement - youtube
+- [ ] Outsource bug & vulnerability testing
+- [ ] The Shard arrows are rugged and massive, with the thickness of a broom handle or fighting bo
+- [ ] Microsoft Project Acoustlcs UES plugin requires an Azure rebake only when there Is a mesh material or mesh material location change
+- [ J Fully Integrate cutscenes so they can play out exactly where the character is standing, when he/she is not engaged in a preclusive action, such as combat, and is idle.
+- ( ] Put editable values Into a data table (data structure), for easy editing instead of searching blueprints for these static values
+- [ ] Good story design should open more story-telling opportunity, as opposed to rehashing arenas of limited scope ( Star Trek vs Star Wars )
+- [ J Download and Intall NVIDIA Relfex plugin for UnrealEngine ( Syncs CPU GPU and Monitor to Reduce Latency and boost frame rates )
+- [ ] Shard arrow trajectories can arc, bend, and curve
+- [ ] Bar-Hades fire jets generate light, heat waves, smoke, chromatic aberration, sparks, cinder, ash, sound, and pressure (shockwaves)
+- [ I Bar-Hades fire quick elongated jetstream whose endpoint is all-consuming
+- [ ¡ Use a state-machine to programmicly orchestrate the soundtrack's dynamics and chord progressions
+- [ ] Synchronize minor sounds & effects with visual cues for deeper immersion
+- [ ] Attempting to upload a character Into Mixamo automatically generates an IK rig
+- [ J During battle, striking down a youngling, instead of deflecting or kicking them away, brings the ire of its stronger kin (eg "Papal", "Dare you to strike down a youngling boy?!" ) r 1 The abilities the player unlocks, with characters other than lance
+- [ J Chi-Meter not visible in (Advanced) Campaign Mode, by default
+- [ ] Quick Prototype the Battle Scheduler(s) in JavaScript, for later performance translation down to assembler
+- [ J The Rhovonidin screenplay should serve as a verified optimized, walkthrough
+[ J Each biome has atleast one breathtaking view, giving Lance an overview of the land, along with The Walled Metropolis City, an appropriate distance away
+[ ] Keep combat animations faithful to typical human movements (eg no Jerky animations of Agrippa hurling fifteen spears, while only three feet off the ground!)
+- [ ] During congested live-action combat, bullet-time engages
+- [ ] Include an onscreen Combo counter to earn bonus XP
+- [ ] UE Blueprints Sequence node, reduce trace clutter
+- [ ] UE Blueprints local vars, reduce trace clutter
+- [ ] vE Blueprints collapsed graphs, reduce trace clutter
+- [ ] Ship BOSS engine as a UES plug-in
+- [ ] work in 8K textures, sprites, particles, and brushes. You can always down-scale to the resolution you need
+- [ ] Distill a VFX reference library, separate from your current project
+- [ J The game uses a mission-driven system along with (side) quests, to level-up player abilities
+- [ ] IwU (Include What You Use) helps reduce compile-time of UE projects in Visual Studio
+- [ | Use C+ Modules Instead of C++ Header files for faster compilation times
+- [ ] Use C+ smart pointers for automatic garbage collection (drawbacks: Performance, thread safety)
+- [ J Build Plugins which allow us to design, build, and debug the game, in-editor
+- [ J Attach multiple cameras to the player, which can be toggled ON ad OFF, and animated during combat sequences
+- [ ] Map Size: 10 MPH Max Velocity • 2 HRS Coast-to-Coast Max Allowance an 20 SQ MI; or 1 SQ MI per
+Biome
+( ] IDE PROPOSAL: Design a new stackable blueprints & AI Behavior Trees, tree-view, along with enable/disable checkmark commands -
+similar to Niagra, in an editor which divides dual details panels.
+- [ J Use a spline tool for procedural water tools and terrain generation;
+disk, sphere, square, cube, ray or conic... -- with greatest density and detail at the origin
+- [ ] Can UES > world partition › minimap serve as the in-game map ??
+- [ ] Use appropriate onscreen labels, during gameplay, for important field bosses and artifacts
+- [ ] Include a Practice Mode to spar against various PCs, and varying quantities
+- [ ] Add an Undo Stack window to the editor, with thumbnails/screenshots of previous editor configurations
+- [ ] Enable UES plugin: Bink, Oodle video codec
+- [ I Sheerand Federation soldier's wear form fitting spandex with a myriad of razor-proof - - leg-, waist-, and chest- pockets
+- [ ] Feng Shui seeks a balanced symmetry meal for the eye, consisting of elements of: wood, fire, earth, metal, water,
+as 1f a procedural cut and paste of a progressive larger batch of images
+-[I Images: Iceland Ice Caves!!!
+- [ J Develop 3D spline tools, movement IDEs, and inference tools, and plugins for smooth character moment and animations (IK Rig Forward/Backward Solver[s]), in lieu of mocap suits; and hair / fur directionality.
+- [ ] Using Forward IK Solver + Backward IK Solver can be used to verify poses, match, and find pull-vecto bugs
+- [ ] Perhaps integrate the inventory system into a chiron, at the bottom of the screen
+- [ ] Ensure all combat animations are seamless and loopable
+- [ I Use directional landmarks, paths, districts, crisp border lines, and hubs, for more intuitive cognitive maps
+- [ ] RESEARCH: Animating with Instanced static meshes
+- [ J with NPCs, employ Primes: NPCs with special appearances, or abilities (eg A-Holes w/ IKS, Pink Draz-Ghouls which try to hump you, etc)
+- [ J In the strongest areas of the map, Shard soldiers stow their offensive weapons and only present their shields, as they systematically work to disable
+Lance's offensive capability (eg breaking his bones), only then drawing their swords to fully neutralize him.
+- [ J Redesign US Editor, making it entirely drag-n-drop, with the exception of the command window, eliminating all other windows (build the game as you play the game)
+- [ ] RESEARCH: Pre-rendered animations (movies) with mesh and object data for each screen frame ~-embedded in the meta-data
+- [ ] Draft special fight animations for certain areas and encounters for smoother fight choreography
+- [ ] UES: For 10x performance, implement Blueprint's behavior trees (ie AI) in CH
+- [ ] UES: Spawning Actors (eg Bullets) in-game, is CPU/GPU expensive
+- [ ] UES: Use namesh invokers rather than large (static) nameshes (performance)
+- [ 1 snake_case (flat_case) vs CamelCase naming conventions
+- [ ) For BOSS, follow a TICK node with a GATE node, to allow ticks to pass through, to improve performance
+- [ 1 CONCEPT ART: Use fractal pattern generators to produce incredibly detailed renders for objects
+- [ ] Design 3D 72-face cube (hit grid) for player combat system
+-[J Implement multiple (disabled/alternating) hit capsules, enabled based on current technique and likely actual contact distance
+- ( J Index all youtube transcripts for searching
+- [ ] The Ibra-Lim connects to Bar-Hades, whom orchestrates actions on the battle field
+- [ ] GoPro Camera w/ special software for Motion Capture substitutes $$S MOCAP suits
+- [ ] Music Cues: Game load, Boss Battles, Nub where player recharges/rests
+- [ ] Weapons: particle cookie cutters
+- [ ] Decals are more render efficient than static meshes (A character composed of multiple decals??)
+- [ ] Lance can summon any inventoried weapon instantly with the previous weapon vanishing
+- [1 resolution: [ 60 120 165 240 360 488 ] hz
+[ | Keep a dally log of edits to track down bugs
+- [ J An NPC catches fire when receiving too many consecutive hits
+- [ ] Lance can struggle with NPCs and or hurl them into oncoming obstacles
+- [ J Assuming a 5 × 5 x 3 3D fight grid, Lance can defend against 75-1 opponents;
+- [ ] Fight grids are sampled to derive movement patterns and optimal battle strategies
+- I ] Publish plugins after game completion to locate most bugs
+- [ ] Design a plugin that allows code design similar to Niagara workflow with separate modules for each cpu core
+-L _ Add micro lanes to UES to lane group wires into a bus
+- L J Modify blueprints so that only control wires are visible which connect to pins, with other input parameters and unique visible pin numbers hidden until the module is clicked or altogether integrated into the respective modules
+-[ ] Show Character animations in sections based on IK to display more realistic muscle contraction extension deformation and flex
+## UES Assets & Environments
+- [ ] Trees Vol 4 159.99
+- r 1 Spectrum Galaxy 169.99
+- [ 1 Mountain Forest and Meadows 179.99
+[ 1 Sandstorm Environment 199.99
+- [ 1 Mountain Redwood Forest Biome 209.99
+[ ] MW Burned Trees Biome 209.99
+[ ] Mw Birch Trees Biome 209.99
+[ 1 Mw Conifer Forest 209.99
+- [ 1 Mw Broadleaf Trees Forest Biome 209.99
+- [ J Fantasy Dungeons 99.99
+- [ 1 Beach Island 79.99
+- [ 1 Beach and Coast Environment 74.99
+[ J SciFi. Modular Interior Environment 69.99
+г 1 Modular Cliffs 69.99
+- [ ] Modular SciPi: Engineer Hallways Vol 2 59.99
+[ ] Snowy Mountain Landscape 59.99
+[ 1 Science Lab 59.99
+[ ] Medieval Dungeon Modular Environment 49.99
+[ 1 Modular SciFi Polaris Defense 49.99
+( | Modular Scifi Office 49.99
+[ ] The Church 44.99
+[ 1 King Arthur Castle Interior 69.99
+[ 1 Ion Modular Asset (Bedroom) 49.99
+[ I Modular Fantasy Inn 49.99
+- [ 1 Manager Office Classic Style 44.99
+- [ ] Tropical Foliage and Landscape 44.99
+- [ 1 SciFi Modular Environment 39.99
+- [ ] Minimalist Modular SciFi Interior 39.99
+[ | Cave Environment Modular 39.99
+[ ] Modular Brutalist Pack 39.99
+[ J Cyberpunk Toilet Environment 39.99
+[ ] Matte Painting Skybox Bundle II 39.99
+[ ] Brushify Tropical Pack 39.99
+[ ] Brushify Arctic Pack 39.99
+[ ] Brushify Canyons Pack 39.99
+[ ] Brushify Cliffs Pack 39.99
+[ I Brushify Forest Pack 39,99
+- [ J Earth Simulator 39,99
+- [ J Palms Pack 02 34.99
 [ ] Brushify - Beach Pack 34.99
 [ ] Rocky Desert 34.99
 [ ] Leaf Tree Forest Biome 34.99
