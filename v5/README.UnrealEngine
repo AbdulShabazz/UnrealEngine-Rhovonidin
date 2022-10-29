@@ -1,0 +1,139 @@
+Unreal Engine 5 
+
+Notes [Compile From Source]
+Create blueprints nodes which swap order of i/o parameters to avoid wires crossing in blueprints editor 
+Create spline paths for animations in the Animations Editor
+Unreal Engine TODO
+
+- Add an Edit history window which can add version control tags and disable edit entries. (ie a visible Undo buffer)
+- Liquid metal thermal paste. Alcohol for removal.
+- DLSS: To prevent motion vector gaps or holes, include motion vectors for soon in-coming pixels 
+- DLSS: Note DLSS use temporal motion vectors (between frames), rather spatial motion vectors, between screen coordinates (pixels)
+- A HI-RES UPSCALER could Combine SVG and Halton Sequence (noise generators) sampling for pixel choosing, with upscaling accomplished by performing avg pixel color decimation (ie expansion), to spread color details across a wider array of pixels (for perceived zoom)
+- PROJECT: perform CRC on files to find and remove duplicates 
+- PROJECT: rather than a synchronous while() event loop, allow threads to bitwise AND into a zmm-512 return register
+- PROJECT: Cast objects instead or rays! Rather than ray casting, perhaps extruding an emissive geometry (ie rendering planes where the light fallof is constant!)- into the environment until it overlaps an opposing geometry, deforming the emissive geometry as necessary, in order to build a basic reflection map offers better path tracing performance 
+- https : // www. willusher .io/graphics/2019/11/20/the-sbt-three-ways
+- PROJECT: A depth buffer could be created, for pixels sharing a common depth, to dispatch work to individual rendering threads
+- PROJECT: Perform pathtracing on 2D UVs, rather than 3D meshes. Begin with a formal feasibility proof, then another guaranteeing worst-case performance. Display onscreen tools to analyze UV correlation to 3D mesh, during path tracing 
+- Try a parameter-less, parameter passing, 0-arity programming model
+- Cache a pre-rendered 1-light/face x 6 face + 1-light/vertex x 8 vertices = 14 camera/light sources, for a scene box (perhaps for a distilled shadow map), then interpolate between them during realtime rendering for improved path tracing performance 
+- PROJECT: I instead of path tracing, only -- in include rasterization (Image flip-, bend-, translate-) for fast render effects; cache path tracing results to rasterization pipelines 
+- Simplify Unreal Engine design (via A.I.), and let plugins alter- or add to- default functionality
+
+AAA Game Engine Framework
+
+UPrimmitivesClass
+Mesh
+Capsule 
+Audio
+Timeline
+Animation 
+Path Tracer
+GlobalIllumination
+SkySystem
+WeatherSystem
+CloudSmokeSystem
+FireFlamesSparkSystem
+FluidSim
+Terrain
+
+UObjectClass
+Actor
+Character 
+Pawn
+AIActor
+AICharacter
+AIPawn
+
+UControllerClass
+InputController
+
+UGameManagerClass
+Update
+HUD
+
+UCameraClass
+Render
+GimbalSystem
+CraneSystem
+
+
+Workflow
+Adobe Premiere Pro ( Animation; Editing; Speech-to-Text; MP4 > PNG Series ) 20.00/mo.
+Adobe Lightroom ( Photogrammetry Image[s] Post Processing ) 20.00/mo
+Adobe Substance Designer ( Sprite textures for Niagra ) 3D 20.00/mo
+Adobe After Effect ( Film SFX, Film image Processing ) 20.00/mo
+Davinci Resolve ( Post Production: Effects; Color Correction ) 299.99
+Blender ( VFX, Animation, Rigging, UVs )
+Gaea ( Terrain Detail )
+Houdini ( VFX ) > $6K
+UE5 ( Volumetrics, Environments, Assets )
+Nuke Unreal Reader [UE5 Addon] ( Post Production, Color Grading )
+Otoy Octane Render (GPU-based Renderer) USB 49.99
+Microsoft Project Acoustics for UE 5 ( Sound Complex Reverb baking Plugin ) Free
+CUBASE PRO ( DAW, Digital Sampler & Arranger ) 579.99
+Fluid Flux [Unreal Engine Marketplace] (Water flow SIM ) 349.99
+Reality Capture ( Photogrammetry Modeling ) ~$0.50 per composite image
+iClone 8 ( Single [ Animation (Motion Director) + Mesh Refactoring ] Retargeting & Export ) 599.99; w/ Character Creator 4 (bundle) + UE5 plugin 699.99
+Character Creator 4 ( Bulk Animation Export & Retargeting ) + UE5 plugin 299.99m
+Quixel Mixer ( Textures )
+Quixel Bridge ( Megascans )
+Livelink iPhone App for Unreal Engine ( Live Face Capture )
+XP PEN | ARTIST PRO 16TP 899.99 | HUION 24" 4K QLED - Freehand drawing 1299.99
+AUTODESK REVIT - Architecture Engineering & Construction AEC Building Information Modeling BIM Computer Aided Drafting CAD Tool 335.99/mo
+Blackmagic URSA Mini Pro 12K - 12K video capture 5999.99
+xSens MVN Animate Pro (MOCAP) 2999.99
+
+Plugins [Free]
+Quixel Bridge
+Quixel Mixer
+Project Acoustics for Unreal Engine
+Flat nodes
+Instant Terra Plugin
+Twinmotion Content for Unreal Engine
+Easy Ballistics Plugin
+Super Map Scene
+Sprite Generator
+Blueprints CSV Parsing
+Runtime Audio Importer
+Datasmith Twinmotion Importer
+Ninja Character Plugin
+FNG Fast Noise Generator 
+Auto Size Comments
+Unreal.js
+Substance 3D for Unreal Engine
+C++ Module Generator
+
+Plugins
+Matchmaking 399.99
+Ascent Combat Framework 349.99
+GC FSM 29.99
+Oceanology (Water SIM) 159.99
+Video Player 360 69.99
+Foliage Plugin 49.99
+Root Motion Guide 34.99
+Noise Library 29.99
+Leaderboard Integration 24.99
+Google Speech Kit 24.99
+Blueprint Assist 19.99
+GIF Recorder 19.99
+Noise Plugin 19.99
+Progress Visualization (Progress Bars) 19.99
+SixDOF Movement 19.99
+Blueprint State Machines 19.99
+Pathfollow (Spline path) 19.99
+Node Cleaner 14.99
+Combat Components 14.99
+Electronic Nodes 12.99
+Auto Node Arranger 9.99
+Extra Sound Nodes 5.99
+BP Threads 4.99
+Artstation
+
+Space Pistol (Weapon)
+https://www.artstation.com/artwork/nEkz41
+
+
+Programming Languages 
+RUST play.rust-lang.org, gcc.godbolt.org
