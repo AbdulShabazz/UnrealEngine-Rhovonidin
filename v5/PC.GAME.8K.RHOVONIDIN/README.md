@@ -954,26 +954,26 @@ char - 1 Byte (8bit) ( 0, 255 ]
 ## Terrain Map ( 4 x 16 Tiles, where 1 Tile = 1 KM )
 
 ---------------------------------
-UUTA 333A WWWW WWWR
-TT1A GGGW WDWW SWR5
-UTAA A2AW WWWS SWR5
-UAA4 WDDD DWSS SSWR
+UUTA 333A WWWW WWWR  
+TT1A GGGW WDWW SWR5  
+UTAA A2AW WWWS SWR5  
+UAA4 WDDD DWSS SSWR  
 ---------------------------------
 
-D-Desert
-A-Alpine Evergreen Forest
-F-Forest
-G-Grasslands
-R-Rain Forest
-S-Swamp
-T-Taiga
-U-Tundra
-W-Woods
-1 - The Walled Metropolis
-2 - The UltraDam
-3 - The North Shore
-4 - The Hidden Sheeran Command Center
-5 - Eastern Shore
+D-Desert  
+A-Alpine Evergreen Forest  
+F-Forest  
+G-Grasslands  
+R-Rain Forest  
+S-Swamp  
+T-Taiga  
+U-Tundra  
+W-Woods  
+1 - The Walled Metropolis  
+2 - The UltraDam  
+3 - The North Shore  
+4 - The Hidden Sheeran Command Center  
+5 - The Eastern Shore  
 
 # SUPPORTING REFERENCE IMAGES
 
