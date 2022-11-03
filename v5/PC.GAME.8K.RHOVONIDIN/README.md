@@ -340,111 +340,8 @@ otherwise, he must duck dodge or block; fully automatic barrages are much too de
 - [ ] VISUAL REFERENCE: TOMB RAIDER / Hitman 3 (Highest Quality Settings )
 - [ ] The Daeadelis is an advanced A.I. defense developed by Dr Meade to guard the vast Shard perimeter 
 
-
-## UES Assets & Environments
-- [ ] Trees Vol 4 159.99
-- [ ] Spectrum Galaxy 169.99
-- [ ] Mountain Forest and Meadows 179.99
-- [ ] Sandstorm Environment 199.99
-- [ ] Mountain Redwood Forest Biome 209.99
-- [ ] MW Burned Trees Biome 209.99
-- [ ] Mw Birch Trees Biome 209.99
-- [ ] Mw Conifer Forest 209.99
-- [ ] Mw Broadleaf Trees Forest Biome 209.99
-- [ ] Fantasy Dungeons 99.99
-- [ ] Beach Island 79.99
-- [ ] Beach and Coast Environment 74.99
-- [ ] SciFi. Modular Interior Environment 69.99
-- [ ] Modular Cliffs 69.99
-- [ ] Modular SciPi: Engineer Hallways Vol 2 59.99
-- [ ] Snowy Mountain Landscape 59.99
-- [ ] Science Lab 59.99
-- [ ] Medieval Dungeon Modular Environment 49.99
-- [ ] Modular SciFi Polaris Defense 49.99
-- [ | Modular Scifi Office 49.99
-- [ ] The Church 44.99
-- [ ] King Arthur Castle Interior 69.99
-- [ ] Ion Modular Asset (Bedroom) 49.99
-- [ ] Modular Fantasy Inn 49.99
-- [ ] Manager Office Classic Style 44.99
-- [ ] Tropical Foliage and Landscape 44.99
-- [ ] SciFi Modular Environment 39.99
-- [ ] Minimalist Modular SciFi Interior 39.99
-- [ | Cave Environment Modular 39.99
-- [ ] Modular Brutalist Pack 39.99
-- [ ] Cyberpunk Toilet Environment 39.99
-- [ ] Matte Painting Skybox Bundle II 39.99
-- [ ] Brushify Tropical Pack 39.99
-- [ ] Brushify Arctic Pack 39.99
-- [ ] Brushify Canyons Pack 39.99
-- [ ] Brushify Cliffs Pack 39.99
-- [ ] Brushify Forest Pack 39,99
-- [ ] Earth Simulator 39,99
-- [ ] Palms Pack 02 34.99
-- [ ] Brushify - Beach Pack 34.99
-- [ ] Rocky Desert 34.99
-- [ ] Leaf Tree Forest Biome 34.99
-- [ ] Interactive Autopsy Room 34.99
-- [ ] Underground Ossuary 34.99
-- [ ] Arctic Aurora Landscape 29.99
-- [ ] Log Cabin 29.99
-- [ ] Old Catacombs $9.99
-- [ ] Ocean Floor Environment 29.99
-- [ ] Statues Pack 24.99
-- [ ] Modular Underpass 24.99
-- [ ] Northern Forest 24.99
-- [ ] Church 29.99
-- [ ] 8K valley landscape 19.99
-- [ ] Echoing Malls 19.99
-- [ ] Caverns and Caves 19.99
-- [ ] warehouse Photoscans 19.99
-- [ ] 8K Volcano Pack 19.99
-- [ ] 8K Island Landscape Pack 19.99 
-- [ ] 8K Arctic Landscape 19.99 
-- [ ] Ancient Temple Modular Asset Kit 19.99 
-- [ ] Modular Scifi Colony Environment 19.99 
-- [ ] Brushify Dunes Pack 19.99
-- [ ] White Rocks 19.99
-- [ ] Brushify Desert Mountains Pack 19.99
-- [ ] Brushify Grasslands Pack 19.99
-- [ ] Brushify Mountain Pack 19.99
-- [ | Shooting Range 19.99
-- [ ] Architecture Pack 8K PBR 14.99
-- [ ] Modular Under Room 14.99
-- [ ] Matte Painting Skybox Pack (1-8) x 14.99
-- [ ] Modular Ruins C 14.99
-- [ ] Arctic Landscape 14.99
-- [ ] Cemetery Pack 14.99
-- [ ] Modular Scifi Environment C 14.99
-- [ ] Restroom 14.99
-- [ ] Scifi Interior Space Corridor 13.99
-- [ ] Swiss Grassfield Environment 13.99
-- [ ] Statues Set 01 13.99
-- [ ] Modular Exhibition Gallery 9,99 
-- [ ] Fantasy Forest 9,99 
-- [ ] Elite Landscapes x 9.99 
-- [ ] Ancient Ruins 9.99
-- [ ] Modular Scifi Interior 9.99
-- [ ] wind Turbines 9,99
-- [ ] Reef Kit 9.99
-- [ ] Root Cellar 9.99
-- [ ] Desert Oasis 9.99
-- [ ] Grass & Greens Pack 11.99
-- [ ] Open land grass 9.99
-- [ ] Modular Ruins # 9.99
-- [ ] Modular scifi environment x 9.99
-- [ ] Ruined Temple 9.99
-- [ ] Stylized scifi environment [freescanned] 9.99
-
-- [ ] ShoreCaves 9.99
-- [ | China Three Gorges 9.99
-- [ ] Winter Forest Set 4.99
-- [ ] Photo Ground Foliage 4.99
-- [ ]Forest Trunk Photo Scanned 4.99
-- [ ] Forest Glade Set 4.99
-- [ ] Forest Gnoll Set 4.99
 ## Music
-- [ Soundtrack Dubstep Rock Electronic None ] - Volume
+- [ ] Soundtrack Dubstep Rock Electronic None ] - Volume
 - [ ] Save Individual timbres, for easier in-game orchestration 
 - [ ] Use a state-machine to monitor the thematics & mood of gameplay
 ## Console Effective Storage
@@ -768,8 +665,6 @@ SHINOBA (Agrippa's Chief of Security)
 - [ ] Element (Metropolis Wall | Tree | Mountain) Smash &amp; Quake (IK) 
 - [ ] Swat it (LP) 
 - [ ] Foot stomp (LP)
-- []
-
 - [ ] Ground Zero Lightning Storm (Mass Energy Drain) (HP2)
 - [ ] Heavy Lightning (Energy Drain) (MP2)
 - [ ] Medium Lightning (Energy Drain) (MP)
@@ -820,7 +715,6 @@ Bearing armor-piercing projectiles the size of spears
 - [ ] Crystal Silica - A crystalline sandstone, having excellent heat rejection properties, and poor light absorption characteristics. Its crystalline substructure aligns, forming a clear planar substrate, under intense 1200 degree F temperatures
 - [ ] Taiga Stone - A hard granite or marble composite, resilient to high temperatures
 - [ ] white Cedar - A durable dark colored cellulose fiber, having high lateral strength and excellent load-bearing capability 
-
 - [ ] White Pine - A durable light colored cellulose fiber, having high lateral strength and excellent load-bearing capability
 - [ ] Stone Kiln - Constructed from 120 Taiga stones, a fire oven capable of high temperatures of 1208 degrees F for curing Pine or Cedar, or melting silica sand into glass
 - [ ] white Cedar Log home plans - Plans to construct a two-story log home out of Kiln dried white
@@ -882,8 +776,7 @@ She trusts Lance, and knows, deep down that lance is a good man who will do the 
 ### Dr. Meade
  [ ] Gothic Choir, Tenor Bass
 ### Hennethaco
-- [ ] Cello, Pizz. Strings,
-Brass
+- [ ] Cello, Pizz. Strings, Brass
 en 
 
 Fight Chants
@@ -943,7 +836,7 @@ Fight Chants
 - [ ] Surround him
 - [ ] Don't let him get away!
 - [ ] Don't let him surround us !
-- ( I RAH !
+- [ ] RAH !
 - [ ] where do you think you're going, vagrant 
 - [ ] He's not trained 
 ## (Unlockable) Battle Motifs
@@ -953,7 +846,6 @@ Fight Chants
 - [ ] The Two Archers 
 - [ ] The Six Archers
 - [ ] The Twelve Archers
-
 - [ ] The Four Remnant
 - [ ] The Twelve Remnant 
 - [ ] The Sixteen Remnant
@@ -991,7 +883,6 @@ The Final Arena
 - [ ] Supporting Actor's are brought back to support Rhovonidin
 - [ ] Construct an obstacle course to verify character agility 
 - [ ] Remote Viewers analyze behavior to build digital profiles for use as potential military targets
-
 - [ ] Dr. Meade's time & space computational weapon invokes The Dulles Effect on its victims, entrancing them into selecting decision pathways whose outcome is known
 - [ ] Maps show all collectibles, power-ups, new weapons, and abilities
 - [ ] gain fame and power in hopes of achieving the rank of Federation Chancellor
@@ -1050,15 +941,39 @@ respectively
 Notes
 Each sparse well-timed button-press triggers a battle sequence; spamming buttons is ineffective. No hints or meters are shown. Instinct is properly developed.
 ## C++ Data Types
-int - 4Byte (32bit) [ -2_147_483_648, 2_147_483_647 ] 
-unsigned int - 4Byte (32bit) [ 0, 4_294_967_295 ] 
-float - 4Byte (32bit) [ 3.4-38, 3.4E38 ] 
-double - 8Byte (64bit) [ ].7E-308, 1.7E+308 ] 
-long double - [ ]0Byte (80bit) [ ].7E-4932, 1.7E+4932 ] 
-char - [ ]Byte (8bit) ( 0, 255 ]
+int - 4 Byte (32bit) [ -2_147_483_648, 2_147_483_647 ] 
+unsigned int - 4 Byte (32bit) [ 0, 4_294_967_295 ] 
+float - 4 Byte (32bit) [ 3.4-38, 3.4E38 ] 
+double - 8 Byte (64bit) [ 1.7E-308, 1.7E+308 ] 
+long double - 10 Byte (80bit) [ 1.7E-4932, 1.7E+4932 ] 
+char - 1 Byte (8bit) ( 0, 255 ]
 
 ## Retail 
 17.99 USD
+
+## Terrain Map ( 4 x 16 Tiles, where 1 Tile = 1 KM )
+
+---------------------------------
+UUTA 333A WWWW WWWR
+TT1A GGGW WDWW SWR5
+UTAA A2AW WWWS SWR5
+UAA4 WDDD DWSS SSWR
+---------------------------------
+
+D-Desert
+A-Alpine Evergreen Forest
+F-Forest
+G-Grasslands
+R-Rain Forest
+S-Swamp
+T-Taiga
+U-Tundra
+W-Woods
+1 - The Walled Metropolis
+2 - The UltraDam
+3 - The North Shore
+4 - The Hidden Sheeran Command Center
+5 - Eastern Shore
 
 # SUPPORTING REFERENCE IMAGES
 
