@@ -317,7 +317,7 @@ otherwise, he must duck dodge or block; fully automatic barrages are much too de
 - [ ] CONCEPT ART: Use fractal pattern generators to produce incredibly detailed renders for objects
 - [ ] Design 3D 72-face cube (hit grid) for player combat system
 - [ ] Implement multiple (disabled/alternating) hit capsules, enabled based on current technique and likely actual contact distance
-- [ ] Index all youtube transcripts for searching
+- [ ] Index youtube transcripts for (offline) searching
 - [ ] The Ibra-Lim connects to Bar-Hades, whom orchestrates actions on the battle field
 - [ ] GoPro Camera w/ special software for Motion Capture substitutes $$S MOCAP suits
 - [ ] Music Cues: Game load, Boss Battles, Nub where player recharges/rests
@@ -332,13 +332,20 @@ otherwise, he must duck dodge or block; fully automatic barrages are much too de
 - [ ] Fight grids are sampled to derive movement patterns and optimal battle strategies
 - [ ] Publish plugins after game completion to locate most bugs
 - [ ] Design a plugin that allows code design similar to Niagara workflow with separate modules for each cpu core
-- [ ] Add micro lanes to UES to lane group wires into a bus- [ ] Modify blueprints so that only control wires are visible which connect to pins, with other input parameters and unique visible pin numbers hidden until the module is clicked or altogether integrated into the respective modules
+- [ ] Add micro lanes to UE5 to lane group wires into a bus
+- [ ] Modify blueprints so that only control wires are visible which connect to pins, with other input parameters and unique visible pin numbers hidden until the module is clicked or altogether integrated into the respective modules
 - [ ] Show Character animations in sections based on IK to display more realistic muscle contraction extension deformation and flex
 - [ ] Xi button : Reaction | Pre-emption button
 - [ ] Sheeran commands 10K generals 
+- [ ] Sheeran en-masks his face and voice before- and after- when in Lance's presence  
 - [ ] Sheeran has nanotech skin up to his extremities which function as dark armor
 - [ ] VISUAL REFERENCE: TOMB RAIDER / Hitman 3 (Highest Quality Settings )
 - [ ] The Daeadelis is an advanced A.I. defense developed by Dr Meade to guard the vast Shard perimeter 
+- [ ] In-game munitions are rare  
+- [ ] Model Actors in ZBrush 895.99 static license or 39.99/mo; Maxon One (Suite) 149.99/mo or 1199.99/yr   
+- [ ] Model 3D objects and interiors in AutoDesk Revit 335.99/mo  
+- [ ] In the final stage, Lance must evade numerous 1-hit kills from multiple, skilled opponents  
+- [ ] XSLT schemas can enforce semantic and or syntax and or lexical code coherence, thereby improving security  
 
 ## Music
 - [ ] Soundtrack Dubstep Rock Electronic None ] - Volume
@@ -351,15 +358,15 @@ xBox Series S 364 GB
 ## PC Gameplay
 - [ spacebar ( + Hold ) ] - Action button [ attack; defend; fast/focus; progressive damage; well-timed brutality/stun; counter-offense/multi NPC damage ] (A.I, governed)
 W / A / S / D - Directional Keys
-0 / E - Player / Camera (-/+) (Translate Z - Axis)
+Q / E - Player / Camera (-/+) (Translate Z - Axis)
 Arrow Keys], Mouse, Trackpad - Camera | (Re)Target
 CTL Key - Reverse Camera /( Quick View ) Reverse Camera
 CTL + LMB - Invalidate / Retarget
 ## Game Controller ( Gameplay )
 R1 - Directional
 R3 - Camera | Target
-# ﻿﻿Action button
-# ﻿﻿Invalidate / Retarget
+# Action button
+# Invalidate / Retarget
 # HUD & Meters
 Psi(si) - Health (100)
 Combat Awareness (Threat) Meter 
