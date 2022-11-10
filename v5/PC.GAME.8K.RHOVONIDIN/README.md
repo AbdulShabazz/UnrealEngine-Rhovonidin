@@ -346,6 +346,11 @@ otherwise, he must duck dodge or block; fully automatic barrages are much too de
 - [ ] Model 3D objects and interiors in AutoDesk Revit 335.99/mo  
 - [ ] In the final stage, Lance must evade numerous 1-hit kills from multiple, skilled opponents  
 - [ ] XSLT schemas can enforce semantic and or syntax and or lexical code coherence, thereby improving security  
+- [ ] Sheeran is a soldier forced to be a politician
+- [ ] Agrippa is a politician forced to be a soldier  
+- [ ] Use Sheeran and Agrippa's military background as a backdrop to further examine PTSD, the survival-mode mentality, and survival-culture
+- [ ] Theorem Prover s/b Rules-based object placement
+- [ ] Allow unlimited health potions as well as idle areas and idle zones for Lance to recover
 
 ## Music
 - [ ] Soundtrack Dubstep Rock Electronic None ] - Volume
