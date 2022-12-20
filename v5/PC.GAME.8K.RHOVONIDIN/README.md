@@ -351,6 +351,13 @@ otherwise, he must duck dodge or block; fully automatic barrages are much too de
 - [ ] Use Sheeran and Agrippa's military background as a backdrop to further examine PTSD, the survival-mode mentality, and survival-culture
 - [ ] Theorem Prover s/b Rules-based object placement
 - [ ] Allow unlimited health potions as well as idle areas and idle zones for Lance to recover
+- [ ] Sheeran's music theme is bass drums mimicking the sound of a whoof helicopter rotor; Agrippa's music theme stems from the synth bass drum
+- [ ] If an NPC is a member of Lance's battle group, Lance will need a valid list of movesets for use against the NPC; an efficient method is to assign movesets to globally unique primes and assign Lance and the NPCs to that group, instead assigning Lance and the NPC to the same group and then iterating over valid movesets 
+- [ ] .SVG contours (caching) may aid in raytrace performance 
+- [ ] EXPERIMENTAL: Cache UV maps as .SVG files and raytrace against them to discard meshes
+- [ ] RESEARCH: Bar-Hades as a Nanite (machine) dragon 
+- [ ] Convert UE to a voice command-, text description- only UI (UE Mic > Speech2Text > ChatGPT > JSON > UE Python > UE UI) 
+- [ ] The Regolith Gorgon is a multi limbed, multi legged Shard ground combat predator with armored limb guards, spiked limbs and the ability to return arrows and stones at the speed of sound. 
 
 ## Music
 - [ ] Soundtrack Dubstep Rock Electronic None ] - Volume
