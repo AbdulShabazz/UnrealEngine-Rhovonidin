@@ -898,7 +898,7 @@ The Final Arena
 - [ ] Games are replayable based on the moment-to-moment actions that the player enjoys.
 - [ ] Add double-dash custom settings for far map traversal.
 - [ ] Build an API driven IDE SDK which instantiates necessary classes, properties, library imports, parameter list completions, and function calls as standard overhead.
-- [ ] Use Perlin Noise to generate Meight/Displacement/Bump Maps that can be inspected before approval, instead of random level generation ( le No State of Gameplay Should Ever be Unknown to The Developer ) 
+- [ ] Use Perlin Noise to generate Height/Displacement/Bump Maps that can be inspected before approval, instead of random level generation ( le No State of Gameplay Should Ever be Unknown to The Developer ) 
 - [ ] Supporting Actor's are brought back to support Rhovonidin
 - [ ] Construct an obstacle course to verify character agility 
 - [ ] Remote Viewers analyze behavior to build digital profiles for use as potential military targets
