@@ -57,8 +57,10 @@ Spanish
 - [ ] Allow swap unencumbered crossed wires
 - [ ] Disable bright colored wires [ Engine > Source > Editor Graph Editor > Private > ConnectionDrawingPolicy.cpp:512 ]
 
-## Notes
-
+## Notes  
+- [ ] GIGA Corps sponsors Federation apparel  
+- [ ] Electrical Energy from the UltraDam is stored in underground mines and mineshafts in a roller-coaster elevator network system of ore-filled cauldrons capable of running for 72h  
+- [ ] Lt Sheeran has Darth Vader-like abilities  
 - [ ] Import cast (characters) cast into unreal
 - [ ] If Lance mis times an initial attack but the follow up is timed perfectly, his character recovers his initiative (eg weapon drop which damages opponent onlyvto be recovered to inflict further damage) to inflict deep the damage
 - [ ] Pressing the Xi button near enemies gives Rhovonidin preemptive abilities
