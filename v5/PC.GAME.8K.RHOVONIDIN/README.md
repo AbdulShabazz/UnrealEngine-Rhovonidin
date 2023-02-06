@@ -577,7 +577,6 @@ Note: Fully executed Is are lethal at any moment, during combat
 - [ ] Qulck Forearm Disarm Ground-And-Pound Beatdown (MP)
 - [ ] The One True Sherlock (MP)
 - [ ] Mince (MP)
-
 - [ ] Minced (LP2)
 - [ ] Minstrel (Targeted) (LP2)
 - [ ] J Short-Dash (Stun) (LP2)
@@ -768,7 +767,10 @@ She trusts Lance, and knows, deep down that lance is a good man who will do the 
 - [ ] Katanas -
 - [ ] Long Bow -
 - [ ] Quick Bow -
-- [ ] Chains of Rah -
+- [ ] Double-sided bow -  
+- [ ] Five-sided Phantom bow - Five Rhovonidin dopple-gangers draw on their targets   
+- [ ] Double bow (lethality)
+- [ ] Chains of Amuhn-Rah -
 - [ ] Shuriken / Throwing Stars -
 - [ ] Smoke Pellet
 - [ ] Fire Bomb
