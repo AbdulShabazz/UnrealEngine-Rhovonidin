@@ -58,6 +58,9 @@ Spanish
 - [ ] Disable bright colored wires [ Engine > Source > Editor Graph Editor > Private > ConnectionDrawingPolicy.cpp:512 ]
 
 ## Notes  
+- [ ] Agrippa can hurl his cave-axe to cause cave-ins as he pins Lance to the regolith  
+- [ ] The Dreadded are sentinel swarms that act cooperatively to find and target Lance  
+- [ ] Include (Omniscient) Replay to allow the player to witness how the real events unfolded  
 - [ ] GIGA Corps sponsors Federation apparel  
 - [ ] Electrical Energy from the UltraDam is stored in underground mines and mineshafts in a roller-coaster elevator network system of ore-filled cauldrons capable of running for 72h  
 - [ ] Lt Sheeran has Darth Vader-like abilities  
