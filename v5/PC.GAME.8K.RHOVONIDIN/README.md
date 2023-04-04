@@ -288,7 +288,7 @@ otherwise, he must duck dodge or block; fully automatic barrages are much too de
 - [ ] Distill a VFX reference library, separate from your current project
 - [ ] The game uses a mission-driven system along with (side) quests, to level-up player abilities
 - [ ] IwU (Include What You Use) helps reduce compile-time of UE projects in Visual Studio
-- [ | Use C+ Modules Instead of C++ Header files for faster compilation times
+- [ ] Use C+ Modules Instead of C++ Header files for faster compilation times
 - [ ] Use C+ smart pointers for automatic garbage collection (drawbacks: Performance, thread safety)
 - [ ] Build Plugins which allow us to design, build, and debug the game, in-editor
 - [ ] Attach multiple cameras to the player, which can be toggled ON ad OFF, and animated during combat sequences
@@ -318,7 +318,7 @@ otherwise, he must duck dodge or block; fully automatic barrages are much too de
 - [ ] UES: Spawning Actors (eg Bullets) in-game, is CPU/GPU expensive
 - [ ] UES: Use namesh invokers rather than large (static) nameshes (performance)
 - [ ] snake_case (flat_case) vs CamelCase naming conventions
-- [ ) For BOSS, follow a TICK node with a GATE node, to allow ticks to pass through, to improve performance
+- [ ] For BOSS, follow a TICK node with a GATE node, to allow ticks to pass through, to improve performance
 - [ ] CONCEPT ART: Use fractal pattern generators to produce incredibly detailed renders for objects
 - [ ] Design 3D 72-face cube (hit grid) for player combat system
 - [ ] Implement multiple (disabled/alternating) hit capsules, enabled based on current technique and likely actual contact distance
@@ -330,7 +330,7 @@ otherwise, he must duck dodge or block; fully automatic barrages are much too de
 - [ ] Decals are more render efficient than static meshes (A character composed of multiple decals??)
 - [ ] Lance can summon any inventoried weapon instantly with the previous weapon vanishing
 - [ ] resolution: [ 60 120 165 240 360 488 ] hz
-- [ | Keep a dally log of edits to track down bugs
+- [ ] Keep a dally log of edits to track down bugs
 - [ ] An NPC catches fire when receiving too many consecutive hits
 - [ ] Lance can struggle with NPCs and or hurl them into oncoming obstacles
 - [ ] Assuming a 5 × 5 x 3 3D fight grid, Lance can defend against 75-1 opponents;
@@ -373,7 +373,7 @@ PSS - 667 GB
 XBOX Series X 802 GB
 xBox Series S 364 GB
 ## PC Gameplay
-- [ spacebar ( + Hold ) ] - Action button [ attack; defend; fast/focus; progressive damage; well-timed brutality/stun; counter-offense/multi NPC damage ] (A.I, governed)
+- ( spacebar ( + Hold ) ) - Action button ( attack; defend; fast/focus; progressive damage; well-timed brutality/stun; counter-offense/multi NPC damage ) (A.I, governed)
 W / A / S / D - Directional Keys
 Q / E - Player / Camera (-/+) (Translate Z - Axis)
 Arrow Keys], Mouse, Trackpad - Camera | (Re)Target
@@ -392,7 +392,7 @@ cimg src= IMG/HEALTH.METER. COMBAT. ENABLED. png› ‹img src=IMG/HEALTH. METER
 Health
 Weapons { ... }
 Melee ( Roll_7, Pitch_X, Yaw_Y, VelocityVec3, AccelerationVec3 )
-MeleeRecipient [ char800, .. ]
+MeleeRecipient ( char800, .. )
 AccelerationVec3 8t; 1 j k &gt;
 VelocityVec3 &lt; - [ ] k &gt;
 DistanceVec3 &It; 1 j k &gt;
@@ -405,8 +405,8 @@ Wardrobes { .. )
 - [ ] Controller
 - [ ] Invert Y axis
 - [ ] Keyboard & Mouse
-- [ ] HUD [on/offi
-- [ ]Video &amp; Resolution
+- [ ] HUD (on/off)
+- [ ] Video &amp; Resolution
 - [ ] video Adapter ( CPU | Available GPU Card[s] )
 - [ ] Display Resolution [ ]080, 1440, 3840, 4096, 8192 ]
 - [ ] Aspect Ratio [4:3,16:9,16:10]
@@ -538,15 +538,15 @@ The damage levels are derived by the BOSS, according to the *skill* level that L
 his location on an opponent's player grid on the map; the current environment map; his weapons and equipment)
 Once a *Challenge* is generated via distance criteria, the BOSS initializes a new SM, in the BP_Battle_SEQ- [ ], to process Responses for that group
 Once another player enters the group, the BOSS adds the player to the SM, in the BP _Battle_SEQ- [ ], to process Responses for him in the group
-A *Challenge* also is made evident to Lance because the player bodice will briefly *Shimmer*
-If Lance outranks the Challenger, Lance can allow the AI to process the response; however, when the rankings are reversed - -
+A *Challenge* also is made evident to Lance because the player bodice will briefly *Shimmer* 
+If Lance outranks the Challenger, Lance can allow the AI to process the response; however, when the rankings are reversed --
 Lance will nned to intercede, for an attempt to generate a proper response, while also affording him the opportunity to increase ranking.
 Poorly, timed responses will not adversely effect ranking, however it does theoretically allow the Responder to accept higher levels of damage
 All rankings are managed internally and are not available for inspection to the player. However the player will receive visible indicators,
 such as lesser levels of damage inflicted, while greater levels of damage is taken, along with either player displaying a better stance or superior technique
 A state-machine is used, rather than a message queue so the queue cannot be spammed. In the queue, if a new sequence's current frame has a time code less or equal to the current tick, the new sequence is allowed to be swapped in and the animation frame pointer is reset; otherwise, the next frame in the current sequence is displayed.
-- [References] Human Reaction Times - HumanBenchmark.com
-- [References] Compiler Explorer - godbolt.org (compilation analysis)
+- (References) - Human Reaction Times - HumanBenchmark.com
+- (References) Compiler Explorer - godbolt.org (compilation analysis)
 ## The MSG Packet Instruction word
 The BOSS uses MSG packets to coordinate and or initialize SMs in the BP_Battle_SEQ- [ ]
 Each MSG packet is a static-width packet, composed of an *Instruction Word*, which transmits the group ( G ) Lance belongs, and his player index (N)
@@ -941,7 +941,7 @@ The Final Arena
 - [ 7 ] given: toggle|true|false - - which implementation produces the lowest chance of semantic error.
 
 ### Render Performance Tips
-- [ 8 1 - Flatten multiple textures Into a single image texture, resulting in a single draw 
+- [ 8 ] - Flatten multiple textures Into a single image texture, resulting in a single draw 
 - [ 9 ] - Break animation sequences into modular animation sequences [ ]ump, Crawl, Wink, etc.) for easier bake into keyframe animation sequence . Or use batched draw calls (UES), or Merge Actors . Or use Character AI and the screen recorder (in blender)
 - [ 10 ]  eventPossessed is more responsive than beginPlay for multiple 
 - [ 11 ] - Python macros 
