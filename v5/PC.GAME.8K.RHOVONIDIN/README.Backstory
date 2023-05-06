@@ -58,6 +58,11 @@ Spanish
 - [ ] Disable bright colored wires [ Engine > Source > Editor Graph Editor > Private > ConnectionDrawingPolicy.cpp:512 ]
 
 ## Notes  
+- [ ] Context aware animations which factor-in player sentiment, locale, position, awareness team Al., for smoother and more cinematic interactions during action sequences involving NPCs and props.  
+- [ ] Render animations at the bone matrix level to train A.I. on correct positional vectors for rendering movement from any angle  
+- [ ] Arena-style platformer  
+- [ ] Add an attack silhouette to aid the player with timing their counter-attacks, and not resorting to button smashing.  
+- [ ] As Agrippa sheds his armor, during combat, he trades lethal 1-hit winning combos for speed. His most deadly combos occurring in the middle of his full armorment set.  
 - [ ] Agrippa can hurl his cave-axe to cause cave-ins as he pins Lance to the regolith  
 - [ ] The Dreadded are sentinel swarms that act cooperatively to find and target Lance  
 - [ ] Include (Omniscient) Replay to allow the player to witness how the real events unfolded  
