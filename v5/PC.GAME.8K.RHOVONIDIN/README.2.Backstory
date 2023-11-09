@@ -19,3 +19,4 @@
 - [ ] NOTE: Ship all game titles with toggle settings for Nanite, Virtual Shadow Maps, both LUMEN software + hardware functionality, Bounce hit lighting, RTXDI, and full PathTracing support
 - [ ] Fully regenerate Lance's HP before a boss confrontation
 - [ ] Keep HP and other meters transparent when not in use
+- [ ] NOTE: Update the allotted graphics memory quota when toggling game settings
