@@ -21,3 +21,4 @@
 - [ ] Keep HP and other meters transparent when not in use
 - [ ] NOTE: Update the allotted graphics memory quota when toggling game settings
 - [ ] Use the grey-boxing stage to plan out a level design before introducing gpu heavy objects and assets
+- [ ] For NPCs with aiming capabilities display rays (originating) to animate likely behaviors during gameplay
