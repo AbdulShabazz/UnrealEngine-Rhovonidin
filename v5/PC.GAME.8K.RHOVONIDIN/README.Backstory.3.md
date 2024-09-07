@@ -1,0 +1,2 @@
+- [ ] The temperate biomes undergo seasonal changes.
+- [ ] Lt. Sheeran wields electricity which grows in intensity, freneticism, and inflicted damage, with prolongued exposure.
