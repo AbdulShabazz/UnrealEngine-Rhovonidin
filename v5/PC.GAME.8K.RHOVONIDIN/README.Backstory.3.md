@@ -1,2 +1,4 @@
 - [ ] The temperate biomes undergo seasonal changes.
 - [ ] Lt. Sheeran wields electricity which grows in intensity, freneticism, and inflicted damage, with prolongued exposure.
+- [ ] All (player) attacks consumes HP; successful combinations + idle rest, restore HP
+- [ ] Dialogue interaction cards are stored for the player to revisit
