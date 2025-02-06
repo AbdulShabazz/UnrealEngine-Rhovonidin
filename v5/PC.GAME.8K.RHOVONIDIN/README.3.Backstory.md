@@ -7,6 +7,7 @@
 - [ ] Lt. Sheeran's Kinetic Rage electricity moveset releases a short range EMP which disables nearby Rebel war tech.
 - [ ] When (Lance) armed with the bow & arrow, he cannot block, only adeptly dodge (e.g., roll), or parry.
 - [ ] Use the Unreal Engine Take Recorder to cache blend-space animations as animation montages which support anim-notifies and other gameplay tags.
+- [ ] During gameplay, the player camera culls occluding, non-perimeter-bounding structures which hinder the user's ability to control Lance.
 
 ## Notes
 
