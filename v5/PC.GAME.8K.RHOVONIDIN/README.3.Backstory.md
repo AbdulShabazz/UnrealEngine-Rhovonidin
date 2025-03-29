@@ -9,6 +9,7 @@
 - [ ] Use the Unreal Engine Take Recorder to cache blend-space animations as animation montages which support anim-notifies and other gameplay tags.
 - [ ] During gameplay, the player camera culls occluding, non-perimeter-bounding structures which hinder the user's ability to control Lance.
 - [ ] Use AI to make the Situational Combat (SC) between Lance and NPCs more smooth and elegant
+- [ ] Rather than employ Gameplay Diffficulty selection screens, integrate the difficulty into the choice or absence of armor and or weapons the player chooses from their inventory (e.g,. EMPs and bunker busters which deploy widespread damage yet draw heavy swarms of enemies; and the choice of battling naked, wearing body oils, or going with no armor, which increases speed but also damage taken as well as lowers stealth)
 
 ## Notes
 
