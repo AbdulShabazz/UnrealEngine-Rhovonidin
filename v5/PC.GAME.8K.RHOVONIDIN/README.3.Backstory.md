@@ -1,5 +1,5 @@
 - [ ] The temperate biomes undergo seasonal changes.
-- [ ] Lt. Sheeran wields electricity which grows in intensity, freneticism, and inflicted damage, with prolongued exposure.
+- [ ] Lt. Sheeran wields electricity which grows in intensity, freneticism, and inflicted damage, with prolongued use and success.
 - [ ] All (player) attacks consumes HP; successful combinations + idle rest, restore HP
 - [ ] Dialogue interaction cards are stored for the player to revisit
 - [ ] Use Boss Battle Ring Teleports (i.e., floor decals) for better separation of levels and easier debugging.
@@ -10,7 +10,7 @@
 - [ ] During gameplay, the player camera culls occluding, non-perimeter-bounding structures which hinder the user's ability to control Lance.
 - [ ] Use AI to make the Situational Combat (SC) between Lance and NPCs more smooth and elegant
 - [ ] Rather than employ Gameplay Diffficulty selection screens, integrate the difficulty into the choice or absence of armor and or weapons the player chooses from their inventory (e.g,. EMPs and bunker busters which deploy widespread damage yet draw heavy swarms of enemies; and the choice of battling naked, wearing body oils, or going with no armor, which increases speed but also damage taken as well as lowers stealth)
-- [ ] Rather than arbitrary insignificant skirmishes in which Lance overpowers NPCs, make each engagement meaningful: Give NPCs significant HP, demonstrating strategy and skil for Lance to aspire to, and the ability to pursue Lance across the map, to build to a signinficant number iff not regularly dispatched.
+- [ ] Rather than arbitrary insignificant skirmishes in which Lance overpowers NPCs, make each engagement meaningful: Give NPCs significant HP, demonstrating strategy and skill for Lance to aspire to, and the ability to pursue Lance across the map, to build to a signinficant number iff not regularly dispatched.
 
 ## Notes
 
