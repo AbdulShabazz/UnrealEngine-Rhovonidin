@@ -6,7 +6,7 @@
 - [ ] Add a mic option to the screen recording option to support player livestreams and or walkthroughs.
 - [ ] Lt. Sheeran's Kinetic Rage electricity moveset releases a short range EMP which disables nearby Rebel war tech.
 - [ ] When (Lance) armed with the bow & arrow, he cannot block, only adeptly dodge (e.g., roll), or parry.
-- [ ] Use the Unreal Engine Take Recorder to cache blend-space animations as animation montages which support anim-notifies and other gameplay tags.
+- [ ] Use the Unreal Engine Take Recorder to cache blend-space animations as animation montages which support anim-notifies and other gameplay tags. Note: anim-notifies in tandem with gameplay tags can be used to construct exquisite (Elden-Ring quality) Hit Boxes.
 - [ ] During gameplay, the player camera culls occluding, non-perimeter-bounding structures which hinder the user's ability to control Lance.
 - [ ] Use AI to make the Situational Combat (SC) between Lance and NPCs more smooth and elegant
 - [ ] Rather than employ Gameplay Diffficulty selection screens, integrate the difficulty into the choice or absence of armor and or weapons the player chooses from their inventory (e.g,. EMPs and bunker busters which deploy widespread damage yet draw heavy swarms of enemies; and the choice of battling naked, wearing body oils, or going with no armor, which increases speed but also damage taken as well as lowers stealth)
