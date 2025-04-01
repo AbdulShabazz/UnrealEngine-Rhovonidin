@@ -11,6 +11,7 @@
 - [ ] Use AI to make the Situational Combat (SC) between Lance and NPCs more smooth and elegant
 - [ ] Rather than employ Gameplay Diffficulty selection screens, integrate the difficulty into the choice or absence of armor and or weapons the player chooses from their inventory (e.g,. EMPs and bunker busters which deploy widespread damage yet draw heavy swarms of enemies; and the choice of battling naked, wearing body oils, or going with no armor, which increases speed but also damage taken as well as lowers stealth)
 - [ ] Rather than arbitrary insignificant skirmishes in which Lance overpowers NPCs, make each engagement meaningful: Give NPCs significant HP, demonstrating strategy and skill for Lance to aspire to, and the ability to pursue Lance across the map, to build to a signinficant number iff not regularly dispatched.
+- [ ] Use A.I. to regulate optimal game progression and to determine where and when to provide much needed resources and or potion drops to Lance to promote forward progress and challenging gameplay while also to prevent glitches and or impassible areas in the game.
 
 ## Notes
 
