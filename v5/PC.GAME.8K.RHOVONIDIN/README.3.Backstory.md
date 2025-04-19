@@ -4,7 +4,7 @@
 - [ ] Dialogue interaction cards are stored for the player to revisit
 - [ ] Use Boss Battle Ring Teleports (i.e., floor decals) for better separation of levels and easier debugging.
 - [ ] Add a mic option to the screen recording option to support player livestreams and or walkthroughs.
-- [ ] Lt. Sheeran's Kinetic Rage electricity moveset releases a short range EMP which disables nearby Rebel war tech.
+- [ ] Lt. Sheeran's Kinetic Rage electricity moveset releases a short range EMP which disables nearby Rebel tech.
 - [ ] When (Lance) armed with the bow & arrow, he cannot block, only adeptly dodge (e.g., roll), or parry.
 - [ ] Use the Unreal Engine Take Recorder to cache blend-space animations as animation montages which support anim-notifies and other gameplay tags. Note: anim-notifies in tandem with gameplay tags can be used to construct exquisite (Elden-Ring quality) Hit Boxes.
 - [ ] During gameplay, the player camera culls occluding, non-perimeter-bounding structures which hinder the user's ability to control Lance.
