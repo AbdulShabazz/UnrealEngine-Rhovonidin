@@ -13,6 +13,7 @@
 - [ ] Rather than arbitrary insignificant skirmishes in which Lance overpowers NPCs, make each engagement meaningful: Give NPCs significant HP, demonstrating strategy and skill for Lance to aspire to, and the ability to pursue Lance across the map, to build to a signinficant number iff not regularly dispatched.
 - [ ] Use A.I. to regulate optimal game progression and to determine where and when to provide much needed resources and or potion drops to Lance to promote forward progress and challenging gameplay while also to prevent glitches and or impassible areas in the game.
 - [ ] Blocking consumes Stamina while ducking or dodging does not.
+- [ ] Employ ambience zones, queued with atmospheric music, action and lighting.
 
 ## Notes
 
