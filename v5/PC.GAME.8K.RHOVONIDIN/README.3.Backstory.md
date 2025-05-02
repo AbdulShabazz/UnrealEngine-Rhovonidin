@@ -14,6 +14,8 @@
 - [ ] Use A.I. to regulate optimal game progression and to determine where and when to provide much needed resources and or potion drops to promote forward progress and challenging gameplay while also to prevent glitches and or impassible areas in the game.
 - [ ] Blocking consumes Stamina while ducking or dodging does not.
 - [ ] Employ ambience zones, queued with atmospheric music, action and lighting.
+- [ ] Once Lance has been promoted sufficiently, he can teleport across the field of battle, assess the difficulty of adversaries and delegate what he believes is an approriate amount of war power and mind powerto vanquish a challenge or obstacle.
+
 
 ## Notes
 
