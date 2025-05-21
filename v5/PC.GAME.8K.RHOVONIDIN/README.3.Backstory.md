@@ -15,7 +15,8 @@
 - [ ] Blocking consumes Stamina while ducking or dodging does not.
 - [ ] Employ ambience zones, queued with atmospheric music, action and lighting.
 - [ ] Once Lance has been promoted sufficiently, he can teleport across the field of battle, assess the difficulty of adversaries and delegate what he believes is an approriate amount of war power and mind powerto vanquish a challenge or obstacle.
-
+- [ ] Lance's HP Meter increases as he collects excess hp.
+- [ ] Compose game audio and sfx from relaxing sounds so as not to prematurely induce fatigue.
 
 ## Notes
 
