@@ -17,6 +17,8 @@
 - [ ] Once Lance has been promoted sufficiently, he can teleport across the field of battle, assess the difficulty of adversaries and delegate what he believes is an approriate amount of war power and mind powerto vanquish a challenge or obstacle.
 - [ ] Lance's HP Meter increases as he collects excess hp.
 - [ ] Compose game audio and sfx from relaxing sounds so as not to prematurely induce fatigue.
+- [ ] Orient the third person camera as a breakaway first-person camera during up-close combat, to add an FPS feel to combat.
+
 
 ## Notes
 
