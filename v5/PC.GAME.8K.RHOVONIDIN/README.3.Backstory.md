@@ -20,6 +20,7 @@
 - [ ] Orient the third person camera as a breakaway first-person camera during up-close combat, to add an FPS feel to combat.
 - [ ] As an easier game setting, the game's **Combat Carousel** can be **swapped out for** a more basic **Tactic Carousel**, such that the player only needs to schedule, apply, and re-order context appropriate tactics, as they arise, during gameplay. Lance will automagically complete the tactics, in realtime.
 - [ ] Perhaps develop AI-assisted realtime in-game Audio Scene Description tools, for walkthroughs
+- [ ] Take a final screen capture of the environment to edit in Blender with add-in post processing effects to determine the perfect lighting and mood for the pre release game.
 
 
 ## Notes
